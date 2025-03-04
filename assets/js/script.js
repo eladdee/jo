@@ -1,6 +1,6 @@
 $(document).ready(function(){
     setTimeout(function(){
-      $("#PageSpinner").fadeOut("slow");
+      $("#PageSpinner").removeClass("Hide");
     }, 2000);
   });
   
