@@ -116,6 +116,12 @@
                   display: none;
                }
             </style>
+             <script>
+   function openLoginModal{
+      $(".LoginModal").toggleClass("dnone");
+   }
+  
+</script>
             <div class="ModalWindow LoginModal dnone">
    <div class="ModalOverlay"></div>
    <div class="ModalContent">

@@ -18,12 +18,7 @@
       <link rel="preload" href="/static/js/svg-2535506528c285ba0ba0.js" as="script">
       <script src="/assets/js/script.js"></script>
       <script src="https://code.jquery.com/jquery-3.7.1.min.js" crossorigin="anonymous"></script>
-      <script>
-   function openLoginModal{
-      $(".LoginModal").toggleClass("dnone");
-   }
-  
-</script>
+     
       <script>
          window.customBuildVars = {
            appName: 'jojobet-prod',
