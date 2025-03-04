@@ -1,3 +1,10 @@
+<style>
+    body.Page-Casino.Page-Sports,
+body.Page-Casino.Page-Sports .GameCategoriesWrapper,
+body.Page-Casino.Page-Sports .SectionContent {
+  background: #fff;
+}
+</style>
 <section class="SectionContent ">
    <div class="RegisterFormWrapper ">
       <div class="RegisterFormBanner">
@@ -241,7 +248,7 @@
                   </button>
                </form>
             </div>
-            
+
             <p class="TermsAndConditionsText">Kayıt ol butonuna basıldığında <a class="ComponentAnchor TermsAndConditionsLink ComponentAnchor Anchor Anchor" href="/tr/terms-conditions"><span class="AnchorText">Kurallar &amp; Şartlar</span></a> tarafınızdan kabul edilmiş sayılacaktır</p>
          </div>
       </div>
