@@ -117,7 +117,7 @@
                }
             </style>
              <script>
-   function openLoginModal{
+   function openLoginModal(){
       $(".LoginModal").toggleClass("dnone");
    }
   
