@@ -4,6 +4,75 @@ body.Page-Casino.Page-Sports .GameCategoriesWrapper,
 body.Page-Casino.Page-Sports .SectionContent {
   background: #fff;
 }
+.css-1pcexqc-container {
+    position: relative;
+    box-sizing: border-box;
+}
+.css-bg1rzq-control {
+    -webkit-box-align: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(204, 204, 204);
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: default;
+    display: flex
+;
+    flex-wrap: wrap;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    min-height: 38px;
+    position: relative;
+    transition: 100ms;
+    box-sizing: border-box;
+    outline: 0px !important;
+}
+.css-1hwfws3 {
+    -webkit-box-align: center;
+    align-items: center;
+    display: flex
+;
+    flex: 1 1 0%;
+    flex-wrap: wrap;
+    padding: 2px 8px;
+    position: relative;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+.css-1wy0on6 {
+    -webkit-box-align: center;
+    align-items: center;
+    align-self: stretch;
+    display: flex
+;
+    flex-shrink: 0;
+    box-sizing: border-box;
+}
+.css-bgvzuu-indicatorSeparator {
+    align-self: stretch;
+    background-color: rgb(204, 204, 204);
+    margin-bottom: 8px;
+    margin-top: 8px;
+    width: 1px;
+    box-sizing: border-box;
+}
+.css-16pqwjk-indicatorContainer {
+    color: rgb(204, 204, 204);
+    display: flex
+;
+    padding: 8px;
+    transition: color 150ms;
+    box-sizing: border-box;
+}
+.css-1g6gooi {
+    margin: 2px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    visibility: visible;
+    color: rgb(51, 51, 51);
+    box-sizing: border-box;
+}
 </style>
 <section class="SectionContent ">
    <div class="RegisterFormWrapper ">

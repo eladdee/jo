@@ -121,21 +121,42 @@
       $(".LoginModal").toggleClass("dnone");
    }
    $(document).ready(function() {
-  $('.RegisterFormSubmitButton').on('click', function(e) {
-    e.preventDefault(); // Formun gönderilmesini engelle
 
-    // Mevcut adımın bulunduğu container'ı bul
-    var $currentStep = $(this).closest('.RegisterFormStepWrapper');
+// Navigasyon butonlarına tıklayınca ilgili adımı göster
+$('.RegisterFormNavigationButton').on('click', function() {
+  var stepIndex = $(this).index(); // Butonların index'i, adım sırasına karşılık gelir
 
-    // Sonraki adımın container'ını bul
-    var $nextStep = $currentStep.next('.RegisterFormStepWrapper');
+  // Tüm navigasyon butonlarından Active sınıfını kaldır ve tıklanan butona ekle
+  $('.RegisterFormNavigationButton').removeClass('Active');
+  $(this).addClass('Active');
 
-    // Eğer sonraki adım varsa, mevcut adımı gizleyip sonraki adımı göster
-    if ($nextStep.length) {
-      $currentStep.addClass('Hidden');
-      $nextStep.removeClass('Hidden');
-    }
-  });
+  // Tüm adım wrapper'larını gizle ve ilgili index'teki adımı göster
+  $('.RegisterFormStepWrapper').addClass('Hidden');
+  $('.RegisterFormStepWrapper').eq(stepIndex).removeClass('Hidden');
+});
+
+// "Sonraki*" butonuna tıklayınca bir sonraki adımı göster
+$('.RegisterFormSubmitButton').on('click', function(e) {
+  e.preventDefault(); // Form gönderimini engelle
+
+  // Mevcut adımın bulunduğu container'ı bul
+  var $currentStep = $(this).closest('.RegisterFormStepWrapper');
+  var currentIndex = $('.RegisterFormStepWrapper').index($currentStep);
+
+  // Mevcut adımı gizle
+  $currentStep.addClass('Hidden');
+
+  // Bir sonraki adım varsa onu göster
+  var $nextStep = $('.RegisterFormStepWrapper').eq(currentIndex + 1);
+  if ($nextStep.length > 0) {
+    $nextStep.removeClass('Hidden');
+
+    // Navigasyon butonlarındaki aktif durumu güncelle
+    $('.RegisterFormNavigationButton').removeClass('Active');
+    $('.RegisterFormNavigationButton').eq(currentIndex + 1).addClass('Active');
+  }
+});
+
 });
 
 </script>
