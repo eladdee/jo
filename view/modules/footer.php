@@ -120,7 +120,24 @@
    function openLoginModal(){
       $(".LoginModal").toggleClass("dnone");
    }
-  
+   $(document).ready(function() {
+  $('.RegisterFormSubmitButton').on('click', function(e) {
+    e.preventDefault(); // Formun gönderilmesini engelle
+
+    // Mevcut adımın bulunduğu container'ı bul
+    var $currentStep = $(this).closest('.RegisterFormStepWrapper');
+
+    // Sonraki adımın container'ını bul
+    var $nextStep = $currentStep.next('.RegisterFormStepWrapper');
+
+    // Eğer sonraki adım varsa, mevcut adımı gizleyip sonraki adımı göster
+    if ($nextStep.length) {
+      $currentStep.addClass('Hidden');
+      $nextStep.removeClass('Hidden');
+    }
+  });
+});
+
 </script>
             <div class="ModalWindow LoginModal dnone">
    <div class="ModalOverlay"></div>
