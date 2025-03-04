@@ -8,7 +8,7 @@
                      <li class="ListGame ListItem WithGameTags" data-game-id="71861015917">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Bet Stacker Blackjack 1" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/3/3A81FCF328609F3712F354DD55F532C2.jpg"></div>
+                              <div class="GameThumbailWrapper"><img alt="Bet Stacker Blackjack 1" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/3/3A81FCF328609F3712F354DD55F532C2.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bet Stacker Blackjack 1 !" href="/tr/live-casino/games/evolution:bet-stacker-blackjack-1-71861015917/?prevRoute=%2Flive-casino%2Fcat%2Floto">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -25,7 +25,7 @@
                      <li class="ListGame ListItem WithGameTags" data-game-id="71862061588">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Bet Stacker Blackjack 2" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/2/29D2D39AB84CDF3D05324AAD0F3E877A.jpg"></div>
+                              <div class="GameThumbailWrapper"><img alt="Bet Stacker Blackjack 2" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/2/29D2D39AB84CDF3D05324AAD0F3E877A.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bet Stacker Blackjack 2 !" href="/tr/live-casino/games/evolution:bet-stacker-blackjack-2-71862061588/?prevRoute=%2Flive-casino%2Fcat%2Floto">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -42,7 +42,7 @@
                      <li class="ListGame ListItem WithGameTags" data-game-id="71864087470">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Bet Stacker Blackjack 3" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/3/3BA3BED41C827C191274DCD21D83C72D.jpg"></div>
+                              <div class="GameThumbailWrapper"><img alt="Bet Stacker Blackjack 3" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/3/3BA3BED41C827C191274DCD21D83C72D.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bet Stacker Blackjack 3 !" href="/tr/live-casino/games/evolution:bet-stacker-blackjack-3-71864087470/?prevRoute=%2Flive-casino%2Fcat%2Floto">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -59,7 +59,7 @@
                      <li class="ListGame ListItem WithGameTags" data-game-id="71867002729">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Bet Stacker Blackjack 4" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/B/BD19C162F10643257A1A57CDEF2A71AA.jpg"></div>
+                              <div class="GameThumbailWrapper"><img alt="Bet Stacker Blackjack 4" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/B/BD19C162F10643257A1A57CDEF2A71AA.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bet Stacker Blackjack 4 !" href="/tr/live-casino/games/evolution:bet-stacker-blackjack-4-71867002729/?prevRoute=%2Flive-casino%2Fcat%2Floto">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -76,7 +76,7 @@
                      <li class="ListGame ListItem" data-game-id="70857091789">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Easy Blackjack" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/C/C9514D1777F0D2272447EFB7D8D393C5.jpg"></div>
+                              <div class="GameThumbailWrapper"><img alt="Easy Blackjack" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/C/C9514D1777F0D2272447EFB7D8D393C5.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Easy Blackjack !" href="/tr/live-casino/games/evolution:easy-blackjack-70857091789/?prevRoute=%2Flive-casino%2Fcat%2Floto">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -91,7 +91,7 @@
                      <li class="ListGame ListItem" data-game-id="71241099577">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Elite Speed Blackjack" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/6/6CE220FBDCF4734C689E597786792486.jpg"></div>
+                              <div class="GameThumbailWrapper"><img alt="Elite Speed Blackjack" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/6/6CE220FBDCF4734C689E597786792486.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Elite Speed Blackjack !" href="/tr/live-casino/games/evolution:elite-speed-blackjack-71241099577/?prevRoute=%2Flive-casino%2Fcat%2Floto">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -106,7 +106,7 @@
                      <li class="ListGame ListItem" data-game-id="71369050675">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Always 8 Baccarat" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/1/1580599A1BF2A62D62AA481981A97563.jpg"></div>
+                              <div class="GameThumbailWrapper"><img alt="Always 8 Baccarat" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/1/1580599A1BF2A62D62AA481981A97563.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Always 8 Baccarat !" href="/tr/live-casino/games/evolution:always-8-baccarat-71369050675/?prevRoute=%2Flive-casino%2Fcat%2Floto">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -121,7 +121,7 @@
                      <li class="ListGame ListItem" data-game-id="70557077136">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Infinite Bet Stacker Blackjack" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/F/F04AF211AEB5B93A727A35EC6B933F06.jpg"></div>
+                              <div class="GameThumbailWrapper"><img alt="Infinite Bet Stacker Blackjack" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/F/F04AF211AEB5B93A727A35EC6B933F06.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Infinite Bet Stacker Blackjack !" href="/tr/live-casino/games/evolution:infinite-bet-stacker-blackjack-70557077136/?prevRoute=%2Flive-casino%2Fcat%2Floto">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -136,7 +136,7 @@
                      <li class="ListGame ListItem" data-game-id="69733014651">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Crazy Balls" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/0/0CC0358ABDEAF4431CC03A572BF5AE3B.jpg"></div>
+                              <div class="GameThumbailWrapper"><img alt="Crazy Balls" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/0/0CC0358ABDEAF4431CC03A572BF5AE3B.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Crazy Balls !" href="/tr/live-casino/games/evolution:crazy-balls-69733014651/?prevRoute=%2Flive-casino%2Fcat%2Floto">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -270,7 +270,7 @@
                               </span>
                            </button>
                         </div>
-                        <div class="GameIframeWrapper"><iframe src="https://gamelaunch.jojobet1009.com/Loader/Start/1990/lotto_leapbit?language=tr&amp;funMode=false&amp;_sid=&amp;casinolobbyurl=https://www.jojobet1009.com/tr/live-casino" title="Canlı Loto" class="GameIframe" allowfullscreen="" data-width="1280" data-height="720" width="1290" height="725.625"></iframe></div>
+                        <div class="GameIframeWrapper"><iframe src="https://gamelaunch.jojobet1009.com/Loader/Start/1990/lotto_leapbit?language=tr&amp;funMode=false&amp;_sid=&amp;casinolobbyurl=/tr/live-casino" title="Canlı Loto" class="GameIframe" allowfullscreen="" data-width="1280" data-height="720" width="1290" height="725.625"></iframe></div>
                      </div>
                   </div>
                </li>

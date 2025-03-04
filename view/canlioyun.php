@@ -11,9 +11,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/tournaments/all">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2024/06/52661309-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2024/06/930b156f-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2024/06/4a5367f7-casinosliderdesktop.png">
+                              <source srcset="/stateless-jojobet/2024/06/52661309-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2024/06/930b156f-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2024/06/4a5367f7-casinosliderdesktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -28,9 +28,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/netent:wild-mining-xxxtreme-72151/?prevRoute=%2Fcasino%2Fcat%2Fnetent">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/869a9991-casino-mobile.jpg" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/66e45317-casino-tablet.jpg" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/05ebd224-casino-desktop-scaled.jpg">
+                              <source srcset="/stateless-jojobet/2025/02/869a9991-casino-mobile.jpg" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2025/02/66e45317-casino-tablet.jpg" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2025/02/05ebd224-casino-desktop-scaled.jpg">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -45,9 +45,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/turnuva-oyunları">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/afb9ddf7-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/c47a14fe-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/dad08071-casino-desktop.png">
+                              <source srcset="/stateless-jojobet/2025/02/afb9ddf7-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2025/02/c47a14fe-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2025/02/dad08071-casino-desktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -62,9 +62,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/swintt:wizardz-world-72135/?prevRoute=%2Fcasino%2Fcat%2Fswintt">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/87f08f6f-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/bf1b5655-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/c1500d71-casino-desktop.png">
+                              <source srcset="/stateless-jojobet/2025/02/87f08f6f-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2025/02/bf1b5655-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2025/02/c1500d71-casino-desktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -79,9 +79,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/hacksaw:hounds-of-hell-71863/?prevRoute=%2Fcasino%2Fcat%2Fhacksaw">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/e1089ea3-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/1938545d-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/be033dc6-casino-desktop.png">
+                              <source srcset="/stateless-jojobet/2025/02/e1089ea3-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2025/02/1938545d-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2025/02/be033dc6-casino-desktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -96,9 +96,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/hacksaw:sticky-candyland-71995/?prevRoute=%2Fcasino%2Fcat%2Fhacksaw">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/8a4557e1-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/f41e70e6-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/a7cfe0a9-casino-desktop.png">
+                              <source srcset="/stateless-jojobet/2025/02/8a4557e1-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2025/02/f41e70e6-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2025/02/a7cfe0a9-casino-desktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -113,9 +113,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/sevgililer-günü-slotları">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/535b6af6-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/9e0db457-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/622f90fb-casino-desktop.png">
+                              <source srcset="/stateless-jojobet/2025/02/535b6af6-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2025/02/9e0db457-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2025/02/622f90fb-casino-desktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -130,9 +130,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/amusnet:100-golden-coins-dice-edition-71944/?prevRoute=%2Fcasino%2Fcat%2Famusnet">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/d179dc7d-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/b549258f-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/4bd8b513-casinosliderdesktop.png">
+                              <source srcset="/stateless-jojobet/2025/02/d179dc7d-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2025/02/b549258f-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2025/02/4bd8b513-casinosliderdesktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -147,9 +147,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/turnuva-oyunları">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/2cdfcac6-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/195372d0-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/fbab1952-casino-desktop.png">
+                              <source srcset="/stateless-jojobet/2025/02/2cdfcac6-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2025/02/195372d0-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2025/02/fbab1952-casino-desktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -164,9 +164,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/aperion:balloons-scratch-69843/?prevRoute=%2Fcasino%2Fcat%2Faperion">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/eb5c4c51-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/11834896-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/a3636678-casinosliderdesktop.png">
+                              <source srcset="/stateless-jojobet/2025/02/eb5c4c51-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2025/02/11834896-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2025/02/a3636678-casinosliderdesktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -181,9 +181,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/live-casino/games/pragmatic-live:immersive-roulette-deluxe-71852011926/?prevRoute=%2Flive-casino%2Fcat%2Fpragmatic-live">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/1019eda8-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/a79b2929-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/375e753c-casinosliderdesktop.png">
+                              <source srcset="/stateless-jojobet/2025/02/1019eda8-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2025/02/a79b2929-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2025/02/375e753c-casinosliderdesktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -198,9 +198,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/kalamba">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/230678d9-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/6c1afae3-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/fd5851dc-casinosliderdesktop.png">
+                              <source srcset="/stateless-jojobet/2025/02/230678d9-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2025/02/6c1afae3-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2025/02/fd5851dc-casinosliderdesktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -215,9 +215,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/turnuva-oyunları">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/03d029a5-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/b66bbecb-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/02/9d29de05-casinosliderdesktop.png">
+                              <source srcset="/stateless-jojobet/2025/02/03d029a5-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2025/02/b66bbecb-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2025/02/9d29de05-casinosliderdesktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -232,9 +232,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/turnuva-oyunları">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/01/9dac15a7-casino-mobile-1.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/01/e9865858-casino-tablet-1.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2025/01/52b2b90a-casino-desktop-1.png">
+                              <source srcset="/stateless-jojobet/2025/01/9dac15a7-casino-mobile-1.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2025/01/e9865858-casino-tablet-1.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2025/01/52b2b90a-casino-desktop-1.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -249,9 +249,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/pragmatic:jojo-bonanza-1000-70799/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2024/12/b9a4c138-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2024/12/e0d41f09-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2024/12/76511077-casinosliderdesktop.png">
+                              <source srcset="/stateless-jojobet/2024/12/b9a4c138-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2024/12/e0d41f09-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2024/12/76511077-casinosliderdesktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -267,9 +267,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/live-casino/games/poker-klas:poker-klas-37036/?prevRoute=%2Flive-casino%2Fcat%2Fpoker-klas">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2024/12/db9c0f7d-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2024/12/32143057-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2024/12/2c230a11-casinosliderdesktop.png">
+                              <source srcset="/stateless-jojobet/2024/12/db9c0f7d-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2024/12/32143057-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2024/12/2c230a11-casinosliderdesktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -284,9 +284,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/pragmatic:jojobet-princess-1000-68350/?prevRoute=%2Fcasino%2Fcat%2Fpragmatic">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2024/09/874883ce-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2024/09/94da436c-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2024/09/eb0da5f0-casinosliderdesktop.png">
+                              <source srcset="/stateless-jojobet/2024/09/874883ce-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2024/09/94da436c-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2024/09/eb0da5f0-casinosliderdesktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -301,9 +301,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/turnuva-oyunları">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2024/07/2c62f298-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2024/07/90ddde59-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2024/07/7daefb3e-casinosliderdesktop.png">
+                              <source srcset="/stateless-jojobet/2024/07/2c62f298-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2024/07/90ddde59-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2024/07/7daefb3e-casinosliderdesktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -318,9 +318,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/drops&amp;wins">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2024/03/95ce952b-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2024/03/06db5986-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2024/03/54ff8142-casinosliderdesktop.png">
+                              <source srcset="/stateless-jojobet/2024/03/95ce952b-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2024/03/06db5986-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2024/03/54ff8142-casinosliderdesktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -335,9 +335,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/spinomenal">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2024/02/252fb5b5-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2024/02/a1b6d053-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2024/02/c9d8fed0-casinosliderdesktop.png">
+                              <source srcset="/stateless-jojobet/2024/02/252fb5b5-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2024/02/a1b6d053-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2024/02/c9d8fed0-casinosliderdesktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -352,9 +352,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/live-casino/cat/jojobet'e-özel">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2021/11/b8dc206e-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2021/11/95a883f3-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1009.com/stateless-jojobet/2021/11/93ed86eb-casinosliderdesktop.png">
+                              <source srcset="/stateless-jojobet/2021/11/b8dc206e-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2021/11/95a883f3-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2021/11/93ed86eb-casinosliderdesktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -670,7 +670,7 @@
                <li class="ListGame ListItem" data-game-id="35744071237">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img alt="Crazy Time" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/1/1D9E31885F43C9978EE79D8A9D303A7A.optimized.png"></div>
+                        <div class="GameThumbailWrapper"><img alt="Crazy Time" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/1/1D9E31885F43C9978EE79D8A9D303A7A.optimized.png"></div>
                         <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                         <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Crazy Time !" href="/tr/live-casino/games/canlı-oyunlar:crazy-time-35744071237/?prevRoute=%2Flive-casino%2Fcat%2Fcanl%25C4%25B1-oyunlar">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -685,7 +685,7 @@
                <li class="ListGame ListItem" data-game-id="66412096713">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img alt="Lightning Storm" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/1/1FC528B276D77F90A25324CBEF552DDA.jpg"></div>
+                        <div class="GameThumbailWrapper"><img alt="Lightning Storm" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/1/1FC528B276D77F90A25324CBEF552DDA.jpg"></div>
                         <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                         <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lightning Storm !" href="/tr/live-casino/games/canlı-oyunlar:lightning-storm-66412096713/?prevRoute=%2Flive-casino%2Fcat%2Fcanl%25C4%25B1-oyunlar">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -698,7 +698,7 @@
                   </div>
                </li>
                <li class="ListGame ListItem" data-game-id="8345001034">
-                  <div class="GameThumbailWrapper"><img alt="Auto-Roulette" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/8/8DCFC5BD65131590FA14308F7D22DC0C.optimized.png"></div>
+                  <div class="GameThumbailWrapper"><img alt="Auto-Roulette" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/8/8DCFC5BD65131590FA14308F7D22DC0C.optimized.png"></div>
                   <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                   <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Auto-Roulette !" href="/tr/live-casino/games/canlı-oyunlar:auto-roulette-8345001034/?prevRoute=%2Flive-casino%2Fcat%2Fcanl%25C4%25B1-oyunlar">
                      <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -731,7 +731,7 @@
                <li class="ListGame ListItem" data-game-id="69733014651">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img alt="Crazy Balls" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/0/0CC0358ABDEAF4431CC03A572BF5AE3B.jpg"></div>
+                        <div class="GameThumbailWrapper"><img alt="Crazy Balls" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/0/0CC0358ABDEAF4431CC03A572BF5AE3B.jpg"></div>
                         <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                         <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Crazy Balls !" href="/tr/live-casino/games/canlı-oyunlar:crazy-balls-69733014651/?prevRoute=%2Flive-casino%2Fcat%2Fcanl%25C4%25B1-oyunlar">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -744,7 +744,7 @@
                   </div>
                </li>
                <li class="ListGame ListItem" data-game-id="8510079294">
-                  <div class="GameThumbailWrapper"><img alt="Immersive Roulette" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/6/6A2790ED3203BD3F78F469ABA0BAB58B.jpg"></div>
+                  <div class="GameThumbailWrapper"><img alt="Immersive Roulette" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/6/6A2790ED3203BD3F78F469ABA0BAB58B.jpg"></div>
                   <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                   <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Immersive Roulette !" href="/tr/live-casino/games/canlı-oyunlar:immersive-roulette-8510079294/?prevRoute=%2Flive-casino%2Fcat%2Fcanl%25C4%25B1-oyunlar">
                      <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -775,7 +775,7 @@
                   </div>
                </li>
                <li class="ListGame ListItem" data-game-id="47844030144">
-                  <div class="GameThumbailWrapper"><img alt="XXXTreme" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/6/6BB807C5E908AD06A4A7ADFFE19DCD0A.jpg"></div>
+                  <div class="GameThumbailWrapper"><img alt="XXXTreme" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/6/6BB807C5E908AD06A4A7ADFFE19DCD0A.jpg"></div>
                   <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                   <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna XXXTreme !" href="/tr/live-casino/games/canlı-oyunlar:xxxtreme-47844030144/?prevRoute=%2Flive-casino%2Fcat%2Fcanl%25C4%25B1-oyunlar">
                      <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -806,7 +806,7 @@
                   </div>
                </li>
                <li class="ListGame ListItem" data-game-id="8345030379">
-                  <div class="GameThumbailWrapper"><img alt="Lightning Roulette" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/C/C173914865B023D3EAD93561A031EF06.jpg"></div>
+                  <div class="GameThumbailWrapper"><img alt="Lightning Roulette" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/C/C173914865B023D3EAD93561A031EF06.jpg"></div>
                   <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                   <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lightning Roulette !" href="/tr/live-casino/games/canlı-oyunlar:lightning-roulette-8345030379/?prevRoute=%2Flive-casino%2Fcat%2Fcanl%25C4%25B1-oyunlar">
                      <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -839,7 +839,7 @@
                <li class="ListGame ListItem" data-game-id="58063095958">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img alt="Video Poker - Live" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/0/04A123ABCA1147287348C7A1C793C409.jpg"></div>
+                        <div class="GameThumbailWrapper"><img alt="Video Poker - Live" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/0/04A123ABCA1147287348C7A1C793C409.jpg"></div>
                         <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                         <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Video Poker - Live !" href="/tr/live-casino/games/canlı-oyunlar:video-poker---live-58063095958/?prevRoute=%2Flive-casino%2Fcat%2Fcanl%25C4%25B1-oyunlar">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -852,7 +852,7 @@
                   </div>
                </li>
                <li class="ListGame ListItem" data-game-id="71182017753">
-                  <div class="GameThumbailWrapper"><img alt="Fortune Roulette" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/7/7D2FC692FA60EDCD0427327EC095A06D.jpg"></div>
+                  <div class="GameThumbailWrapper"><img alt="Fortune Roulette" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/7/7D2FC692FA60EDCD0427327EC095A06D.jpg"></div>
                   <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
                   <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Fortune Roulette !" href="/tr/live-casino/games/canlı-oyunlar:fortune-roulette-71182017753/?prevRoute=%2Flive-casino%2Fcat%2Fcanl%25C4%25B1-oyunlar">
                      <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -885,7 +885,7 @@
                <li class="ListGame ListItem" data-game-id="69722026329">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img alt="Ez Dealer Türkçe Rulet" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/5/5C3D9003EB3CBCB7D9AB931929D7864F.jpg"></div>
+                        <div class="GameThumbailWrapper"><img alt="Ez Dealer Türkçe Rulet" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/5/5C3D9003EB3CBCB7D9AB931929D7864F.jpg"></div>
                         <div class="GameProp GameVendor SubVendor" itemprop="author">Ezugi</div>
                         <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Ez Dealer Türkçe Rulet !" href="/tr/live-casino/games/canlı-oyunlar:ez-dealer-türkçe-rulet-69722026329/?prevRoute=%2Flive-casino%2Fcat%2Fcanl%25C4%25B1-oyunlar">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -900,7 +900,7 @@
                <li class="ListGame ListItem" data-game-id="69483034414">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img alt="Var Mısın Yok Musun" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/3/38BB9EA639DDE892F156D63063BEB5AA.jpg"></div>
+                        <div class="GameThumbailWrapper"><img alt="Var Mısın Yok Musun" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/3/38BB9EA639DDE892F156D63063BEB5AA.jpg"></div>
                         <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                         <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Var Mısın Yok Musun !" href="/tr/live-casino/games/canlı-oyunlar:var-mısın-yok-musun-69483034414/?prevRoute=%2Flive-casino%2Fcat%2Fcanl%25C4%25B1-oyunlar">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -915,7 +915,7 @@
                <li class="ListGame ListItem" data-game-id="59954010963">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img alt="Red Door Roulette" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/6/61D1F6B7A23F5FFADB02AF7D08D1F51C.jpg"></div>
+                        <div class="GameThumbailWrapper"><img alt="Red Door Roulette" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/6/61D1F6B7A23F5FFADB02AF7D08D1F51C.jpg"></div>
                         <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                         <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Red Door Roulette !" href="/tr/live-casino/games/canlı-oyunlar:red-door-roulette-59954010963/?prevRoute=%2Flive-casino%2Fcat%2Fcanl%25C4%25B1-oyunlar">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -930,7 +930,7 @@
                <li class="ListGame ListItem GameContainerDimmed" data-game-id="68357057400">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img alt="Bet Behind Pro Blackjack" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/7/7F983EDDEA94AC80CBF303DEF0F76D6D.jpg"></div>
+                        <div class="GameThumbailWrapper"><img alt="Bet Behind Pro Blackjack" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/7/7F983EDDEA94AC80CBF303DEF0F76D6D.jpg"></div>
                         <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
                         <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bet Behind Pro Blackjack !" href="/tr/live-casino/games/canlı-oyunlar:bet-behind-pro-blackjack-68357057400/?prevRoute=%2Flive-casino%2Fcat%2Fcanl%25C4%25B1-oyunlar">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -965,7 +965,7 @@
                <li class="ListGame ListItem" data-game-id="70557077136">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img alt="Infinite Bet Stacker Blackjack" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/F/F04AF211AEB5B93A727A35EC6B933F06.jpg"></div>
+                        <div class="GameThumbailWrapper"><img alt="Infinite Bet Stacker Blackjack" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/F/F04AF211AEB5B93A727A35EC6B933F06.jpg"></div>
                         <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                         <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Infinite Bet Stacker Blackjack !" href="/tr/live-casino/games/canlı-oyunlar:infinite-bet-stacker-blackjack-70557077136/?prevRoute=%2Flive-casino%2Fcat%2Fcanl%25C4%25B1-oyunlar">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -980,7 +980,7 @@
                <li class="ListGame ListItem" data-game-id="65636002364">
                   <div class="ListGameLink Anchor">
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                        <div class="GameThumbailWrapper"><img alt="Balloon Race" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/4/42D321E5DE4FFD55401F266BD272421E.jpg"></div>
+                        <div class="GameThumbailWrapper"><img alt="Balloon Race" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/4/42D321E5DE4FFD55401F266BD272421E.jpg"></div>
                         <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                         <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Balloon Race !" href="/tr/live-casino/games/canlı-oyunlar:balloon-race-65636002364/?prevRoute=%2Flive-casino%2Fcat%2Fcanl%25C4%25B1-oyunlar">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -1007,7 +1007,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:sweet-bonanza™-31038/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza™" width="55" height="33" class="PictureImg LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/B/B5B4835D0E37FE05BAAE4BE30B7B8BA0.gif"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza™" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/B/B5B4835D0E37FE05BAAE4BE30B7B8BA0.gif"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1025,7 +1025,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:jojobet-glowing-fruits-55174/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Glowing Fruits" width="55" height="33" class="PictureImg LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/D/D59FED089D3BD62970BA3F8091285FDD.gif"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Glowing Fruits" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/D/D59FED089D3BD62970BA3F8091285FDD.gif"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1043,7 +1043,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/vahşi-batı-oyunları:wild-mining-xxxtreme-72151/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild Mining XXXtreme" width="55" height="33" class="PictureImg LazyImage" src="//static.emcdncf.com/cms2/base/_casino/C/C6155CF4FC2E79F7EA7DBB13C17FAF2F.jpg"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild Mining XXXtreme" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/base/_casino/C/C6155CF4FC2E79F7EA7DBB13C17FAF2F.jpg"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1061,7 +1061,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:gates-of-jojobet-54985/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" class="PictureImg LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1079,7 +1079,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:gates-of-jojobet-54985/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" class="PictureImg LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" class="PictureImg LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1097,7 +1097,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1115,7 +1115,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/jojobet-özel:jojo-bonanza-45957/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1133,7 +1133,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1151,7 +1151,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:sweet-bonanza-1000-64667/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza 1000" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/C661E29C0F1306CBF95558D970D28A01.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/C661E29C0F1306CBF95558D970D28A01.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1169,7 +1169,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/egt-digital:40-burning-hot-58008/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="40 Burning Hot" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/1/19D1CB0AC88C420D36760D12285C1F8D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="40 Burning Hot" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/1/19D1CB0AC88C420D36760D12285C1F8D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1187,7 +1187,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:sweet-bonanza™-31038/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/B5B4835D0E37FE05BAAE4BE30B7B8BA0.gif" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B5B4835D0E37FE05BAAE4BE30B7B8BA0.gif" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1205,7 +1205,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:jojobet-glowing-fruits-55174/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Glowing Fruits" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/D/D59FED089D3BD62970BA3F8091285FDD.gif" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Glowing Fruits" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/D/D59FED089D3BD62970BA3F8091285FDD.gif" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1223,7 +1223,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/vahşi-batı-oyunları:wild-mining-xxxtreme-72151/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild Mining XXXtreme" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/C/C6155CF4FC2E79F7EA7DBB13C17FAF2F.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild Mining XXXtreme" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/C/C6155CF4FC2E79F7EA7DBB13C17FAF2F.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1241,7 +1241,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:gates-of-jojobet-54985/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1259,7 +1259,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:gates-of-jojobet-54985/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1277,7 +1277,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1295,7 +1295,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/jojobet-özel:jojo-bonanza-45957/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1313,7 +1313,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1331,7 +1331,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:sweet-bonanza-1000-64667/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza 1000" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/C661E29C0F1306CBF95558D970D28A01.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/C661E29C0F1306CBF95558D970D28A01.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1349,7 +1349,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/egt-digital:40-burning-hot-58008/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="40 Burning Hot" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/1/19D1CB0AC88C420D36760D12285C1F8D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="40 Burning Hot" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/1/19D1CB0AC88C420D36760D12285C1F8D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1367,7 +1367,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:sweet-bonanza™-31038/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/B5B4835D0E37FE05BAAE4BE30B7B8BA0.gif" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B5B4835D0E37FE05BAAE4BE30B7B8BA0.gif" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1385,7 +1385,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:jojobet-glowing-fruits-55174/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Glowing Fruits" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/D/D59FED089D3BD62970BA3F8091285FDD.gif" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Glowing Fruits" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/D/D59FED089D3BD62970BA3F8091285FDD.gif" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1403,7 +1403,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/vahşi-batı-oyunları:wild-mining-xxxtreme-72151/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild Mining XXXtreme" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/C/C6155CF4FC2E79F7EA7DBB13C17FAF2F.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild Mining XXXtreme" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/C/C6155CF4FC2E79F7EA7DBB13C17FAF2F.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1421,7 +1421,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:gates-of-jojobet-54985/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1439,7 +1439,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:gates-of-jojobet-54985/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1457,7 +1457,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1475,7 +1475,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/jojobet-özel:jojo-bonanza-45957/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1493,7 +1493,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1511,7 +1511,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:sweet-bonanza-1000-64667/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza 1000" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/C661E29C0F1306CBF95558D970D28A01.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/C661E29C0F1306CBF95558D970D28A01.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1529,7 +1529,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/egt-digital:40-burning-hot-58008/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="40 Burning Hot" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/1/19D1CB0AC88C420D36760D12285C1F8D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="40 Burning Hot" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/1/19D1CB0AC88C420D36760D12285C1F8D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1547,7 +1547,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:sweet-bonanza™-31038/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/B5B4835D0E37FE05BAAE4BE30B7B8BA0.gif" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B5B4835D0E37FE05BAAE4BE30B7B8BA0.gif" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1565,7 +1565,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:jojobet-glowing-fruits-55174/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Glowing Fruits" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/D/D59FED089D3BD62970BA3F8091285FDD.gif" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Glowing Fruits" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/D/D59FED089D3BD62970BA3F8091285FDD.gif" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1583,7 +1583,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/vahşi-batı-oyunları:wild-mining-xxxtreme-72151/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild Mining XXXtreme" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/C/C6155CF4FC2E79F7EA7DBB13C17FAF2F.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild Mining XXXtreme" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/C/C6155CF4FC2E79F7EA7DBB13C17FAF2F.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1601,7 +1601,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:gates-of-jojobet-54985/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1619,7 +1619,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:gates-of-jojobet-54985/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1637,7 +1637,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1655,7 +1655,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/jojobet-özel:jojo-bonanza-45957/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1673,7 +1673,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1691,7 +1691,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:sweet-bonanza-1000-64667/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza 1000" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/C661E29C0F1306CBF95558D970D28A01.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/C661E29C0F1306CBF95558D970D28A01.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1709,7 +1709,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/egt-digital:40-burning-hot-58008/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="40 Burning Hot" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/1/19D1CB0AC88C420D36760D12285C1F8D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="40 Burning Hot" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/1/19D1CB0AC88C420D36760D12285C1F8D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1727,7 +1727,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:sweet-bonanza™-31038/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/B5B4835D0E37FE05BAAE4BE30B7B8BA0.gif" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B5B4835D0E37FE05BAAE4BE30B7B8BA0.gif" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1745,7 +1745,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:jojobet-glowing-fruits-55174/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Glowing Fruits" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/D/D59FED089D3BD62970BA3F8091285FDD.gif" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Glowing Fruits" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/D/D59FED089D3BD62970BA3F8091285FDD.gif" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1763,7 +1763,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/vahşi-batı-oyunları:wild-mining-xxxtreme-72151/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild Mining XXXtreme" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/C/C6155CF4FC2E79F7EA7DBB13C17FAF2F.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild Mining XXXtreme" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/C/C6155CF4FC2E79F7EA7DBB13C17FAF2F.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1781,7 +1781,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:gates-of-jojobet-54985/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1799,7 +1799,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:gates-of-jojobet-54985/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1817,7 +1817,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1835,7 +1835,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/jojobet-özel:jojo-bonanza-45957/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1853,7 +1853,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1871,7 +1871,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:sweet-bonanza-1000-64667/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza 1000" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/C661E29C0F1306CBF95558D970D28A01.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/C661E29C0F1306CBF95558D970D28A01.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1889,7 +1889,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/egt-digital:40-burning-hot-58008/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="40 Burning Hot" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/1/19D1CB0AC88C420D36760D12285C1F8D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="40 Burning Hot" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/1/19D1CB0AC88C420D36760D12285C1F8D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1907,7 +1907,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:sweet-bonanza™-31038/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/B5B4835D0E37FE05BAAE4BE30B7B8BA0.gif" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B5B4835D0E37FE05BAAE4BE30B7B8BA0.gif" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1925,7 +1925,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:jojobet-glowing-fruits-55174/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Glowing Fruits" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/D/D59FED089D3BD62970BA3F8091285FDD.gif" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Glowing Fruits" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/D/D59FED089D3BD62970BA3F8091285FDD.gif" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1943,7 +1943,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/vahşi-batı-oyunları:wild-mining-xxxtreme-72151/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild Mining XXXtreme" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/C/C6155CF4FC2E79F7EA7DBB13C17FAF2F.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild Mining XXXtreme" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/C/C6155CF4FC2E79F7EA7DBB13C17FAF2F.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1961,7 +1961,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:gates-of-jojobet-54985/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1979,7 +1979,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:gates-of-jojobet-54985/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1997,7 +1997,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2015,7 +2015,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/jojobet-özel:jojo-bonanza-45957/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2033,7 +2033,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2051,7 +2051,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:sweet-bonanza-1000-64667/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza 1000" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/C661E29C0F1306CBF95558D970D28A01.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/C661E29C0F1306CBF95558D970D28A01.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2069,7 +2069,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/egt-digital:40-burning-hot-58008/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="40 Burning Hot" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/1/19D1CB0AC88C420D36760D12285C1F8D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="40 Burning Hot" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/1/19D1CB0AC88C420D36760D12285C1F8D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2087,7 +2087,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:sweet-bonanza™-31038/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/B5B4835D0E37FE05BAAE4BE30B7B8BA0.gif" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B5B4835D0E37FE05BAAE4BE30B7B8BA0.gif" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2105,7 +2105,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:jojobet-glowing-fruits-55174/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Glowing Fruits" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/D/D59FED089D3BD62970BA3F8091285FDD.gif" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Glowing Fruits" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/D/D59FED089D3BD62970BA3F8091285FDD.gif" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2123,7 +2123,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/vahşi-batı-oyunları:wild-mining-xxxtreme-72151/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild Mining XXXtreme" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/C/C6155CF4FC2E79F7EA7DBB13C17FAF2F.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild Mining XXXtreme" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/C/C6155CF4FC2E79F7EA7DBB13C17FAF2F.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2141,7 +2141,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:gates-of-jojobet-54985/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2159,7 +2159,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:gates-of-jojobet-54985/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2177,7 +2177,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2195,7 +2195,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/jojobet-özel:jojo-bonanza-45957/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2213,7 +2213,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2231,7 +2231,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:sweet-bonanza-1000-64667/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza 1000" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/C661E29C0F1306CBF95558D970D28A01.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/C661E29C0F1306CBF95558D970D28A01.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2249,7 +2249,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/egt-digital:40-burning-hot-58008/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="40 Burning Hot" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/1/19D1CB0AC88C420D36760D12285C1F8D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="40 Burning Hot" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/1/19D1CB0AC88C420D36760D12285C1F8D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2267,7 +2267,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:sweet-bonanza™-31038/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/B5B4835D0E37FE05BAAE4BE30B7B8BA0.gif" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B5B4835D0E37FE05BAAE4BE30B7B8BA0.gif" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2285,7 +2285,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:jojobet-glowing-fruits-55174/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Glowing Fruits" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/D/D59FED089D3BD62970BA3F8091285FDD.gif" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Glowing Fruits" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/D/D59FED089D3BD62970BA3F8091285FDD.gif" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2303,7 +2303,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/vahşi-batı-oyunları:wild-mining-xxxtreme-72151/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild Mining XXXtreme" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/C/C6155CF4FC2E79F7EA7DBB13C17FAF2F.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild Mining XXXtreme" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/C/C6155CF4FC2E79F7EA7DBB13C17FAF2F.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2321,7 +2321,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:gates-of-jojobet-54985/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2339,7 +2339,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:gates-of-jojobet-54985/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2357,7 +2357,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2375,7 +2375,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/jojobet-özel:jojo-bonanza-45957/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2393,7 +2393,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2411,7 +2411,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:sweet-bonanza-1000-64667/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza 1000" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/C661E29C0F1306CBF95558D970D28A01.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/C661E29C0F1306CBF95558D970D28A01.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2429,7 +2429,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/egt-digital:40-burning-hot-58008/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="40 Burning Hot" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/1/19D1CB0AC88C420D36760D12285C1F8D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="40 Burning Hot" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/1/19D1CB0AC88C420D36760D12285C1F8D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2447,7 +2447,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:sweet-bonanza™-31038/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/B5B4835D0E37FE05BAAE4BE30B7B8BA0.gif" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B5B4835D0E37FE05BAAE4BE30B7B8BA0.gif" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2465,7 +2465,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:jojobet-glowing-fruits-55174/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Glowing Fruits" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/D/D59FED089D3BD62970BA3F8091285FDD.gif" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Glowing Fruits" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/D/D59FED089D3BD62970BA3F8091285FDD.gif" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2483,7 +2483,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/vahşi-batı-oyunları:wild-mining-xxxtreme-72151/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild Mining XXXtreme" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/C/C6155CF4FC2E79F7EA7DBB13C17FAF2F.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild Mining XXXtreme" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/C/C6155CF4FC2E79F7EA7DBB13C17FAF2F.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2501,7 +2501,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:gates-of-jojobet-54985/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2519,7 +2519,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:gates-of-jojobet-54985/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2537,7 +2537,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2555,7 +2555,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/jojobet-özel:jojo-bonanza-45957/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2573,7 +2573,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2591,7 +2591,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:sweet-bonanza-1000-64667/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza 1000" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/C661E29C0F1306CBF95558D970D28A01.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/C661E29C0F1306CBF95558D970D28A01.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2609,7 +2609,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/egt-digital:40-burning-hot-58008/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="40 Burning Hot" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/1/19D1CB0AC88C420D36760D12285C1F8D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="40 Burning Hot" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/1/19D1CB0AC88C420D36760D12285C1F8D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2627,7 +2627,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:sweet-bonanza™-31038/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/B5B4835D0E37FE05BAAE4BE30B7B8BA0.gif" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B5B4835D0E37FE05BAAE4BE30B7B8BA0.gif" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2645,7 +2645,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:jojobet-glowing-fruits-55174/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Glowing Fruits" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/D/D59FED089D3BD62970BA3F8091285FDD.gif" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Glowing Fruits" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/D/D59FED089D3BD62970BA3F8091285FDD.gif" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2663,7 +2663,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/vahşi-batı-oyunları:wild-mining-xxxtreme-72151/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild Mining XXXtreme" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/C/C6155CF4FC2E79F7EA7DBB13C17FAF2F.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Wild Mining XXXtreme" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/C/C6155CF4FC2E79F7EA7DBB13C17FAF2F.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2681,7 +2681,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:gates-of-jojobet-54985/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2699,7 +2699,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/top-20-casino:gates-of-jojobet-54985/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Jojobet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2717,7 +2717,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2735,7 +2735,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/jojobet-özel:jojo-bonanza-45957/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojo Bonanza" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2753,7 +2753,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2771,7 +2771,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/pragmatic:sweet-bonanza-1000-64667/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza 1000" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/C661E29C0F1306CBF95558D970D28A01.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sweet Bonanza 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/C/C661E29C0F1306CBF95558D970D28A01.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2789,7 +2789,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/sports/games/egt-digital:40-burning-hot-58008/?prevRoute=/live-casino/cat/canl%C4%B1-oyunlar">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="40 Burning Hot" width="55" height="33" data-src="//static.emcdncf.com/cms2/base/_casino/1/19D1CB0AC88C420D36760D12285C1F8D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="40 Burning Hot" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/1/19D1CB0AC88C420D36760D12285C1F8D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">

@@ -8,7 +8,7 @@
                      <li class="ListGame ListItem" data-game-id="70799">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Jojo Bonanza 1000" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/8/816D486D12523CDEF8611B435E13A67E.jpg"></div>
+                              <div class="GameThumbailWrapper"><img alt="Jojo Bonanza 1000" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/8/816D486D12523CDEF8611B435E13A67E.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojo Bonanza 1000 !" href="/tr/casino/games/freespin-satin-al:jojo-bonanza-1000-70799/?prevRoute=%2Fcasino%2Fcat%2Fspribe">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -23,7 +23,7 @@
                      <li class="ListGame ListItem" data-game-id="70491">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Jojo Space" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/2/2AA9B5CE668CC44BC3222C027D683379.jpg"></div>
+                              <div class="GameThumbailWrapper"><img alt="Jojo Space" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/2/2AA9B5CE668CC44BC3222C027D683379.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Amusnet</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojo Space !" href="/tr/casino/games/freespin-satin-al:jojo-space-70491/?prevRoute=%2Fcasino%2Fcat%2Fspribe">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -38,7 +38,7 @@
                      <li class="ListGame ListItem" data-game-id="69165">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Jojo Rush 1000" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/9/9CC350D036CE47D87C456924E297A28B.jpg"></div>
+                              <div class="GameThumbailWrapper"><img alt="Jojo Rush 1000" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/9/9CC350D036CE47D87C456924E297A28B.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojo Rush 1000 !" href="/tr/casino/games/freespin-satin-al:jojo-rush-1000-69165/?prevRoute=%2Fcasino%2Fcat%2Fspribe">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -53,7 +53,7 @@
                      <li class="ListGame ListItem" data-game-id="68350">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Jojobet Princess 1000" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/B/B1172EA311869E107F1C4019D33E4220.jpg"></div>
+                              <div class="GameThumbailWrapper"><img alt="Jojobet Princess 1000" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/B/B1172EA311869E107F1C4019D33E4220.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojobet Princess 1000 !" href="/tr/casino/games/freespin-satin-al:jojobet-princess-1000-68350/?prevRoute=%2Fcasino%2Fcat%2Fspribe">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -68,7 +68,7 @@
                      <li class="ListGame ListItem" data-game-id="54985">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Gates of Jojobet" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg"></div>
+                              <div class="GameThumbailWrapper"><img alt="Gates of Jojobet" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/4/49A720DE2ADC3D69808EED7A33639F7D.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Gates of Jojobet !" href="/tr/casino/games/freespin-satin-al:gates-of-jojobet-54985/?prevRoute=%2Fcasino%2Fcat%2Fspribe">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -83,7 +83,7 @@
                      <li class="ListGame ListItem" data-game-id="45957">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Jojo Bonanza" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg"></div>
+                              <div class="GameThumbailWrapper"><img alt="Jojo Bonanza" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">PragmaticPlay</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojo Bonanza !" href="/tr/casino/games/freespin-satin-al:jojo-bonanza-45957/?prevRoute=%2Fcasino%2Fcat%2Fspribe">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -98,7 +98,7 @@
                      <li class="ListGame ListItem" data-game-id="65946">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Jojobet Athena's Glory" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/2/211CBABC7B792B8688D1CF6F6D5F2907.gif"></div>
+                              <div class="GameThumbailWrapper"><img alt="Jojobet Athena's Glory" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/2/211CBABC7B792B8688D1CF6F6D5F2907.gif"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Spinomenal</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojobet Athena's Glory !" href="/tr/casino/games/freespin-satin-al:jojobet-athena-s-glory-65946/?prevRoute=%2Fcasino%2Fcat%2Fspribe">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -113,7 +113,7 @@
                      <li class="ListGame ListItem" data-game-id="63914">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Jojobet Almighty Zeus" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/9/9D6365035693F9C705AB50E94F16536D.jpg"></div>
+                              <div class="GameThumbailWrapper"><img alt="Jojobet Almighty Zeus" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/9/9D6365035693F9C705AB50E94F16536D.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">MicrogamingA</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojobet Almighty Zeus !" href="/tr/casino/games/freespin-satin-al:jojobet-almighty-zeus-63914/?prevRoute=%2Fcasino%2Fcat%2Fspribe">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -128,7 +128,7 @@
                      <li class="ListGame ListItem" data-game-id="60463">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Jojobet Wild Santa 2" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/6/680C687929E2162C55A7D359D72E12EB.gif"></div>
+                              <div class="GameThumbailWrapper"><img alt="Jojobet Wild Santa 2" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/6/680C687929E2162C55A7D359D72E12EB.gif"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Spinomenal</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojobet Wild Santa 2 !" href="/tr/casino/games/freespin-satin-al:jojobet-wild-santa-2-60463/?prevRoute=%2Fcasino%2Fcat%2Fspribe">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -143,7 +143,7 @@
                      <li class="ListGame ListItem" data-game-id="70393">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Jojobet XMAS Joker" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/8/82107298B12832ECBC51681CEDE6FE55.jpg"></div>
+                              <div class="GameThumbailWrapper"><img alt="Jojobet XMAS Joker" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/8/82107298B12832ECBC51681CEDE6FE55.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Spinomenal</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojobet XMAS Joker !" href="/tr/casino/games/freespin-satin-al:jojobet-xmas-joker-70393/?prevRoute=%2Fcasino%2Fcat%2Fspribe">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -158,7 +158,7 @@
                      <li class="ListGame ListItem" data-game-id="70960">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Jojobet Blitz" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/9/905DA7FA72B2AEDC44BB3EAFAE5897E3.jpg"></div>
+                              <div class="GameThumbailWrapper"><img alt="Jojobet Blitz" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/9/905DA7FA72B2AEDC44BB3EAFAE5897E3.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">MicrogamingA</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojobet Blitz !" href="/tr/casino/games/freespin-satin-al:jojobet-blitz-70960/?prevRoute=%2Fcasino%2Fcat%2Fspribe">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -173,7 +173,7 @@
                      <li class="ListGame ListItem WithGameTags" data-game-id="71692">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Wolf Stacks Megaways™" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/base/_casino/0/03DA07F6CA1FD147E4ADB958586AF43C.jpg"></div>
+                              <div class="GameThumbailWrapper"><img alt="Wolf Stacks Megaways™" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/0/03DA07F6CA1FD147E4ADB958586AF43C.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Wolf Stacks Megaways™ !" href="/tr/casino/games/freespin-satin-al:wolf-stacks-megaways™-71692/?prevRoute=%2Fcasino%2Fcat%2Fspribe">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -264,7 +264,7 @@
                               </span>
                            </button>
                         </div>
-                        <div class="GameIframeWrapper"><iframe src="https://gamelaunch.jojobet1009.com/Loader/Start/1990/aviator-spribe?language=tr&amp;funMode=false&amp;_sid=&amp;casinolobbyurl=https://www.jojobet1009.com/tr/casino" title="Aviator" class="GameIframe" allowfullscreen="" data-width="940" data-height="560" width="2002" height="1192.6808510638298"></iframe></div>
+                        <div class="GameIframeWrapper"><iframe src="https://gamelaunch.jojobet1009.com/Loader/Start/1990/aviator-spribe?language=tr&amp;funMode=false&amp;_sid=&amp;casinolobbyurl=/tr/casino" title="Aviator" class="GameIframe" allowfullscreen="" data-width="940" data-height="560" width="2002" height="1192.6808510638298"></iframe></div>
                      </div>
                   </div>
                </li>
