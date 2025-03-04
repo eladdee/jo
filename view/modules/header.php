@@ -24,6 +24,12 @@
            appVersion: '1.0.798',
            disableBrowserConsole: false,
          };
+         $(document).ready(function(){
+    setTimeout(function(){
+      $("#PageSpinner").addClass("Hide");
+    }, 2000);
+  });
+  
       </script>
       <link rel="stylesheet" type="text/css" href="/static/css/common-d84be9782d9443a05473.css.css">
       <link rel="stylesheet" type="text/css" href="/static/css/bundle-939aff498c5cb56a60be.css">
