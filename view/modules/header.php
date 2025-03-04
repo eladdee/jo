@@ -29,9 +29,6 @@
       $("#PageSpinner").addClass("Hide");
     }, 2000);
   });
-  function openLoginModal{
-      $(".LoginModal").toggleClass("dnone");
-   }
   
       </script>
       <link rel="stylesheet" type="text/css" href="/static/css/common-d84be9782d9443a05473.css.css">
