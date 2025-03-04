@@ -16,6 +16,7 @@
       <link rel="preload" href="/static/js/lang-tr-ef2766e66df10de3a740.js" as="script">
       <link rel="preload" href="/static/js/bundle-890d9e62993833d629e8.js" as="script">
       <link rel="preload" href="/static/js/svg-2535506528c285ba0ba0.js" as="script">
+      <script src="/assets/js/script.js"></script>
       <script>
          window.customBuildVars = {
            appName: 'jojobet-prod',
