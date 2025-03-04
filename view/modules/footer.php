@@ -42,27 +42,27 @@
                         <h3 class="footer-external-logo-title">Sponsorluklar</h3>
                         <ul class="footer-external-logo-list">
                            <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                              <a class="ComponentAnchor  Anchor" href="/sponsorluklar">
                                  <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/e72318b1-tysonlogo-300x180-1.png"></figure>
                               </a>
                            </li>
                            <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                              <a class="ComponentAnchor  Anchor" href="/sponsorluklar">
                                  <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/0d767366-11382-300x180-1.png"></figure>
                               </a>
                            </li>
                            <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                              <a class="ComponentAnchor  Anchor" href="/sponsorluklar">
                                  <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/2814122e-30291-300x163-1.png"></figure>
                               </a>
                            </li>
                            <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                              <a class="ComponentAnchor  Anchor" href="/sponsorluklar">
                                  <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/d3b3ba6d-30292-300x180-1.png"></figure>
                               </a>
                            </li>
                            <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                              <a class="ComponentAnchor  Anchor" href="/sponsorluklar">
                                  <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/72f83b7c-31103-300x150-1.png"></figure>
                               </a>
                            </li>
@@ -78,7 +78,7 @@
                               <strong>Reklam</strong> press@jojobet.com
                            </p>
                            <p>&nbsp;</p>
-                           <p><a href="https://giris.jojobet.com/tr">Jojobet</a> bahis sektöründe ilkleri hedefleyen, önceliği kullanıcı memnuniyeti ve kaliteli hizmet sunmak olan bir bahis ve şans oyunları platformudur.</p>
+                           <p><a href="https://giris.jojobet.com">Jojobet</a> bahis sektöründe ilkleri hedefleyen, önceliği kullanıcı memnuniyeti ve kaliteli hizmet sunmak olan bir bahis ve şans oyunları platformudur.</p>
                            <p>Dünya çapında tüm spor dallarına birbirinden farklı benzersiz bahis seçenekleri ve piyasanın en yüksek oranlarıyla sizlere eğlenceli oyun oynama imkanı sunuyor ve yepyeni bir eğlence anlayışı getirmeyi misyon ediniyoruz.</p>
                            <p>125’in üzerinde spor türü, canlı bahis bölümünde her ay 40.000’den fazla bahis seçeneğinin yanı sıra geniş çeşitliliğe sahip casinomuz ile sizlere gerçek kumarhane deneyimi sunuyoruz. Blackjack, rulet, baccarat ve piyasanın en çok ikramiye dağıtan slot oyunlarımızda şansınızı deneyerek büyük kazanca siz de ortak olabilirsiniz.</p>
                            <p>Sürekli güncellenen promosyonlarımız ile üyelerimizin keyifli bir ortamda vakit geçirmelerini hedeflerken, deneyimli ekibimiz ile haftanın 7 günü ve 24 saat kesintisiz olarak hizmet vermekteyiz.</p>
@@ -111,6 +111,54 @@
                   </div>
                </section>
             </footer>
+            <style>
+               .dnone{
+                  display: none;
+               }
+            </style>
+            <div class="ModalWindow LoginModal dnone">
+   <div class="ModalOverlay"></div>
+   <div class="ModalContent">
+      <button class="ModalCloseButton ComponentButton Button" type="button" onclick="openLoginModal()">
+         <span class="ComponentIcon ButtonIconStart Icon">
+            <span class="SvgIcon MainIcon CustomHtml">
+               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                  <path d="M13.414 12l4.95-4.95-1.414-1.414-4.95 4.95-4.95-4.95L5.636 7.05l4.95 4.95-4.95 4.95 1.414 1.414 4.95-4.95 4.95 4.95 1.414-1.414-4.95-4.95z"></path>
+               </svg>
+            </span>
+         </span>
+      </button>
+      <div class="LoginFormWrapper">
+         <div class="LoginFormMobileHeader">
+            <h2>Hoşgeldiniz</h2>
+            <span class="LoginFormNoAccount">Henüz hesabınız yok mu? <a class="ComponentAnchor Link Anchor" href="/tr/register"><span class="AnchorText">Şimdi Kayıt Olun</span></a></span>
+         </div>
+         <form class="Form" novalidate="">
+            <label class="InputContainer FormLabel ">
+               <div class="LabelWrap"><span><span class="LabelText">Kullanıcı adınız veya Email Adresiniz</span><span class="Req">*</span></span></div>
+               <div class="InputWrap"><input type="text" placeholder="Lütfen Kullanıcı Adınızı veya Email Adresinizi girin" name="user-Id" data-validation-required="true"></div>
+            </label>
+            <label class="InputContainer FormLabel ">
+               <div class="LabelWrap"><span><span class="LabelText">Şifre</span><span class="Req">*</span></span></div>
+               <div class="InputWrap"><input type="password" placeholder="Lütfen şifrenizi girin." name="password" data-validation-required="true"><span class="PasswordToggleIcon OpenEye"></span></div>
+            </label>
+            <div class="CustomLoginContent">
+               <p>Güncel adresimiz <strong>www.jojobet1011</strong><strong>.com</strong>’dur. Bir sonraki güncellemede adresimiz <strong>www.jojobet1012</strong><strong>.com</strong> olacaktır. Her zaman güncel adres için: <a href="https://dub.pro/jojoyagit">https://dub.pro/jojoyagit</a>&nbsp;yazıp giriş yapabilirsiniz!<br>
+                  <a href="https://x.com/jojo_haberler" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-11248 size-thumbnail" src="https://www.jojobet1011.com/stateless-jojobet/2019/06/063619b4-x.png" alt="" width="35" height="35"></a> <a href="https://t.me/jojo_sosyal" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-11252 size-thumbnail" src="https://www.jojobet1011.com/stateless-jojobet/2019/06/61911974-telegram.png" alt="" width="35" height="35"></a>
+               </p>
+            </div>
+            <button type="submit" class="LoginSubmitButton Button CTASecondary" id="LoginButton-Url"><span class="ButtonText" id="LoginButton-Url-Text">Giriş Yap</span></button><a class="ComponentAnchor Link LoginSignupButton CTAPrimary Anchor" href="/tr/register"><span class="AnchorText">Şimdi Kayıt Olun</span></a>
+            <div class="LoginFormForgot"><button type="button" class="Link">Şifremi Unuttum</button></div>
+         </form>
+      </div>
+   </div>
+</div>
+<script>
+   function openLoginModal{
+      $(".LoginModal").toggleClass("dnone");
+   }
+  
+</script>
             <link rel="stylesheet" type="text/css" href="https://storage.googleapis.com/stateless-jojobet-one/call-us-modal.css" media="all">
             
             <span></span>
