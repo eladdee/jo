@@ -1,3 +1,10 @@
+<style>
+    body.Page-Casino.Page-Sports,
+body.Page-Casino.Page-Sports .GameCategoriesWrapper,
+body.Page-Casino.Page-Sports .SectionContent {
+  background: #fff;
+}
+</style>
 <section class="SectionContent ">
    <div class="ContentWrapper TextPageWrapper ComponentLayout Layout CmsStaticPage">
       <span id="ch_1141585412" class="">
