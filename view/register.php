@@ -213,7 +213,8 @@ body.Page-Casino.Page-Sports .SectionContent {
                            </div>
                         </div>
                      </label>
-                     <label class="InputContainer FormLabel RegisterMobileNumber">
+                     <label class="InputContainer FormLabel RegisterMobileNumber" style="    position: relative;
+    bottom: 27;">
                         <div class="LabelWrap"></div>
                         <div class="InputWrap"><input type="text" name="mobile-phone" data-validation-required="true" data-validation-number="true" data-validation-min-length="7" data-validation-max-length="17"></div>
                      </label>
