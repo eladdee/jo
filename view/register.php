@@ -319,7 +319,7 @@ body.Page-Casino.Page-Sports .SectionContent {
                </form>
             </div>
 
-            <p class="TermsAndConditionsText">Kayıt ol butonuna basıldığında <a class="ComponentAnchor TermsAndConditionsLink ComponentAnchor Anchor Anchor" href="/tr/terms-conditions"><span class="AnchorText">Kurallar &amp; Şartlar</span></a> tarafınızdan kabul edilmiş sayılacaktır</p>
+            <p class="TermsAndConditionsText">Kayıt ol butonuna basıldığında <a class="ComponentAnchor TermsAndConditionsLink ComponentAnchor Anchor Anchor" href="/terms-conditions"><span class="AnchorText">Kurallar &amp; Şartlar</span></a> tarafınızdan kabul edilmiş sayılacaktır</p>
          </div>
       </div>
    </div>
