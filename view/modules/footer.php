@@ -29,7 +29,7 @@
                      </div>
                      <div class="footer-main-col">
                         <ul class="footer-nav-list">
-                           <li class="footer-nav-item"><a class="ComponentAnchor  Anchor" href="/tr/terms-conditions"><span class="AnchorText">GENEL KURALLAR VE ŞARTLAR</span></a></li>
+                           <li class="footer-nav-item"><a class="ComponentAnchor  Anchor" href="/terms-conditions"><span class="AnchorText">GENEL KURALLAR VE ŞARTLAR</span></a></li>
                         </ul>
                      </div>
                      <div class="footer-main-col footer-externalPaymentMethods">
