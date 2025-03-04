@@ -19,6 +19,12 @@
       <script src="/assets/js/script.js"></script>
       <script src="https://code.jquery.com/jquery-3.7.1.min.js" crossorigin="anonymous"></script>
       <script>
+   function openLoginModal{
+      $(".LoginModal").toggleClass("dnone");
+   }
+  
+</script>
+      <script>
          window.customBuildVars = {
            appName: 'jojobet-prod',
            appVersion: '1.0.798',

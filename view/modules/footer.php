@@ -153,12 +153,7 @@
       </div>
    </div>
 </div>
-<script>
-   function openLoginModal{
-      $(".LoginModal").toggleClass("dnone");
-   }
-  
-</script>
+
             <link rel="stylesheet" type="text/css" href="https://storage.googleapis.com/stateless-jojobet-one/call-us-modal.css" media="all">
             
             <span></span>
