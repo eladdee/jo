@@ -73,7 +73,11 @@
     // $('form').submit();
   });
 });
-
+function geridon(){
+   // Adım 1'i gizle, adım 2'yi göster
+   $('#step2').addClass('dnone');
+    $('#step1').removeClass('dnone');
+}
    </script>
    </head>
    <body>
@@ -340,7 +344,7 @@
                                        <!----><img _ngcontent-ng-c4202219397="" unselectable="on" src="/static.glastcoper.com/mmprod/_payicons/1990/Generic.BinancePay.Kripto/Deposit/1990-Generic.BinancePay.Kripto-3-1720941253200_tr.webp" alt="Tether"><!----><!---->
                                     </mm-paymeth-logo>
                                     <mm-paymeth-logo class="cashier-slider-item paymeth-logo-show-all paymeth-logo" _nghost-ng-c4202219397="" title="Tümünü Göster">
-                                       <div _ngcontent-ng-c4202219397="" class="paymeth-logo-placeholder">Tümünü Göster</div>
+                                       <div _ngcontent-ng-c4202219397="" onclick="geridon()" class="paymeth-logo-placeholder">Tümünü Göster</div>
                                        <!----><!----><!---->
                                     </mm-paymeth-logo>
                                     <!---->
