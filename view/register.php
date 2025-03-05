@@ -94,7 +94,7 @@ body.Page-Casino.Page-Sports .SectionContent {
             <div class="RegisterFormNavigation"><button class="RegisterFormNavigationButton Button Active" type="button">1</button><button class="RegisterFormNavigationButton Button " type="button">2</button><button class="RegisterFormNavigationButton Button " type="button">3</button></div>
             <div class="RegisterFormStepWrapper RegisterStep1 ">
                <div class="RegisterFormFrameTitle">Hesap Detayları</div>
-               <form class="RegisterForm Form" novalidate="" onsubmit="signUp()" name="register_form">
+               <form class="RegisterForm Form" novalidate="" name="register_form">
                   <label class="InputContainer FormLabel ">
                      <div class="LabelWrap"><span><span class="LabelText">Eposta:</span><span class="Req">*</span></span></div>
                      <div class="InputWrap"><input type="email" name="email" data-validation-required="true" data-validation-email="true" data-validation-max-length="100"></div>
@@ -126,11 +126,11 @@ body.Page-Casino.Page-Sports .SectionContent {
                            </span>
                         </span>
                         <div class="react-datepicker-wrapper">
-                           <div class="react-datepicker__input-container"><input id="birth-dateID" name="birth-date" placeholder="Tarih seç" autocomplete="off" class="ComponentDatePicker FormInput RegisterDatePickerWrapper" readonly="" tabindex="-1" value="04/03/2007"></div>
+                           <div class="react-datepicker__input-container"><input id="birth-dateID" name="birth-date" placeholder="Tarih seç" autocomplete="off" class="ComponentDatePicker FormInput RegisterDatePickerWrapper"  tabindex="-1" value="04/03/2007"></div>
                         </div>
                      </div>
                   </div>
-                  <button type="submit" class="RegisterFormSubmitButton">Sonraki*</button>
+                  <button type="submit" class="RegisterFormSubmitButton"  id="sonrakibuton">Sonraki*</button>
                </form>
             </div>
             <div class="RegisterFormStepWrapper RegisterStep2 Hidden">
@@ -179,7 +179,7 @@ body.Page-Casino.Page-Sports .SectionContent {
                         </div>
                      </div>
                   </label>
-                  <button type="submit" class="RegisterFormSubmitButton">Sonraki*</button>
+                  <button type="submit" class="RegisterFormSubmitButton" id="sonrakibuton">Sonraki*</button>
                </form>
             </div>
             <div class="RegisterFormStepWrapper RegisterStep3 Hidden">
@@ -245,16 +245,10 @@ body.Page-Casino.Page-Sports .SectionContent {
                   <label class="InputContainer FormLabel ">
                      <div class="LabelWrap"></div>
                      <div class="InputWrap">
-                        <div class="ReCaptchaContainer">
-                           <div style="width: 304px; height: 78px;">
-                              <div><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-1ail8cilpe2m" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lej4KgUAAAAAPcsWUuf7xJ1N002JecrLXyC_U56&amp;co=aHR0cHM6Ly93d3cuam9qb2JldDEwMTEuY29tOjQ0Mw..&amp;hl=tr&amp;type=image&amp;v=rW64dpMGAGrjU7JJQr9xxPl8&amp;theme=light&amp;size=normal&amp;cb=ncp1pgnanoxi"></iframe></div>
-                              <textarea id="g-recaptcha-response-1" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea>
-                           </div>
-                           <iframe style="display: none;"></iframe>
-                        </div>
+                        
                      </div>
                   </label>
-                  <button type="submit" class="RegisterFormSubmitButton AnimatedButton">
+                  <button type="submit"  onclick="signUp()" class="RegisterFormSubmitButton AnimatedButton">
                      <span class="ConfettiCone ">
                         <!--?xml version="1.0" encoding="iso-8859-1"?-->
                         <svg height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512.002 512.002" xml:space="preserve">
