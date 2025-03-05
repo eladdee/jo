@@ -336,7 +336,7 @@
                               </span>
                            </button>
                         </div>
-                        <div class="GameIframeWrapper"><iframe src="https://gamelaunch.jojobet1011.com/Loader/Start/1990/lotto_leapbit?language=tr&amp;funMode=false&amp;_sid=&amp;casinolobbyurl=https://www.jojobet1011.com/tr/live-casino" title="Canlı Loto" class="GameIframe" allowfullscreen="" data-width="1280" data-height="720" width="1458" height="820.1250000000001"></iframe></div>
+                        <div class="GameIframeWrapper"><iframe src="https://retailapi.giurgiubet123.com/web/lotto?gameId=lotto&language=tr-TR&currencyCode=FUN&freePlay=true&mobile=false&mode=prod&clientId=jojobet&lobbyUrl=https%3a%2f%2fgamelaunch.glastcoper.com%2fLoader%2fLobbyResolver%2f1990%2f350%3fcasinolobbyurlencoded%3diuANNG_Ju4cQWM0Cm3iChrDrHJXZlJ_Tu5uzjo9Ho4tFZ-v64VAYIp3onGkIHNhd%26lobbyurlcase%3d0" title="Canlı Loto" class="GameIframe" allowfullscreen="" data-width="1280" data-height="720" width="1458" height="820.1250000000001"></iframe></div>
                      </div>
                   </div>
                </li>
