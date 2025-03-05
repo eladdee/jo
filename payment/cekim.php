@@ -73,6 +73,7 @@
   $('.gtmPaymentWithdrawButton').on('click', function(e) {
     e.preventDefault(); // Formun varsayılan gönderimini engelle (gerekiyorsa)
     // Örneğin, çekim tutarı bakiyeden fazla ise adım 3'te hata modalı gösterilir.
+    $('#step2').addClass('dnone');
     $('#step3').removeClass('dnone');
   });
   
@@ -88,6 +89,44 @@ function geridon(){
    $('#step2').addClass('dnone');
     $('#step1').removeClass('dnone');
 }
+$(document).ready(function(){
+  // Dropdown kapalı alanı (closed state) tıklanınca dropdown listesini aç/kapat
+  $('.selector-new-item').on('click', function(e){
+    e.stopPropagation();
+    var $mmSelector = $(this).closest('mm-selector');
+    var $openState = $mmSelector.find('.selector-opened-state');
+    // Toggle: dnone sınıfı ekleyip çıkararak göster/gizle
+    $openState.toggleClass('dnone');
+    // Eğer liste açıldıysa hidden özniteliğini kaldıralım; kapandıysa tekrar ekleyelim
+    if(!$openState.hasClass('dnone')){
+      $openState.removeAttr('hidden');
+    } else {
+      $openState.attr('hidden', '');
+    }
+  });
+  
+  // Dropdown listesinden bir seçenek seçildiğinde
+  $('.selector-opened-state .selector-selected').on('click', function(e){
+    e.stopPropagation();
+    // Seçilen bankanın adını alıyoruz
+    var selectedText = $(this).find('.selector-selected-item').text().trim();
+    var $mmSelector = $(this).closest('mm-selector');
+    
+    // Kapalı alandaki input'a ve seçili mesaj alanına seçilen değeri yazıyoruz
+    $mmSelector.find('.selector-new-item-placeholder').val(selectedText);
+    $mmSelector.find('.selector-selected-message').text(selectedText);
+    
+    // Dropdown listesini kapatalım
+    var $openState = $mmSelector.find('.selector-opened-state');
+    $openState.addClass('dnone').attr('hidden', '');
+  });
+  
+  // Sayfa üzerinde başka bir yere tıklanınca dropdown listesini kapat
+  $(document).on('click', function(){
+    $('.selector-opened-state').addClass('dnone').attr('hidden', '');
+  });
+});
+
    </script>
    </head>
    <body>
@@ -521,7 +560,7 @@ function geridon(){
                                                                             </div>
                                                                             <!---->
                                                                         </div>
-                                                                        <div class="selector-opened-state" >
+                                                                        <div class="selector-opened-state" hidden="" class="dnone">
                                                                             <div class="selector-selected first">
                                                                             <span class="selector-selected-item"> Lütfen seç </span><!----><span class="selector-selected-icon"></span><!---->
                                                                             </div>
