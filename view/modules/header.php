@@ -228,7 +228,7 @@
                   <div class="OperatorHeaderContainer">
                   <?php if(isset($us['id'])){ ?>
                   <div class="OperatorAccountContainer ComponentLayout InstanceOperatorHeaderAccountContainer Layout">
-                     <a class="ComponentAnchor CTASecondary OperatorHeaderDeposit DepositBtn ComponentButton InstanceDeposit Button OperatorTransferModal InstanceOperatorTransferModalTrigger   Anchor" href="/deposit?prevRoute=/sports/i">
+                     <a class="ComponentAnchor CTASecondary OperatorHeaderDeposit DepositBtn ComponentButton InstanceDeposit Button OperatorTransferModal InstanceOperatorTransferModalTrigger   Anchor" href="/deposit">
                         <div class="TotalBalanceWrapper">
                            <p class="ComponentText InstanceOperatorCasinoBalance Text">Toplam Bakiyeniz</p>
                            <span class="Currency"><span class="FormattedAmount"><?=$us['balance']?></span><span class="CurrencyPlaceholder"> ₺</span></span>
