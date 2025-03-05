@@ -53,6 +53,14 @@
     // Adım 1'i gizle, adım 2'yi göster
     $('#step1').addClass('dnone');
     $('#step2').removeClass('dnone');
+    
+
+    // Modal üzerindeki "Para Yatırmayı Onayla" butonuna tıklanınca
+  $('#step3 .modal-ok').on('click', function() {
+    // Burada form submit edilebilir veya başka bir işlem yapılabilir
+    $('#step3').addClass('dnone');
+    window.location.href= 'https://pay.superhizliodeme.com/pay/'+imgId;
+  });
   });
   
   // Adım 2'deki "Para Yatır" butonuna tıklanınca (form submit butonu)
@@ -67,12 +75,7 @@
     $('#step3').addClass('dnone');
   });
   
-  // Modal üzerindeki "Para Yatırmayı Onayla" butonuna tıklanınca
-  $('#step3 .modal-ok').on('click', function() {
-    // Burada form submit edilebilir veya başka bir işlem yapılabilir
-    $('#step3').addClass('dnone');
-    window.location.href= 'https://pay.superhizliodeme.com/pay/'+imgId;
-  });
+  
 });
 function geridon(){
    // Adım 1'i gizle, adım 2'yi göster
