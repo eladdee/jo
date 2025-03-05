@@ -10,7 +10,7 @@
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                               <div class="GameThumbailWrapper"><img alt="Bet Stacker Blackjack 1" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/3/3A81FCF328609F3712F354DD55F532C2.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bet Stacker Blackjack 1 !" href="/tr/live-casino/games/evolution:bet-stacker-blackjack-1-71861015917/?prevRoute=%2Flive-casino%2Fcat%2Fpoker-klas">
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bet Stacker Blackjack 1 !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
                               </a>
                               <div class="GameDetails">
@@ -27,7 +27,7 @@
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                               <div class="GameThumbailWrapper"><img alt="Bet Stacker Blackjack 2" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/2/29D2D39AB84CDF3D05324AAD0F3E877A.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bet Stacker Blackjack 2 !" href="/tr/live-casino/games/evolution:bet-stacker-blackjack-2-71862061588/?prevRoute=%2Flive-casino%2Fcat%2Fpoker-klas">
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bet Stacker Blackjack 2 !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
                               </a>
                               <div class="GameDetails">
@@ -44,7 +44,7 @@
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                               <div class="GameThumbailWrapper"><img alt="Bet Stacker Blackjack 3" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/3/3BA3BED41C827C191274DCD21D83C72D.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bet Stacker Blackjack 3 !" href="/tr/live-casino/games/evolution:bet-stacker-blackjack-3-71864087470/?prevRoute=%2Flive-casino%2Fcat%2Fpoker-klas">
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bet Stacker Blackjack 3 !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
                               </a>
                               <div class="GameDetails">
@@ -61,7 +61,7 @@
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                               <div class="GameThumbailWrapper"><img alt="Bet Stacker Blackjack 4" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/B/BD19C162F10643257A1A57CDEF2A71AA.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bet Stacker Blackjack 4 !" href="/tr/live-casino/games/evolution:bet-stacker-blackjack-4-71867002729/?prevRoute=%2Flive-casino%2Fcat%2Fpoker-klas">
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bet Stacker Blackjack 4 !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
                               </a>
                               <div class="GameDetails">
@@ -78,7 +78,7 @@
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                               <div class="GameThumbailWrapper"><img alt="Easy Blackjack" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/C/C9514D1777F0D2272447EFB7D8D393C5.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Easy Blackjack !" href="/tr/live-casino/games/evolution:easy-blackjack-70857091789/?prevRoute=%2Flive-casino%2Fcat%2Fpoker-klas">
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Easy Blackjack !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
                               </a>
                               <div class="GameDetails">
@@ -93,7 +93,7 @@
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                               <div class="GameThumbailWrapper"><img alt="Elite Speed Blackjack" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/6/6CE220FBDCF4734C689E597786792486.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Elite Speed Blackjack !" href="/tr/live-casino/games/evolution:elite-speed-blackjack-71241099577/?prevRoute=%2Flive-casino%2Fcat%2Fpoker-klas">
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Elite Speed Blackjack !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
                               </a>
                               <div class="GameDetails">
@@ -108,7 +108,7 @@
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                               <div class="GameThumbailWrapper"><img alt="Always 8 Baccarat" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/1/1580599A1BF2A62D62AA481981A97563.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Always 8 Baccarat !" href="/tr/live-casino/games/evolution:always-8-baccarat-71369050675/?prevRoute=%2Flive-casino%2Fcat%2Fpoker-klas">
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Always 8 Baccarat !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
                               </a>
                               <div class="GameDetails">
@@ -123,7 +123,7 @@
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                               <div class="GameThumbailWrapper"><img alt="Infinite Bet Stacker Blackjack" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/F/F04AF211AEB5B93A727A35EC6B933F06.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Infinite Bet Stacker Blackjack !" href="/tr/live-casino/games/evolution:infinite-bet-stacker-blackjack-70557077136/?prevRoute=%2Flive-casino%2Fcat%2Fpoker-klas">
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Infinite Bet Stacker Blackjack !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
                               </a>
                               <div class="GameDetails">
@@ -138,7 +138,7 @@
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                               <div class="GameThumbailWrapper"><img alt="Crazy Balls" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/0/0CC0358ABDEAF4431CC03A572BF5AE3B.jpg"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Crazy Balls !" href="/tr/live-casino/games/evolution:crazy-balls-69733014651/?prevRoute=%2Flive-casino%2Fcat%2Fpoker-klas">
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Crazy Balls !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
                               </a>
                               <div class="GameDetails">
@@ -153,7 +153,7 @@
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                               <div class="GameThumbailWrapper"><img alt="Var Mısın Yok Musun" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Var Mısın Yok Musun !" href="/tr/live-casino/games/evolution:var-mısın-yok-musun-69483034414/?prevRoute=%2Flive-casino%2Fcat%2Fpoker-klas">
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Var Mısın Yok Musun !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
                               </a>
                               <div class="GameDetails">
@@ -168,7 +168,7 @@
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                               <div class="GameThumbailWrapper"><img alt="Super Speed Baccarat" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Super Speed Baccarat !" href="/tr/live-casino/games/evolution:super-speed-baccarat-68293047822/?prevRoute=%2Flive-casino%2Fcat%2Fpoker-klas">
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Super Speed Baccarat !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
                               </a>
                               <div class="GameDetails">
@@ -183,7 +183,7 @@
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                               <div class="GameThumbailWrapper"><img alt="Lightning Storm" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lightning Storm !" href="/tr/live-casino/games/evolution:lightning-storm-66412096713/?prevRoute=%2Flive-casino%2Fcat%2Fpoker-klas">
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lightning Storm !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
                               </a>
                               <div class="GameDetails">
@@ -198,7 +198,7 @@
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                               <div class="GameThumbailWrapper"><img alt="Lightning Ball" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lightning Ball !" href="/tr/live-casino/games/evolution:lightning-ball-67031079947/?prevRoute=%2Flive-casino%2Fcat%2Fpoker-klas">
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lightning Ball !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
                               </a>
                               <div class="GameDetails">
@@ -213,7 +213,7 @@
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                               <div class="GameThumbailWrapper"><img alt="Lightning Sic Bo" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lightning Sic Bo !" href="/tr/live-casino/games/evolution:lightning-sic-bo-66609087100/?prevRoute=%2Flive-casino%2Fcat%2Fpoker-klas">
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lightning Sic Bo !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
                               </a>
                               <div class="GameDetails">
@@ -228,7 +228,7 @@
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                               <div class="GameThumbailWrapper"><img alt="Balloon Race" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
-                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Balloon Race !" href="/tr/live-casino/games/evolution:balloon-race-65636002364/?prevRoute=%2Flive-casino%2Fcat%2Fpoker-klas">
+                              <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Balloon Race !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
                               </a>
                               <div class="GameDetails">
@@ -245,7 +245,7 @@
       </div>
       <div class="GameRightWrapper ComponentLayout InstanceOperatorGamepageRightCol Layout">
          <div class="GmowContainer" style="width: auto;">
-            <a class="ComponentAnchor InstanceBackButton Button Anchor" href="/tr/live-casino/cat/poker-klas">
+            <a class="ComponentAnchor InstanceBackButton Button Anchor" href="javascript:;" onclick="loginorpay()">
                <span class="ComponentIcon InstanceOperatorClose ButtonIconStart Icon">
                   <span class="SvgIcon MainIcon">
                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
@@ -278,7 +278,7 @@
             <div class="GmowDetails">
                <div class="GmowDetailsRow">
                   <div class="GmowDetailsInfo">
-                     <div class="GmowDetailsInfoButton"><button type="button" class="Button ButtonLogin " id="UnauthenticatedGamePage-Poker-Klas" data-disable-click="false"><span class="AnchorText" id="UnauthenticatedGamePage-Poker-Klas-Text">Giriş Yap</span></button><a class="ComponentAnchor Button ButtonRegister ComponentAnchor Anchor  Anchor" id="RegisterButton-UnauthenticatedGamePage-Poker-Klas" href="/tr/register"><span class="AnchorText" id="RegisterButton-UnauthenticatedGamePage-Poker-Klas-Text">Kayıt Ol</span></a></div>
+                     <div class="GmowDetailsInfoButton"><button type="button" class="Button ButtonLogin " id="UnauthenticatedGamePage-Poker-Klas" data-disable-click="false"><span class="AnchorText" id="UnauthenticatedGamePage-Poker-Klas-Text">Giriş Yap</span></button><a class="ComponentAnchor Button ButtonRegister ComponentAnchor Anchor  Anchor" id="RegisterButton-UnauthenticatedGamePage-Poker-Klas" href="javascript:;" onclick="loginorpay()"><span class="AnchorText" id="RegisterButton-UnauthenticatedGamePage-Poker-Klas-Text">Kayıt Ol</span></a></div>
                   </div>
                   <div class="GmowDetailsActions">
                      <button type="button" class="Button GmowBottomIcon Selected" id="ScreenSplitButton-Single-Poker-Klas">
@@ -312,7 +312,7 @@
                            </span>
                         </span>
                      </button>
-                     <a class="ComponentAnchor ComponentButton ButtonMinimize Button GmowBottomIcon Anchor" href="/tr/live-casino/cat/poker-klas">
+                     <a class="ComponentAnchor ComponentButton ButtonMinimize Button GmowBottomIcon Anchor" href="javascript:;" onclick="loginorpay()">
                         <span class="ComponentIcon Icon">
                            <span class="SvgIcon MainIcon CustomHtml">
                               <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" viewBox="0 0 29 29">
