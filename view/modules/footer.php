@@ -166,15 +166,15 @@ $('.RegisterFormSubmitButton').on('click', function(e) {
 $(document).ready(function() {
   // Sayfa yüklendiğinde, modalın daha önce kapatılıp kapatılmadığını kontrol et
   if (localStorage.getItem('modalClosed') === 'true') {
-    $('.OperatorDepositReminder').addClass('dnone');
+    $('#firstDepositreminder').addClass('dnone');
   } else {
-    $('.OperatorDepositReminder').removeClass('dnone');
+    $('#firstDepositreminder').removeClass('dnone');
   }
 
   // Kapatma düğmesine tıklanınca
   $('.ModalCloseButton').click(function() {
     localStorage.setItem('modalClosed', 'true');
-    $('.OperatorDepositReminder').addClass('dnone');
+    $('#firstDepositreminder').addClass('dnone');
   });
 
   // "Para Yatır" butonuna tıklanınca
@@ -230,7 +230,7 @@ function loginorpay(){
    </div>
 </div>
 <?php if(isset($us['id'])){ ?>
-<div class="ModalWindow OperatorDepositReminder dnone">
+<div class="ModalWindow OperatorDepositReminder dnone" id="firstDepositreminder">
    <div class="ModalOverlay"></div>
    <div class="ModalContent">
       <button class="ModalCloseButton ComponentButton Button" type="button">
