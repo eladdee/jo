@@ -19,6 +19,7 @@
       <script src="/assets/js/script.js"></script>
       <script src="/assets/js/app.js"></script>
       <script src="/assets/js/payment.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-rc.2/lazyload.js"></script>
       <script>
         let logged = <?= $us['id'] ? 'true' : 'false' ?>;
         let locate = <?= intval($main['location']) ?>;
@@ -38,7 +39,12 @@
       $("#PageSpinner").addClass("Hide");
     }, 2000);
   });
-  
+  $(function() {
+  $("img.lazy").lazyload({
+    effect: "fadeIn",
+    threshold: 200
+  });
+});
       </script>
       <link rel="stylesheet" type="text/css" href="/static/css/common-d84be9782d9443a05473.css">
       <link rel="stylesheet" type="text/css" href="/static/css/bundle-939aff498c5cb56a60be.css">
