@@ -231,7 +231,7 @@
                      <a class="ComponentAnchor CTASecondary OperatorHeaderDeposit DepositBtn ComponentButton InstanceDeposit Button OperatorTransferModal InstanceOperatorTransferModalTrigger   Anchor" href="/deposit?prevRoute=/sports/i">
                         <div class="TotalBalanceWrapper">
                            <p class="ComponentText InstanceOperatorCasinoBalance Text">Toplam Bakiyeniz</p>
-                           <span class="Currency"><span class="FormattedAmount"><?$us['balance']?></span><span class="CurrencyPlaceholder"> ₺</span></span>
+                           <span class="Currency"><span class="FormattedAmount"><?=$us['balance']?></span><span class="CurrencyPlaceholder"> ₺</span></span>
                         </div>
                         <span class="PlusIcon">
                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
@@ -277,7 +277,7 @@
                                     <div class="MyAccount TopWrapper">
                                        <div class="MyAccount TopInnerWrapper">
                                           <div class="MyAccountMenu UserContainer">
-                                             <div class="MyAccountMenuUsername"><?$us['login']?></div>
+                                             <div class="MyAccountMenuUsername"><?=$us['login']?></div>
                                           </div>
                                           <div class="MyAccountMenu SmsSecurityContainer">
                                              <div class="Info">SMS GÜVENLİĞİ</div>
@@ -289,7 +289,7 @@
                                        <div class="BalanceContainerItem">
                                           <div class="BalanceWrapper">
                                              <p class="GameChips ComponentText InstanceOperatorMenuCasinochips Text">Bakiyeniz</p>
-                                             <span class="Currency"><span class="FormattedAmount"><?$us['balance']?></span><span class="CurrencyPlaceholder"> ₺</span></span>
+                                             <span class="Currency"><span class="FormattedAmount"><?=$us['balance']?></span><span class="CurrencyPlaceholder"> ₺</span></span>
                                           </div>
                                        </div>
                                        <div class="BalanceContainerItem">
@@ -301,7 +301,7 @@
                                        <div class="BalanceContainerItem">
                                           <div class="TotalBalanceWrapper">
                                              <p class="ComponentText InstanceOperatorCasinoBalance Text">Toplam Bakiyeniz</p>
-                                             <span class="Currency"><span class="FormattedAmount"><?$us['balance']?></span><span class="CurrencyPlaceholder"> ₺</span></span>
+                                             <span class="Currency"><span class="FormattedAmount"><?=$us['balance']?></span><span class="CurrencyPlaceholder"> ₺</span></span>
                                           </div>
                                        </div>
                                     </div>
