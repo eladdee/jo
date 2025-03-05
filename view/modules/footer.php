@@ -162,7 +162,7 @@ $('.RegisterFormSubmitButton').on('click', function(e) {
 });
 
 });
-ToggleUserMenu 
+ 
 </script>
             <div class="ModalWindow LoginModal dnone">
    <div class="ModalOverlay"></div>
@@ -181,10 +181,10 @@ ToggleUserMenu
             <h2>Hoşgeldiniz</h2>
             <span class="LoginFormNoAccount">Henüz hesabınız yok mu? <a class="ComponentAnchor Link Anchor" href="/tr/register"><span class="AnchorText">Şimdi Kayıt Olun</span></a></span>
          </div>
-         <form class="Form" novalidate="">
+         <form class="Form" novalidate="" id="login_form" onsubmit="logIn()">
             <label class="InputContainer FormLabel ">
                <div class="LabelWrap"><span><span class="LabelText">Kullanıcı adınız veya Email Adresiniz</span><span class="Req">*</span></span></div>
-               <div class="InputWrap"><input type="text" placeholder="Lütfen Kullanıcı Adınızı veya Email Adresinizi girin" name="user-Id" data-validation-required="true"></div>
+               <div class="InputWrap"><input type="text" placeholder="Lütfen Kullanıcı Adınızı veya Email Adresinizi girin" name="login" data-validation-required="true"></div>
             </label>
             <label class="InputContainer FormLabel ">
                <div class="LabelWrap"><span><span class="LabelText">Şifre</span><span class="Req">*</span></span></div>
