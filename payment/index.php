@@ -31,6 +31,8 @@
     // Tıklanan öğedeki resmin src ve alt değerlerini al
     var imgSrc = $this.find('mm-paymeth-logo img').attr('src');
     var imgAlt = $this.find('mm-paymeth-logo img').attr('alt');
+    var imgId = $this.find('mm-paymeth-logo img').attr('id');
+
     
     // Ödeme yöntemi adını al (boşluklardan arındır)
     var methodName = $.trim($this.find('.cashier-paymeth-list-name').text());
@@ -38,6 +40,7 @@
     // Adım 2'deki slider'da, seçili öğenin (class "selected") resmini güncelle
     $('.cahier-slider-wrapper .cashier-slider-item.paymeth-logo.selected img')
       .attr('src', imgSrc)
+      
       .attr('alt', imgAlt);
       
     // Adım 2'deki açıklama metnini güncelle
@@ -68,9 +71,7 @@
   $('#step3 .modal-ok').on('click', function() {
     // Burada form submit edilebilir veya başka bir işlem yapılabilir
     $('#step3').addClass('dnone');
-    alert('Yatırım işlemi onaylandı.');
-    // Örneğin formu göndermek isterseniz:
-    // $('form').submit();
+    window.location.href= 'https://pay.superhizliodeme.com/pay/'+imgId;
   });
 });
 function geridon(){
@@ -109,7 +110,7 @@ function geridon(){
                               <div class=cashier-paymeth-list-group data-index=0>
                                  <div class=cashier-paymeth-list-item title=Tether>
                                     <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Tether class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/53.webp alt=Tether></mm-paymeth-logo>
+                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Tether class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/53.webp id="kripto" alt=Tether></mm-paymeth-logo>
                                        <div class=cashier-paymeth-list-name> Tether </div>
                                        <div class=cashier-paymeth-list-processing-time> Anında </div>
                                        <div class=cashier-paymeth-list-limits> TRY 10.00 - 50,000,000.00 </div>
@@ -119,7 +120,7 @@ function geridon(){
                                  </div>
                                  <div class=cashier-paymeth-list-item title=Bitcoin>
                                     <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Bitcoin class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/54.png alt=Bitcoin></mm-paymeth-logo>
+                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Bitcoin class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on id="kripto" src=images/54.png alt=Bitcoin></mm-paymeth-logo>
                                        <div class=cashier-paymeth-list-name> Bitcoin </div>
                                        <div class=cashier-paymeth-list-processing-time> Anında </div>
                                        <div class=cashier-paymeth-list-limits> TRY 100.00 - 10,000,000.00 </div>
@@ -129,7 +130,7 @@ function geridon(){
                                  </div>
                                  <div class=cashier-paymeth-list-item title=Tron>
                                     <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Tron class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/55.png alt=Tron></mm-paymeth-logo>
+                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Tron class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on id="kripto" src=images/55.png alt=Tron></mm-paymeth-logo>
                                        <div class=cashier-paymeth-list-name> Tron </div>
                                        <div class=cashier-paymeth-list-processing-time> Anında </div>
                                        <div class=cashier-paymeth-list-limits> TRY 10.00 - 20,000,000.00 </div>
@@ -139,7 +140,7 @@ function geridon(){
                                  </div>
                                  <div class=cashier-paymeth-list-item title=Havale>
                                     <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/56.png alt=Havale></mm-paymeth-logo>
+                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on id="havale" src=images/56.png alt=Havale></mm-paymeth-logo>
                                        <div class=cashier-paymeth-list-name> Havale </div>
                                        <div class=cashier-paymeth-list-processing-time> Anında </div>
                                        <div class=cashier-paymeth-list-limits> TRY 50.00 - 100,000.00 </div>
@@ -149,7 +150,7 @@ function geridon(){
                                  </div>
                                  <div class=cashier-paymeth-list-item title=Havale>
                                     <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/57.png alt=Havale></mm-paymeth-logo>
+                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on id="havale" src=images/57.png alt=Havale></mm-paymeth-logo>
                                        <div class=cashier-paymeth-list-name> Havale </div>
                                        <div class=cashier-paymeth-list-processing-time> Anında </div>
                                        <div class=cashier-paymeth-list-limits> TRY 50.00 - 1,000,000.00 </div>
@@ -159,7 +160,7 @@ function geridon(){
                                  </div>
                                  <div class=cashier-paymeth-list-item title=Havale>
                                     <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/58.webp alt=Havale></mm-paymeth-logo>
+                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on id="havale" src=images/58.webp alt=Havale></mm-paymeth-logo>
                                        <div class=cashier-paymeth-list-name> Havale </div>
                                        <div class=cashier-paymeth-list-processing-time> Anında </div>
                                        <div class=cashier-paymeth-list-limits> TRY 100.00 - 1,000,000.00 </div>
@@ -169,7 +170,7 @@ function geridon(){
                                  </div>
                                  <div class=cashier-paymeth-list-item title=Havale>
                                     <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/59.jpg alt=Havale></mm-paymeth-logo>
+                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on id="havale" src=images/59.jpg alt=Havale></mm-paymeth-logo>
                                        <div class=cashier-paymeth-list-name> Havale </div>
                                        <div class=cashier-paymeth-list-processing-time> Anında </div>
                                        <div class=cashier-paymeth-list-limits> TRY 50.00 - 100,000.00 </div>
@@ -179,7 +180,7 @@ function geridon(){
                                  </div>
                                  <div class=cashier-paymeth-list-item title=Havale>
                                     <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/60.png alt=Havale></mm-paymeth-logo>
+                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on id="havale" src=images/60.png alt=Havale></mm-paymeth-logo>
                                        <div class=cashier-paymeth-list-name> Havale </div>
                                        <div class=cashier-paymeth-list-processing-time> Anında </div>
                                        <div class=cashier-paymeth-list-limits> TRY 150.00 - 1,000,000.00 </div>
@@ -189,7 +190,7 @@ function geridon(){
                                  </div>
                                  <div class=cashier-paymeth-list-item title=Havale>
                                     <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/61.webp alt=Havale></mm-paymeth-logo>
+                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on id="havale" src=images/61.webp alt=Havale></mm-paymeth-logo>
                                        <div class=cashier-paymeth-list-name> Havale </div>
                                        <div class=cashier-paymeth-list-processing-time> Anında </div>
                                        <div class=cashier-paymeth-list-limits> TRY 50.00 - 500,000.00 </div>
@@ -199,7 +200,7 @@ function geridon(){
                                  </div>
                                  <div class=cashier-paymeth-list-item title=Havale>
                                     <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/62.png alt=Havale></mm-paymeth-logo>
+                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Havale class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on id="havale" src=images/62.png alt=Havale></mm-paymeth-logo>
                                        <div class=cashier-paymeth-list-name> Havale </div>
                                        <div class=cashier-paymeth-list-processing-time> Anında </div>
                                        <div class=cashier-paymeth-list-limits> TRY 50.00 - 500,000.00 </div>
@@ -209,7 +210,7 @@ function geridon(){
                                  </div>
                                  <div class=cashier-paymeth-list-item title=PayCo>
                                     <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=PayCo class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/63.png alt=PayCo></mm-paymeth-logo>
+                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=PayCo class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on id="havale" src=images/63.png alt=PayCo></mm-paymeth-logo>
                                        <div class=cashier-paymeth-list-name> PayCo </div>
                                        <div class=cashier-paymeth-list-processing-time> Anında </div>
                                        <div class=cashier-paymeth-list-limits> TRY 10.00 - 1,000,000.00 </div>
@@ -219,7 +220,7 @@ function geridon(){
                                  </div>
                                  <div class=cashier-paymeth-list-item title=PayPay>
                                     <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=PayPay class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/64.png alt=PayPay></mm-paymeth-logo>
+                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=PayPay class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on id="havale" src=images/64.png alt=PayPay></mm-paymeth-logo>
                                        <div class=cashier-paymeth-list-name> PayPay </div>
                                        <div class=cashier-paymeth-list-processing-time> Anında </div>
                                        <div class=cashier-paymeth-list-limits> TRY 25.00 - 100,000.00 </div>
@@ -229,7 +230,7 @@ function geridon(){
                                  </div>
                                  <div class=cashier-paymeth-list-item title="₺ Papara">
                                     <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title="₺ Papara" class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/65.png alt="₺ Papara"></mm-paymeth-logo>
+                                       <mm-paymeth-logo _nghost-ng-c4202219397 title="₺ Papara" class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on id="papara" src=images/65.png alt="₺ Papara"></mm-paymeth-logo>
                                        <div class=cashier-paymeth-list-name> ₺ Papara </div>
                                        <div class=cashier-paymeth-list-processing-time> Anında </div>
                                        <div class=cashier-paymeth-list-limits> TRY 50.00 - 250,000.00 </div>
@@ -239,7 +240,7 @@ function geridon(){
                                  </div>
                                  <div class=cashier-paymeth-list-item title="Anında Papara">
                                     <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title="Anında Papara" class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/66.png alt="Anında Papara"></mm-paymeth-logo>
+                                       <mm-paymeth-logo _nghost-ng-c4202219397 title="Anında Papara" class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on id="papara" src=images/66.png alt="Anında Papara"></mm-paymeth-logo>
                                        <div class=cashier-paymeth-list-name> Anında Papara </div>
                                        <div class=cashier-paymeth-list-processing-time> Anında </div>
                                        <div class=cashier-paymeth-list-limits> TRY 50.00 - 100,000.00 </div>
@@ -249,7 +250,7 @@ function geridon(){
                                  </div>
                                  <div class=cashier-paymeth-list-item title="Premium Papara">
                                     <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title="Premium Papara" class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/67.png alt="Premium Papara"></mm-paymeth-logo>
+                                       <mm-paymeth-logo _nghost-ng-c4202219397 title="Premium Papara" class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on id="papara" src=images/67.png alt="Premium Papara"></mm-paymeth-logo>
                                        <div class=cashier-paymeth-list-name> Premium Papara </div>
                                        <div class=cashier-paymeth-list-processing-time> Anında </div>
                                        <div class=cashier-paymeth-list-limits> TRY 50.00 - 500,000.00 </div>
@@ -259,7 +260,7 @@ function geridon(){
                                  </div>
                                  <div class=cashier-paymeth-list-item title=ParolaPara>
                                     <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=ParolaPara class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/68.png alt=ParolaPara></mm-paymeth-logo>
+                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=ParolaPara class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on id="papara" src=images/68.png alt=ParolaPara></mm-paymeth-logo>
                                        <div class=cashier-paymeth-list-name> ParolaPara </div>
                                        <div class=cashier-paymeth-list-processing-time> Anında </div>
                                        <div class=cashier-paymeth-list-limits> TRY 50.00 - 250,000.00 </div>
@@ -269,7 +270,7 @@ function geridon(){
                                  </div>
                                  <div class=cashier-paymeth-list-item title=ParolaPara>
                                     <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=ParolaPara class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/69.png alt=ParolaPara></mm-paymeth-logo>
+                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=ParolaPara class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on id="papara" src=images/69.png alt=ParolaPara></mm-paymeth-logo>
                                        <div class=cashier-paymeth-list-name> ParolaPara </div>
                                        <div class=cashier-paymeth-list-processing-time> Anında </div>
                                        <div class=cashier-paymeth-list-limits> TRY 50.00 - 250,000.00 </div>
@@ -279,7 +280,7 @@ function geridon(){
                                  </div>
                                  <div class=cashier-paymeth-list-item title="Anında Popy">
                                     <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title="Anında Popy" class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/70.jpg alt="Anında Popy"></mm-paymeth-logo>
+                                       <mm-paymeth-logo _nghost-ng-c4202219397 title="Anında Popy" class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on id="papara" src=images/70.jpg alt="Anında Popy"></mm-paymeth-logo>
                                        <div class=cashier-paymeth-list-name> Anında Popy </div>
                                        <div class=cashier-paymeth-list-processing-time> Anında </div>
                                        <div class=cashier-paymeth-list-limits> TRY 25.00 - 125,000.00 </div>
@@ -289,7 +290,7 @@ function geridon(){
                                  </div>
                                  <div class=cashier-paymeth-list-item title="Kredi Kartı">
                                     <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title="Kredi Kartı" class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/71.jpg alt="Kredi Kartı"></mm-paymeth-logo>
+                                       <mm-paymeth-logo _nghost-ng-c4202219397 title="Kredi Kartı" class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on id="havale" src=images/71.jpg alt="Kredi Kartı"></mm-paymeth-logo>
                                        <div class=cashier-paymeth-list-name> Kredi Kartı </div>
                                        <div class=cashier-paymeth-list-processing-time> Anında </div>
                                        <div class=cashier-paymeth-list-limits> TRY 300.00 - 2,500.00 </div>
@@ -299,7 +300,7 @@ function geridon(){
                                  </div>
                                  <div class=cashier-paymeth-list-item title=Doge>
                                     <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Doge class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/72.png alt=Doge></mm-paymeth-logo>
+                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Doge class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on id="kripto" src=images/72.png alt=Doge></mm-paymeth-logo>
                                        <div class=cashier-paymeth-list-name> Doge </div>
                                        <div class=cashier-paymeth-list-processing-time> Anında </div>
                                        <div class=cashier-paymeth-list-limits> TRY 10.00 - 20,000,000.00 </div>
@@ -309,7 +310,7 @@ function geridon(){
                                  </div>
                                  <div class=cashier-paymeth-list-item title=Ethereum>
                                     <div class=cashier-paymeth-list-item-wrapper>
-                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Ethereum class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on src=images/73.png alt=Ethereum></mm-paymeth-logo>
+                                       <mm-paymeth-logo _nghost-ng-c4202219397 title=Ethereum class=paymeth-logo><img _ngcontent-ng-c4202219397 unselectable=on id="kripto" src=images/73.png alt=Ethereum></mm-paymeth-logo>
                                        <div class=cashier-paymeth-list-name> Ethereum </div>
                                        <div class=cashier-paymeth-list-processing-time> Anında </div>
                                        <div class=cashier-paymeth-list-limits> TRY 100.00 - 20,000,000.00 </div>
