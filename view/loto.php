@@ -1,3 +1,11 @@
+<style>
+   #FooterElement{
+      display: none;
+   }
+   #HeaderElement{
+      display: none;
+   }
+</style>
 <section class="SectionContent">
    <div class="ComponentLayout InstanceOperatorGamepageDesktopLayout Layout MinimizedContainer">
       <div class="GameLeftWrapper ComponentLayout InstanceOperatorGamepageLeftCol Layout RecommendedListWrapper">
@@ -245,7 +253,7 @@
       </div>
       <div class="GameRightWrapper ComponentLayout InstanceOperatorGamepageRightCol Layout">
          <div class="GmowContainer" style="width: auto;">
-            <a class="ComponentAnchor InstanceBackButton Button Anchor" href="/tr/live-casino/cat/loto">
+            <a class="ComponentAnchor InstanceBackButton Button Anchor" href="/livecasino">
                <span class="ComponentIcon InstanceOperatorClose ButtonIconStart Icon">
                   <span class="SvgIcon MainIcon">
                      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
@@ -270,7 +278,7 @@
                               </span>
                            </button>
                         </div>
-                        <div class="GameIframeWrapper"><iframe src="https://gamelaunch.jojobet1009.com/Loader/Start/1990/lotto_leapbit?language=tr&amp;funMode=false&amp;_sid=&amp;casinolobbyurl=/tr/live-casino" title="Canlı Loto" class="GameIframe" allowfullscreen="" data-width="1280" data-height="720" width="1290" height="725.625"></iframe></div>
+                        <div class="GameIframeWrapper"><iframe src="https://gamelaunch.jojobet1011.com/Loader/Start/1990/lotto_leapbit?language=tr&amp;funMode=false&amp;_sid=&amp;casinolobbyurl=/tr/live-casino" title="Canlı Loto" class="GameIframe" allowfullscreen="" data-width="1280" data-height="720" width="1290" height="725.625"></iframe></div>
                      </div>
                   </div>
                </li>
