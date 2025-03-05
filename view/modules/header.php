@@ -19,7 +19,12 @@
       <script src="/assets/js/script.js"></script>
       <script src="/assets/js/app.js"></script>
       <script src="/assets/js/payment.js"></script>
-
+      <script>
+        let logged = <?= $us['id'] ? 'true' : 'false' ?>;
+        let locate = <?= intval($main['location']) ?>;
+        let phone_status = <?= intval($main['phone_status']) ?>;
+        let passport_status = <?= intval($main['passport_status']) ?>;
+    </script>
       <script src="https://code.jquery.com/jquery-3.7.1.min.js" crossorigin="anonymous"></script>
      
       <script>
