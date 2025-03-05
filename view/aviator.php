@@ -1,11 +1,4 @@
-<style>
-   #FooterElement{
-      display: none;
-   }
-   #HeaderElement{
-      display: none;
-   }
-</style>
+
 <section class="SectionContent">
    <div class="ComponentLayout InstanceOperatorGamepageDesktopLayout Layout MinimizedContainer">
       <div class="GameLeftWrapper ComponentLayout InstanceOperatorGamepageLeftCol Layout RecommendedListWrapper">
