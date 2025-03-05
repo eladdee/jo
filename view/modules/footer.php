@@ -165,20 +165,20 @@ $('.RegisterFormSubmitButton').on('click', function(e) {
 $(document).ready(function() {
   // Sayfa yüklendiğinde, modalın daha önce kapatılıp kapatılmadığını kontrol et
   if (localStorage.getItem('modalClosed') === 'true') {
-    $('.ModalWindow').addClass('dnone');
+    $('.OperatorDepositReminder').addClass('dnone');
   } else {
-    $('.ModalWindow').removeClass('dnone');
+    $('.OperatorDepositReminder').removeClass('dnone');
   }
 
   // Kapatma düğmesine tıklanınca
   $('.ModalCloseButton').click(function() {
     localStorage.setItem('modalClosed', 'true');
-    $('.ModalWindow').addClass('dnone');
+    $('.OperatorDepositReminder').addClass('dnone');
   });
 
   // "Para Yatır" butonuna tıklanınca
   $('.DepositBtn').click(function() {
-    localStorage.setItem('modalClosed', 'true');
+    window.location.href='/deposit';
   });
 });
 
