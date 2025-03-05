@@ -184,7 +184,7 @@ $(document).ready(function() {
 });
 function loginorpay(){
    <?php if(isset($us['id'])){ ?>
-      $(".OperatorDepositReminderr").removeClass("dnone");
+      $("#logianeo").removeClass("dnone");
       <?php }else{?>
       openLoginModal()
       <?php }?>
@@ -262,7 +262,7 @@ function loginorpay(){
 </div>
 
 <?php }?>
-<div class="ModalWindow OperatorDepositReminderr dnone">
+<div class="ModalWindow OperatorDepositReminder dnone" id="logianeo">
    <div class="ModalOverlay"></div>
    <div class="ModalContent">
       <button class="ModalCloseButton ComponentButton Button" type="button">
