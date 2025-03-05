@@ -1,3 +1,11 @@
+<style>
+   #FooterElement{
+      display: none;
+   }
+   #HeaderElement{
+      display: none;
+   }
+</style>
 <section class="SectionContent">
    <div class="ComponentLayout InstanceOperatorGamepageDesktopLayout Layout MinimizedContainer">
       <div class="GameLeftWrapper ComponentLayout InstanceOperatorGamepageLeftCol Layout RecommendedListWrapper">
@@ -264,7 +272,7 @@
                               </span>
                            </button>
                         </div>
-                        <div class="GameIframeWrapper"><iframe src="https://gamelaunch.jojobet1009.com/Loader/Start/1990/aviator-spribe?language=tr&amp;funMode=false&amp;_sid=&amp;casinolobbyurl=/tr/casino" title="Aviator" class="GameIframe" allowfullscreen="" data-width="940" data-height="560" width="2002" height="1192.6808510638298"></iframe></div>
+                        <div class="GameIframeWrapper"><iframe src="https://demo.spribe.io/launch/aviator?currency=TRY&lang=tr&jurisdiction=" title="Aviator" class="GameIframe" allowfullscreen="" data-width="940" data-height="560" width="2002" height="1192.6808510638298"></iframe></div>
                      </div>
                   </div>
                </li>
@@ -306,7 +314,7 @@
                            </span>
                         </span>
                      </button>
-                     <a class="ComponentAnchor ComponentButton ButtonMinimize Button GmowBottomIcon Anchor" href="/tr/casino/cat/spribe">
+                     <a class="ComponentAnchor ComponentButton ButtonMinimize Button GmowBottomIcon Anchor" href="/casino">
                         <span class="ComponentIcon Icon">
                            <span class="SvgIcon MainIcon CustomHtml">
                               <svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" viewBox="0 0 29 29">
@@ -329,8 +337,23 @@
                      </button>
                   </div>
                </div>
+               <script>
+                  $(document).ready(function(){
+  function updateClock(){
+    var now = new Date();
+    var hours = now.getHours().toString().padStart(2, '0');
+    var minutes = now.getMinutes().toString().padStart(2, '0');
+    var seconds = now.getSeconds().toString().padStart(2, '0');
+    $('#clock').text(hours + ':' + minutes + ':' + seconds);
+  }
+  // Her saniye saat bilgisini güncelle
+  setInterval(updateClock, 1000);
+  updateClock(); // Sayfa yüklendiğinde hemen güncelle
+});
+
+               </script>
                <div class="GmowDetailsClock">
-                  <div class="ComponentClock">11:35:07</div>
+                  <div class="ComponentClock" id="clock"></div>
                </div>
             </div>
          </div>
