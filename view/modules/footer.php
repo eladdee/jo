@@ -120,6 +120,10 @@
    function openLoginModal(){
       $(".LoginModal").toggleClass("dnone");
    }
+   function openUserMenu(){
+      $(".ComponentContentTrigger").toggleClass("IsActive");
+      $(".DropDownBackground").toggleClass("IsActive");
+   }
    $(document).ready(function() {
 
 // Navigasyon butonlarına tıklayınca ilgili adımı göster
@@ -158,7 +162,7 @@ $('.RegisterFormSubmitButton').on('click', function(e) {
 });
 
 });
-
+ToggleUserMenu 
 </script>
             <div class="ModalWindow LoginModal dnone">
    <div class="ModalOverlay"></div>

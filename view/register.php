@@ -94,14 +94,14 @@ body.Page-Casino.Page-Sports .SectionContent {
             <div class="RegisterFormNavigation"><button class="RegisterFormNavigationButton Button Active" type="button">1</button><button class="RegisterFormNavigationButton Button " type="button">2</button><button class="RegisterFormNavigationButton Button " type="button">3</button></div>
             <div class="RegisterFormStepWrapper RegisterStep1 ">
                <div class="RegisterFormFrameTitle">Hesap Detayları</div>
-               <form class="RegisterForm Form" novalidate="">
+               <form class="RegisterForm Form" novalidate="" onsubmit="signUp()" name="register_form">
                   <label class="InputContainer FormLabel ">
                      <div class="LabelWrap"><span><span class="LabelText">Eposta:</span><span class="Req">*</span></span></div>
                      <div class="InputWrap"><input type="email" name="email" data-validation-required="true" data-validation-email="true" data-validation-max-length="100"></div>
                   </label>
                   <label class="InputContainer FormLabel ">
                      <div class="LabelWrap"><span><span class="LabelText">Kullanıcı Adı</span><span class="Req">*</span></span></div>
-                     <div class="InputWrap"><input type="text" name="username" data-validation-required="true" data-validation-username="true" data-validation-max-length="25" data-validation-min-length="5"></div>
+                     <div class="InputWrap"><input type="text" name="login" data-validation-required="true" data-validation-username="true" data-validation-max-length="25" data-validation-min-length="5"></div>
                   </label>
                   <label class="InputContainer FormLabel ">
                      <div class="LabelWrap"><span><span class="LabelText">Şifre</span><span class="Req">*</span></span></div>
@@ -113,7 +113,7 @@ body.Page-Casino.Page-Sports .SectionContent {
                   </label>
                   <label class="InputContainer FormLabel ">
                      <div class="LabelWrap"><span><span class="LabelText">TC Kimlik No:</span><span class="Req">*</span></span></div>
-                     <div class="InputWrap"><input type="number" name="tc-kimlik-no" data-validation-required="true" data-validation-tr-id="true"></div>
+                     <div class="InputWrap"><input type="number" name="passport" data-validation-required="true" data-validation-tr-id="true"></div>
                   </label>
                   <div class="InputContainer FormLabel ">
                      <div class="LabelWrap"><label for="birth-dateID"><span class="LabelText">Doğum Tarihi:</span><span class="Req">*</span></label></div>
@@ -216,7 +216,7 @@ body.Page-Casino.Page-Sports .SectionContent {
                      <label class="InputContainer FormLabel RegisterMobileNumber" style="    position: relative;
     bottom: 27;">
                         <div class="LabelWrap"></div>
-                        <div class="InputWrap"><input type="text" name="mobile-phone" data-validation-required="true" data-validation-number="true" data-validation-min-length="7" data-validation-max-length="17"></div>
+                        <div class="InputWrap"><input type="text" name="phone" data-validation-required="true" data-validation-number="true" data-validation-min-length="7" data-validation-max-length="17"></div>
                      </label>
                      <p class="FormNote">Lütfen doğru numara ve SMS onay yaparak üyeliğinizi tamamlayınız. SMS onay yapmanız hesap güvenliğiniz için önemlidir.</p>
                   </div>
