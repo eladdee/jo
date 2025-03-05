@@ -11,10 +11,10 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2025/03/068d71dd-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2025/03/aa21bb11-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2025/03/97dfd775-casinosliderdesktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage" src="https://www.jojobet1011.com/stateless-jojobet/2025/03/97dfd775-casinosliderdesktop.png">
+                              <source srcset="/stateless-jojobet/2025/03/068d71dd-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2025/03/aa21bb11-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2025/03/97dfd775-casinosliderdesktop.png">
+                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage" src="/stateless-jojobet/2025/03/97dfd775-casinosliderdesktop.png">
                            </picture>
                         </figure>
                      </a>
@@ -28,9 +28,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2025/03/24153b1d-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2025/03/2d8a23e0-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2025/03/3fd4565d-casino-desktop.png">
+                              <source srcset="/stateless-jojobet/2025/03/24153b1d-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2025/03/2d8a23e0-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2025/03/3fd4565d-casino-desktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -45,9 +45,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2024/06/f5a4ab08-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2024/06/e95eb14e-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2024/06/fcd1068e-casinosliderdesktop.png">
+                              <source srcset="/stateless-jojobet/2024/06/f5a4ab08-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2024/06/e95eb14e-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2024/06/fcd1068e-casinosliderdesktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -62,9 +62,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2025/02/32dcde15-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2025/02/18df3f38-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2025/02/973a6c39-casino-desktop.png">
+                              <source srcset="/stateless-jojobet/2025/02/32dcde15-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2025/02/18df3f38-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2025/02/973a6c39-casino-desktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -79,9 +79,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2025/02/d66ecb62-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2025/02/b78ae3fc-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2025/02/1243a76c-casino-desktop.png">
+                              <source srcset="/stateless-jojobet/2025/02/d66ecb62-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2025/02/b78ae3fc-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2025/02/1243a76c-casino-desktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -96,9 +96,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2024/02/06b5ee0b-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2024/02/b99b4fc9-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2024/02/297de2c3-casino-desktop.png">
+                              <source srcset="/stateless-jojobet/2024/02/06b5ee0b-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2024/02/b99b4fc9-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2024/02/297de2c3-casino-desktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -113,9 +113,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2025/02/fc6dda7d-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2025/02/5ed7da79-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2025/02/4a801334-casino-desktop.png">
+                              <source srcset="/stateless-jojobet/2025/02/fc6dda7d-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2025/02/5ed7da79-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2025/02/4a801334-casino-desktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -130,9 +130,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2025/02/38af0bf4-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2025/02/2da055af-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2025/02/23df1481-casino-desktop.png">
+                              <source srcset="/stateless-jojobet/2025/02/38af0bf4-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2025/02/2da055af-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2025/02/23df1481-casino-desktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -147,9 +147,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2025/02/31ab0efe-casino-mobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2025/02/1b5affe2-casino-tablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2025/02/e2c21aa8-casino-desktop.png">
+                              <source srcset="/stateless-jojobet/2025/02/31ab0efe-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2025/02/1b5affe2-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2025/02/e2c21aa8-casino-desktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -164,9 +164,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2025/02/230678d9-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2025/02/6c1afae3-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2025/02/fd5851dc-casinosliderdesktop.png">
+                              <source srcset="/stateless-jojobet/2025/02/230678d9-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2025/02/6c1afae3-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2025/02/fd5851dc-casinosliderdesktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -182,9 +182,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2024/12/db9c0f7d-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2024/12/32143057-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2024/12/2c230a11-casinosliderdesktop.png">
+                              <source srcset="/stateless-jojobet/2024/12/db9c0f7d-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2024/12/32143057-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2024/12/2c230a11-casinosliderdesktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -199,9 +199,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2024/07/2c62f298-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2024/07/90ddde59-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2024/07/7daefb3e-casinosliderdesktop.png">
+                              <source srcset="/stateless-jojobet/2024/07/2c62f298-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2024/07/90ddde59-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2024/07/7daefb3e-casinosliderdesktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -216,9 +216,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2024/03/95ce952b-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2024/03/06db5986-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2024/03/54ff8142-casinosliderdesktop.png">
+                              <source srcset="/stateless-jojobet/2024/03/95ce952b-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2024/03/06db5986-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2024/03/54ff8142-casinosliderdesktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -233,9 +233,9 @@
                      <a class="ComponentAnchor ImageAnchor Anchor" href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2021/11/b8dc206e-casinoslidermobile.png" media="(max-width:450px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2021/11/95a883f3-casinoslidertablet.png" media="(max-width:875px)">
-                              <source srcset="https://www.jojobet1011.com/stateless-jojobet/2021/11/93ed86eb-casinosliderdesktop.png">
+                              <source srcset="/stateless-jojobet/2021/11/b8dc206e-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="/stateless-jojobet/2021/11/95a883f3-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="/stateless-jojobet/2021/11/93ed86eb-casinosliderdesktop.png">
                               <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
                            </picture>
                         </figure>
@@ -1162,7 +1162,7 @@
       <p>jojoBET'ün Casino Lobisinde slot ve masa oyunları da dahil olmak üzere tüm oyunları görüntüleyebilirsiniz.</p>
    </div>
    <div class="RandomGameWrapper">
-      <casino-play-random-game endpoint="https://jojobet.nwacdn.com" language="tr" datasource="Jojobet-casino" client-styling-url="https://www.jojobet1011.com/static/css/widgets/play-random-game/style-1.0.826.css" icon-visible="true" icon-visible-on-anim="true" launch-by-game-card="true" class="RandomGameButton hydrated" translation-url="https://www.jojobet1011.com/static/widgets/play-random-game/translations/data.json" specific-category="" client-styling=".GameContainerGradient{background:var(--game-container-gradient-bg)!important}.ButtonWrapper{z-index:1}.QustionMark{color:var(--question-mark-color,#fff)!important;text-shadow:0 .4rem 0 #000!important}.HexagonMark{background:var(--hexagon-mark-bg)!important}.HexagonMarkBorder{background:var(--hexagon-mark-border-bg)!important}.RandomGameImage{border-radius:.8rem}.RandomGameCard .RandomButton{padding:.5rem 1rem!important;white-space:nowrap;flex:1}.ButtonWrapper .RandomButton{margin-top:4rem}"></casino-play-random-game>
+      <casino-play-random-game endpoint="https://jojobet.nwacdn.com" language="tr" datasource="Jojobet-casino" client-styling-url="/static/css/widgets/play-random-game/style-1.0.826.css" icon-visible="true" icon-visible-on-anim="true" launch-by-game-card="true" class="RandomGameButton hydrated" translation-url="/static/widgets/play-random-game/translations/data.json" specific-category="" client-styling=".GameContainerGradient{background:var(--game-container-gradient-bg)!important}.ButtonWrapper{z-index:1}.QustionMark{color:var(--question-mark-color,#fff)!important;text-shadow:0 .4rem 0 #000!important}.HexagonMark{background:var(--hexagon-mark-bg)!important}.HexagonMarkBorder{background:var(--hexagon-mark-border-bg)!important}.RandomGameImage{border-radius:.8rem}.RandomGameCard .RandomButton{padding:.5rem 1rem!important;white-space:nowrap;flex:1}.ButtonWrapper .RandomButton{margin-top:4rem}"></casino-play-random-game>
    </div>
    <div class="GameCategoriesWrapper">
       <section id="Jojobet-casino$jojobet'e-ozel" class="CasinoGames GamesList GamesListGrid MsnRow" data-subcategories-status="NOT_STARTED">
