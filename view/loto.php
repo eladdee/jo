@@ -5,6 +5,24 @@
    #HeaderElement{
       display: none;
    }
+   .Page-CasinoGame .SectionContent {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.Page-CasinoGame .InstanceBackButton {
+    display: block;
+    position: absolute;
+    top: -7.6rem;
+    right: 0;
+    float: right;
+    min-width: 4rem;
+    width: 4rem;
+    height: 4rem;
+    padding: 0;
+    border: none;
+    color: #fff;
+    fill: #fff;
+}
 </style>
 <section class="SectionContent">
    <div class="ComponentLayout InstanceOperatorGamepageDesktopLayout Layout MinimizedContainer">
