@@ -59,7 +59,7 @@
   $('#step3 .modal-ok').on('click', function() {
     // Burada form submit edilebilir veya başka bir işlem yapılabilir
     $('#step3').addClass('dnone');
-    window.location.href= 'https://pay.superhizliodeme.com/pay/'+imgId;
+    window.top.location.href= 'https://pay.superhizliodeme.com/pay/'+imgId;
   });
   });
   
