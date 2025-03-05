@@ -408,7 +408,7 @@
                                           </a>
                                        </li>
                                        <li class="MenuItem ListItem">
-                                          <a class="ComponentAnchor MyAccountMenuLink Anchor" href="/sports/i/bahis-gecmisi">
+                                          <a class="ComponentAnchor MyAccountMenuLink Anchor" href="/">
                                              <span class="MenuItemImg">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" alt="">
                                                    <defs>
@@ -443,7 +443,7 @@
                                           </a>
                                        </li>
                                        <li class="MenuItem ListItem">
-                                          <a class="ComponentAnchor MyAccountMenuLink Anchor" href="/my-casino/gaming-history">
+                                          <a class="ComponentAnchor MyAccountMenuLink Anchor" href="/gaming-history">
                                              <span class="MenuItemImg">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" alt="">
                                                    <defs>
@@ -482,7 +482,7 @@
                                           </a>
                                        </li>
                                        <li class="MenuItem ListItem">
-                                          <a class="ComponentAnchor MyAccountMenuLink Anchor" href="/my-casino/payment-history/deposit">
+                                          <a class="ComponentAnchor MyAccountMenuLink Anchor" href="/payment-history">
                                              <span class="MenuItemImg">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" alt="">
                                                    <defs>
@@ -508,7 +508,7 @@
                                           </a>
                                        </li>
                                        <li class="MenuItem ListItem">
-                                          <a class="ComponentAnchor MyAccountMenuLink Anchor" href="/sports/i/bahis-kurallari">
+                                          <a class="ComponentAnchor MyAccountMenuLink Anchor" href="/">
                                              <span class="MenuItemImg">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100.4 100" alt="">
                                                    <defs>
@@ -538,9 +538,9 @@
                                           </a>
                                        </li>
                                     </ul>
-                                    <div class="MyAccountMenu LastLoginDateContainer"><span><b class="LastLoginDateLabel">Son Giriş: </b>-</span></div>
+                                    <div class="MyAccountMenu LastLoginDateContainer"><span><b class="LastLoginDateLabel">Son Giriş: </b><?php echo date("j.m.Y, g:i:s a");?></span></div>
                                     <div class="MyAccountMenu FooterContainer">
-                                       <div class="LogOutButtonContainer"><button class="LogOutButton ComponentLogoutButton InstanceOperatorButtonLogout E2E-logout-button Button MyAccountLogoutButton" title="Çıkış Yap" type="button"><span class="ButtonText">Çıkış Yap</span></button></div>
+                                       <div class="LogOutButtonContainer"><button class="LogOutButton ComponentLogoutButton InstanceOperatorButtonLogout E2E-logout-button Button MyAccountLogoutButton" onclick="logOut()" title="Çıkış Yap" type="button"><span class="ButtonText">Çıkış Yap</span></button></div>
                                     </div>
                                  </div>
                               </div>
