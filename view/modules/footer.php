@@ -189,7 +189,9 @@ function loginorpay(){
       openLoginModal()
       <?php }?>
    }
-
+   $('#keunn').click(function() {
+    $('#logianeo').addClass('dnone');
+  });
    
 </script>
 <div class="ModalWindow LoginModal dnone">
@@ -265,7 +267,7 @@ function loginorpay(){
 <div class="ModalWindow OperatorDepositReminder dnone" id="logianeo">
    <div class="ModalOverlay"></div>
    <div class="ModalContent">
-      <button class="ModalCloseButton ComponentButton Button" type="button">
+      <button class="ModalCloseButton ComponentButton Button" id="keunn" type="button">
          <span class="ComponentIcon ButtonIconStart Icon">
             <span class="SvgIcon MainIcon CustomHtml">
                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
