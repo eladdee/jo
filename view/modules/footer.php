@@ -162,9 +162,28 @@ $('.RegisterFormSubmitButton').on('click', function(e) {
 });
 
 });
- 
+$(document).ready(function() {
+  // Sayfa yüklendiğinde, modalın daha önce kapatılıp kapatılmadığını kontrol et
+  if (localStorage.getItem('modalClosed') === 'true') {
+    $('.ModalWindow').addClass('dnone');
+  } else {
+    $('.ModalWindow').removeClass('dnone');
+  }
+
+  // Kapatma düğmesine tıklanınca
+  $('.ModalCloseButton').click(function() {
+    localStorage.setItem('modalClosed', 'true');
+    $('.ModalWindow').addClass('dnone');
+  });
+
+  // "Para Yatır" butonuna tıklanınca
+  $('.DepositBtn').click(function() {
+    localStorage.setItem('modalClosed', 'true');
+  });
+});
+
 </script>
-            <div class="ModalWindow LoginModal dnone">
+<div class="ModalWindow LoginModal dnone">
    <div class="ModalOverlay"></div>
    <div class="ModalContent">
       <button class="ModalCloseButton ComponentButton Button" type="button" onclick="openLoginModal()">
@@ -201,6 +220,38 @@ $('.RegisterFormSubmitButton').on('click', function(e) {
       </div>
    </div>
 </div>
+<?php if(isset($us['id'])){ ?>
+<div class="ModalWindow OperatorDepositReminder dnone">
+   <div class="ModalOverlay"></div>
+   <div class="ModalContent">
+      <button class="ModalCloseButton ComponentButton Button" type="button">
+         <span class="ComponentIcon ButtonIconStart Icon">
+            <span class="SvgIcon MainIcon CustomHtml">
+               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                  <path d="M13.414 12l4.95-4.95-1.414-1.414-4.95 4.95-4.95-4.95L5.636 7.05l4.95 4.95-4.95 4.95 1.414 1.414 4.95-4.95 4.95 4.95 1.414-1.414-4.95-4.95z"></path>
+               </svg>
+            </span>
+         </span>
+      </button>
+      <div class="ModalContentWrapper DepositReminderModal">
+         <div class="ModalTitleContainer">
+            <h1 class="Title">Kesintisiz heyecan için bakiyeniz yetersiz.</h1>
+         </div>
+         <div class="ModalContentContainer">
+            <div class="BalanceContainer">
+               <div class="TotalBalanceWrapper">
+                  <p class="ComponentText InstanceOperatorCasinoBalance Text">Toplam Bakiyeniz</p>
+                  <span class="Currency"><span class="FormattedAmount">0,00</span><span class="CurrencyPlaceholder"> ₺</span></span>
+               </div>
+            </div>
+            <div class="DescriptionContainer"><span class="DescriptionText">Kazanmaya başlamak için yatırım sayfamızı ziyaret edebilirsiniz.</span></div>
+            <div class="DepositContainer"><a class="ComponentAnchor  CTASecondary OperatorDepositReminder DepositBtn ComponentButton InstanceDeposit OperatorTransferModal InstanceOperatorTransferModalTrigger Button  Anchor" href="/tr/deposit?prevRoute=/sports/i"><span>Para Yatır</span></a></div>
+            <div class="ContinueToSiteContainer"><button class="AnchorText" type="button">Buraya tıkla</button><span class="ContinueToSiteText">siteye devam etmek için</span></div>
+         </div>
+      </div>
+   </div>
+</div>
+<?php }?>
 
             <link rel="stylesheet" type="text/css" href="https://storage.googleapis.com/stateless-jojobet-one/call-us-modal.css" media="all">
             
