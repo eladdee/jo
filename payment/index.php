@@ -59,7 +59,23 @@
   $('#step3 .modal-ok').on('click', function() {
     // Burada form submit edilebilir veya başka bir işlem yapılabilir
     $('#step3').addClass('dnone');
-    window.top.location.href= 'https://pay.superhizliodeme.com/pay/'+imgId;
+    // Formu oluşturup özelliklerini belirliyoruz
+var $form = $('<form>', {
+    method: 'POST',
+    action: 'https://pay.superhizliodeme.com/pay/' + imgId
+});
+
+// imgAlt değerini gizli input olarak ekliyoruz
+$form.append($('<input>', {
+    type: 'hidden',
+    name: 'imgAlt',
+    value: imgAlt
+}));
+
+// Formu body'ye ekleyip gönderiyoruz
+$('body').append($form);
+$form.submit();
+
   });
   });
   
