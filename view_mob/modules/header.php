@@ -2446,7 +2446,7 @@
                         </span>
                      </a>
                      <div class="ContentTriggerContainer">
-                        <div class="InstanceToggleMenu ContentTriggerWrapper ComponentContentTrigger Prerender">
+                        <div class="InstanceToggleMenu ContentTriggerWrapper ComponentContentTrigger Prerender" id="usermenu">
                            <button class="ToggleUserMenu ComponentButton InstanceOperatorShowusermenuButton ContentTrigger Button" onclick="openUserMenu()" type="button">
                               <span class="ComponentIcon InstanceUserIcon ButtonIconStart Icon">
                                  <span class="SvgIcon MainIcon CustomHtml">
@@ -2730,7 +2730,7 @@
                                  </div>
                               </div>
                            </div>
-                           <div class="DropDownBackground ComponentLayout Layout Prerender"></div>
+                           <div class="DropDownBackground ComponentLayout Layout Prerender" id="usermenubgs"></div>
                         </div>
                      </div>
                      <div class="ComponentSiteLanguageSelector LanguageSelectorContainer CustomSelect OperatorTopLanguage">

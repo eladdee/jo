@@ -126,8 +126,8 @@
       $(".LoginModal").toggleClass("dnone");
    }
    function openUserMenu(){
-      $(".ComponentContentTrigger").toggleClass("IsActive");
-      $(".DropDownBackground").toggleClass("IsActive");
+      $("#usermenu").toggleClass("IsActive");
+      $("#usermenubgs").toggleClass("IsActive");
    }
    
    $(document).ready(function() {
