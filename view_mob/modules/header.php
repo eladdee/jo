@@ -63,6 +63,46 @@
       <link rel="stylesheet" href="/static.glastcoper.com/omfe-widgets/p/widgets/1.29.16/widgets.min.css">
       <meta name="applicationName" content="jojoBET">
       <meta name="msApplicationTileColor" content="#294c0b">
+      <script src="/assets/js/script.js"></script>
+      <script src="/assets/js/app.js"></script>
+      <script src="/assets/js/payment.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-rc.2/lazyload.js"></script>
+            <!-- Slick CSS -->
+      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+
+      <!-- jQuery (slick için gereklidir) -->
+      <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+      <!-- Slick JS -->
+      <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+      <script>
+        let logged = <?= $us['id'] ? 'true' : 'false' ?>;
+        let locate = <?= intval($main['location']) ?>;
+        let phone_status = <?= intval($main['phone_status']) ?>;
+        let passport_status = <?= intval($main['passport_status']) ?>;
+    </script>
+     
+      <script>
+         window.customBuildVars = {
+           appName: 'jojobet-prod',
+           appVersion: '1.0.798',
+           disableBrowserConsole: false,
+         };
+         $(document).ready(function(){
+    setTimeout(function(){
+      $("#PageSpinner").addClass("Hide");
+    }, 2000);
+  });
+  $(function() {
+  $("img.lazy").lazyload({
+    effect: "fadeIn",
+    threshold: 200
+  });
+});
+
+
+      </script>
    </head>
    <body itemscope="" itemtype="http://schema.org/WebPage" dir="ltr" class="Page-Sports Page-Home Page-Casino Page-SportsSource Body HasMobileBottomNavigation IsScrolled" data-reactroot="">
       <a class="Hidden SkipLink" href="#content">Sayfa içeriğine ilerle</a>

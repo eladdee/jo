@@ -231,7 +231,7 @@
                <div class="OperatorMaxwidth ComponentLayout Layout HeaderContainer">
                   <div class="OperatorMobileNavMock"></div>
                   <div class="OperatorLogo">
-                     <a class="ComponentAnchor OperatorLogoLink Anchor" href="">
+                     <a class="ComponentAnchor OperatorLogoLink Anchor" href="/">
                         <span class="ComponentIcon Icon">
                            <span class="SvgIcon MainIcon">
                               <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 411 118">
