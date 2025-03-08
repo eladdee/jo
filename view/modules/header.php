@@ -45,6 +45,53 @@
     threshold: 200
   });
 });
+$(document).ready(function() {
+  var $sliderList = $('.slider-list');
+  var $slides = $sliderList.find('.slider-slide');
+  var slideCount = $slides.length;
+  
+  // Belirtilen indexteki slide'a geçiş yapan fonksiyon
+  function goToSlide(index) {
+    // Hedef slide'ı seçiyoruz
+    var $targetSlide = $slides.eq(index);
+    
+    // Tüm slide'lardan aktiflik sınıflarını kaldırıyoruz
+    $slides.removeClass('slide-current slide-visible');
+    // Hedef slide'a aktiflik sınıfı ekliyoruz
+    $targetSlide.addClass('slide-current slide-visible');
+    
+    // Slider-list'in, hedef slide'ın sol pozisyonu kadar kaymasını sağlıyoruz
+    var targetLeft = $targetSlide.position().left;
+    $sliderList.css({
+      transform: 'translate3d(' + (-targetLeft) + 'px, 0, 0)'
+    });
+    
+    // Pagination için aktif sınıfı güncelliyoruz
+    $('.SliderPagination li').removeClass('IsActiveSlide');
+    $('.SliderPagination li').eq(index).addClass('IsActiveSlide');
+  }
+  
+  // "Sonraki" butonuna tıklanınca
+  $('.InstanceNextSlide').on('click', function() {
+    var currentIndex = $slides.index($('.slider-slide.slide-current'));
+    var nextIndex = (currentIndex + 1) % slideCount;
+    goToSlide(nextIndex);
+  });
+  
+  // "Önceki" butonuna tıklanınca
+  $('.InstancePreviousSlide').on('click', function() {
+    var currentIndex = $slides.index($('.slider-slide.slide-current'));
+    var prevIndex = (currentIndex - 1 + slideCount) % slideCount;
+    goToSlide(prevIndex);
+  });
+  
+  // Pagination butonlarına tıklayınca
+  $('.SliderPagination li button').on('click', function() {
+    var index = $(this).parent().index();
+    goToSlide(index);
+  });
+});
+
       </script>
       <link rel="stylesheet" type="text/css" href="/static/css/common-d84be9782d9443a05473.css">
       <link rel="stylesheet" type="text/css" href="/static/css/bundle-939aff498c5cb56a60be.css">

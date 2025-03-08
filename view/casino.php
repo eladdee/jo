@@ -1,8 +1,8 @@
 <section class="SectionContent">
    <div class="OperatorSlider Slider SliderSwipe">
       <section class="slider" aria-label="carousel-slider" role="region" tabindex="0" style="box-sizing: border-box; display: block; height: inherit; position: relative; width: 100%;">
-         <div class="slider-frame" style="box-sizing: border-box; display: block; height: 100%; margin: 0px; overflow: hidden; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(0px, 0px, 0px);">
-            <div class="slider-list" style="box-sizing: border-box; cursor: pointer; display: block; height: 330px; margin: 0px; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(-3161px, 0px, 0px); width: auto; transition: all;">
+         <div class="slider-frame" style="box-sizing: border-box; display: block; height: 25%; margin: 0px; overflow: hidden; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(0px, 0px, 0px);">
+            <div class="slider-list" style="box-sizing: border-box; cursor: pointer; display: block; height: 330px; margin: 0px; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(0px, 0px, 0px); width: auto; transition: all;">
                <div class="slider-slide" aria-label="slide 1 of 14" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 330px; left: 0px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 3161px;" inert="true">
                   <div class="SliderItem">
                      <div class="Description">
