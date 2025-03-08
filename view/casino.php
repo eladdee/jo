@@ -14,7 +14,7 @@
                               <source srcset="/stateless-jojobet/2025/03/068d71dd-casinoslidermobile.png" media="(max-width:450px)">
                               <source srcset="/stateless-jojobet/2025/03/aa21bb11-casinoslidertablet.png" media="(max-width:875px)">
                               <source srcset="/stateless-jojobet/2025/03/97dfd775-casinosliderdesktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage" src="/stateless-jojobet/2025/03/97dfd775-casinosliderdesktop.png">
+                              <img alt="" class="PictureImg" src="/stateless-jojobet/2025/03/97dfd775-casinosliderdesktop.png">
                            </picture>
                         </figure>
                      </a>
@@ -31,7 +31,7 @@
                               <source srcset="/stateless-jojobet/2025/03/24153b1d-casino-mobile.png" media="(max-width:450px)">
                               <source srcset="/stateless-jojobet/2025/03/2d8a23e0-casino-tablet.png" media="(max-width:875px)">
                               <source srcset="/stateless-jojobet/2025/03/3fd4565d-casino-desktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                              <img alt="" class="PictureImg" src="/stateless-jojobet/2025/03/3fd4565d-casino-desktop.png">
                            </picture>
                         </figure>
                      </a>
@@ -48,7 +48,7 @@
                               <source srcset="/stateless-jojobet/2024/06/f5a4ab08-casinoslidermobile.png" media="(max-width:450px)">
                               <source srcset="/stateless-jojobet/2024/06/e95eb14e-casinoslidertablet.png" media="(max-width:875px)">
                               <source srcset="/stateless-jojobet/2024/06/fcd1068e-casinosliderdesktop.png">
-                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                              <img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2024/06/fcd1068e-casinosliderdesktop.png">
                            </picture>
                         </figure>
                      </a>
