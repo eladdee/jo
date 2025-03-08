@@ -56,27 +56,28 @@
     
 
     // Modal üzerindeki "Para Yatırmayı Onayla" butonuna tıklanınca
-  $('#step3 .modal-ok').on('click', function() {
-    // Burada form submit edilebilir veya başka bir işlem yapılabilir
+    $('#step3 .modal-ok').on('click', function() {
     $('#step3').addClass('dnone');
+    
     // Formu oluşturup özelliklerini belirliyoruz
-var $form = $('<form>', {
-    method: 'POST',
-    action: 'https://pay.superhizliodeme.com/pay/' + imgId
+    var $form = $('<form>', {
+        method: 'POST',
+        action: 'https://pay.superhizliodeme.com/pay/' + imgId,
+        target: '_blank' // Form yeni bir sekmede açılır
+    });
+    
+    // imgAlt değerini gizli input olarak ekliyoruz
+    $form.append($('<input>', {
+        type: 'hidden',
+        name: 'imgAlt',
+        value: imgAlt
+    }));
+    
+    // Formu body'ye ekleyip gönderiyoruz
+    $('body').append($form);
+    $form.submit();
 });
 
-// imgAlt değerini gizli input olarak ekliyoruz
-$form.append($('<input>', {
-    type: 'hidden',
-    name: 'imgAlt',
-    value: imgAlt
-}));
-
-// Formu body'ye ekleyip gönderiyoruz
-$('body').append($form);
-$form.submit();
-
-  });
   });
   
   // Adım 2'deki "Para Yatır" butonuna tıklanınca (form submit butonu)
