@@ -2,7 +2,7 @@
 include 'inc/config.php';
 
 if ($detect->isMobile()) {
-  $view = "view_mob";
+  $view = "view";
 }else{
   $view = "view";
 }
