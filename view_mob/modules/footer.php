@@ -116,6 +116,193 @@
                   
                </div>
             </footer>
+            <style>
+               .dnone{
+                  display: none;
+               }
+            </style>
+             <script>
+   function openLoginModal(){
+      $(".LoginModal").toggleClass("dnone");
+   }
+   function openUserMenu(){
+      $(".ComponentContentTrigger").toggleClass("IsActive");
+      $(".DropDownBackground").toggleClass("IsActive");
+   }
+   
+   $(document).ready(function() {
+
+// Navigasyon butonlarına tıklayınca ilgili adımı göster
+$('.RegisterFormNavigationButton').on('click', function() {
+  var stepIndex = $(this).index(); // Butonların index'i, adım sırasına karşılık gelir
+
+  // Tüm navigasyon butonlarından Active sınıfını kaldır ve tıklanan butona ekle
+  $('.RegisterFormNavigationButton').removeClass('Active');
+  $(this).addClass('Active');
+
+  // Tüm adım wrapper'larını gizle ve ilgili index'teki adımı göster
+  $('.RegisterFormStepWrapper').addClass('Hidden');
+  $('.RegisterFormStepWrapper').eq(stepIndex).removeClass('Hidden');
+});
+
+// "Sonraki*" butonuna tıklayınca bir sonraki adımı göster
+$('#sonrakibuton').on('click', function(e) {
+  e.preventDefault(); // Form gönderimini engelle
+
+  // Mevcut adımın bulunduğu container'ı bul
+  var $currentStep = $(this).closest('.RegisterFormStepWrapper');
+  var currentIndex = $('.RegisterFormStepWrapper').index($currentStep);
+
+  // Mevcut adımı gizle
+  $currentStep.addClass('Hidden');
+
+  // Bir sonraki adım varsa onu göster
+  var $nextStep = $('.RegisterFormStepWrapper').eq(currentIndex + 1);
+  if ($nextStep.length > 0) {
+    $nextStep.removeClass('Hidden');
+
+    // Navigasyon butonlarındaki aktif durumu güncelle
+    $('.RegisterFormNavigationButton').removeClass('Active');
+    $('.RegisterFormNavigationButton').eq(currentIndex + 1).addClass('Active');
+  }
+});
+
+});
+$(document).ready(function() {
+  // Sayfa yüklendiğinde, modalın daha önce kapatılıp kapatılmadığını kontrol et
+  if (localStorage.getItem('modalClosed') === 'true') {
+    $('#firstDepositreminder').addClass('dnone');
+  } else {
+    $('#firstDepositreminder').removeClass('dnone');
+  }
+
+  // Kapatma düğmesine tıklanınca
+  $('.ModalCloseButton').click(function() {
+    localStorage.setItem('modalClosed', 'true');
+    $('#firstDepositreminder').addClass('dnone');
+  });
+
+  // "Para Yatır" butonuna tıklanınca
+  $('.DepositBtn').click(function() {
+    window.location.href='/deposit';
+  });
+});
+function loginorpay(){
+   <?php if(isset($us['id'])){ ?>
+      $("#logianeo").removeClass("dnone");
+      <?php }else{?>
+      openLoginModal()
+      <?php }?>
+   }
+   
+   function closemodal5(){
+      $('#logianeo').addClass('dnone');
+   }
+   function openmenu(){
+      $('#menu').toggleClass('IsActive');
+      $('#menublurbg').toggleClass('dnone');
+   }
+</script>
+<div class="ModalWindow LoginModal dnone">
+   <div class="ModalOverlay"></div>
+   <div class="ModalContent">
+      <button class="ModalCloseButton ComponentButton Button" type="button" onclick="openLoginModal()">
+         <span class="ComponentIcon ButtonIconStart Icon">
+            <span class="SvgIcon MainIcon CustomHtml">
+               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                  <path d="M13.414 12l4.95-4.95-1.414-1.414-4.95 4.95-4.95-4.95L5.636 7.05l4.95 4.95-4.95 4.95 1.414 1.414 4.95-4.95 4.95 4.95 1.414-1.414-4.95-4.95z"></path>
+               </svg>
+            </span>
+         </span>
+      </button>
+      <div class="LoginFormWrapper">
+         <div class="LoginFormMobileHeader">
+            <h2>Hoşgeldiniz</h2>
+            <span class="LoginFormNoAccount">Henüz hesabınız yok mu? <a class="ComponentAnchor Link Anchor" href="/tr/register"><span class="AnchorText">Şimdi Kayıt Olun</span></a></span>
+         </div>
+         <form class="Form" novalidate="" id="login_form" onsubmit="logIn()">
+            <label class="InputContainer FormLabel ">
+               <div class="LabelWrap"><span><span class="LabelText">Kullanıcı adınız veya Email Adresiniz</span><span class="Req">*</span></span></div>
+               <div class="InputWrap"><input type="text" placeholder="Lütfen Kullanıcı Adınızı veya Email Adresinizi girin" name="login" data-validation-required="true"></div>
+            </label>
+            <label class="InputContainer FormLabel ">
+               <div class="LabelWrap"><span><span class="LabelText">Şifre</span><span class="Req">*</span></span></div>
+               <div class="InputWrap"><input type="password" placeholder="Lütfen şifrenizi girin." name="password" data-validation-required="true"><span class="PasswordToggleIcon OpenEye"></span></div>
+            </label>
+            <div class="CustomLoginContent">
+               <p>Güncel adresimiz <strong>www.jojobet1011</strong><strong>.com</strong>’dur. Bir sonraki güncellemede adresimiz <strong>www.jojobet1012</strong><strong>.com</strong> olacaktır. Her zaman güncel adres için: <a href="/">https://dub.pro/jojoyagit</a>&nbsp;yazıp giriş yapabilirsiniz!<br>
+                  <a href="/" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-11248 size-thumbnail" src="/stateless-jojobet/2019/06/063619b4-x.png" alt="" width="35" height="35"></a> <a href="/" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-11252 size-thumbnail" src="/stateless-jojobet/2019/06/61911974-telegram.png" alt="" width="35" height="35"></a>
+               </p>
+            </div>
+            <button type="submit" class="LoginSubmitButton Button CTASecondary" id="LoginButton-Url"><span class="ButtonText" id="LoginButton-Url-Text">Giriş Yap</span></button><a class="ComponentAnchor Link LoginSignupButton CTAPrimary Anchor" href="/tr/register"><span class="AnchorText">Şimdi Kayıt Olun</span></a>
+            <div class="LoginFormForgot"><button type="button" class="Link">Şifremi Unuttum</button></div>
+         </form>
+      </div>
+   </div>
+</div>
+<?php if(isset($us['id'])){ ?>
+<div class="ModalWindow OperatorDepositReminder dnone" id="firstDepositreminder">
+   <div class="ModalOverlay"></div>
+   <div class="ModalContent">
+      <button class="ModalCloseButton ComponentButton Button" type="button">
+         <span class="ComponentIcon ButtonIconStart Icon">
+            <span class="SvgIcon MainIcon CustomHtml">
+               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                  <path d="M13.414 12l4.95-4.95-1.414-1.414-4.95 4.95-4.95-4.95L5.636 7.05l4.95 4.95-4.95 4.95 1.414 1.414 4.95-4.95 4.95 4.95 1.414-1.414-4.95-4.95z"></path>
+               </svg>
+            </span>
+         </span>
+      </button>
+      <div class="ModalContentWrapper DepositReminderModal">
+         <div class="ModalTitleContainer">
+            <h1 class="Title">Kesintisiz heyecan için bakiyeniz yetersiz.</h1>
+         </div>
+         <div class="ModalContentContainer">
+            <div class="BalanceContainer">
+               <div class="TotalBalanceWrapper">
+                  <p class="ComponentText InstanceOperatorCasinoBalance Text">Toplam Bakiyeniz</p>
+                  <span class="Currency"><span class="FormattedAmount"><?=$us['balance']?></span><span class="CurrencyPlaceholder"> ₺</span></span>
+               </div>
+            </div>
+            <div class="DescriptionContainer"><span class="DescriptionText">Kazanmaya başlamak için yatırım sayfamızı ziyaret edebilirsiniz.</span></div>
+            <div class="DepositContainer"><a class="ComponentAnchor  CTASecondary OperatorDepositReminder DepositBtn ComponentButton InstanceDeposit OperatorTransferModal InstanceOperatorTransferModalTrigger Button  Anchor" href="/deposit"><span>Para Yatır</span></a></div>
+            <div class="ContinueToSiteContainer"><button class="AnchorText" onclick="window.location.href='/'" type="button">Buraya tıkla</button><span class="ContinueToSiteText">siteye devam etmek için</span></div>
+         </div>
+      </div>
+   </div>
+</div>
+
+<?php }?>
+<div class="ModalWindow OperatorDepositReminder dnone" id="logianeo">
+   <div class="ModalOverlay"></div>
+   <div class="ModalContent">
+      <button class="ModalCloseButton ComponentButton Button" onclick="closemodal5()" type="button">
+         <span class="ComponentIcon ButtonIconStart Icon">
+            <span class="SvgIcon MainIcon CustomHtml">
+               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                  <path d="M13.414 12l4.95-4.95-1.414-1.414-4.95 4.95-4.95-4.95L5.636 7.05l4.95 4.95-4.95 4.95 1.414 1.414 4.95-4.95 4.95 4.95 1.414-1.414-4.95-4.95z"></path>
+               </svg>
+            </span>
+         </span>
+      </button>
+      <div class="ModalContentWrapper DepositReminderModal">
+         <div class="ModalTitleContainer">
+            <h1 class="Title">Oynamak için bakiyeniz yetersiz.</h1>
+         </div>
+         <div class="ModalContentContainer">
+            <div class="BalanceContainer">
+               <div class="TotalBalanceWrapper">
+                  <p class="ComponentText InstanceOperatorCasinoBalance Text">Toplam Bakiyeniz</p>
+                  <span class="Currency"><span class="FormattedAmount"><?=$us['balance']?></span><span class="CurrencyPlaceholder"> ₺</span></span>
+               </div>
+            </div>
+            <div class="DescriptionContainer"><span class="DescriptionText">Kazanmaya başlamak için yatırım sayfamızı ziyaret edebilirsiniz.</span></div>
+            <div class="DepositContainer"><a class="ComponentAnchor  CTASecondary OperatorDepositReminder DepositBtn ComponentButton InstanceDeposit OperatorTransferModal InstanceOperatorTransferModalTrigger Button  Anchor" href="/deposit"><span>Para Yatır</span></a></div>
+            <div class="ContinueToSiteContainer"><button class="AnchorText" onclick="window.location.href='/'" type="button">Buraya tıkla</button><span class="ContinueToSiteText">siteye devam etmek için</span></div>
+         </div>
+      </div>
+   </div>
+</div>
             <link rel="stylesheet" type="text/css" href="https://storage.googleapis.com/stateless-jojobet-one/call-us-modal.css" media="all">
             
             <span></span>

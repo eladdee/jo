@@ -237,8 +237,8 @@
       <div id="AppContainer" class="AppContainer">
          <div class="RootContent BaseSwipe">
             <header class="SectionHeader" id="HeaderElement">
-               <div class="BurgerNavMenuWrapper TriggerMainNav CrossSellNav ContentTriggerWrapper ComponentContentTrigger">
-                  <button class=" ToggleMainMenu ComponentButton Button hamburger hamburger--spring" type="button"><span class="hamburger-box"><span class="hamburger-inner"></span></span><span class="HamburgerActiveLabel">kapat</span></button>
+               <div class="BurgerNavMenuWrapper TriggerMainNav CrossSellNav ContentTriggerWrapper ComponentContentTrigger" id="menu">
+                  <button class=" ToggleMainMenu ComponentButton Button hamburger hamburger--spring" onclick="openmenu()" type="button"><span class="hamburger-box"><span class="hamburger-inner"></span></span><span class="HamburgerActiveLabel">kapat</span></button>
                   <div class="ContentTriggerContentWrapper">
                      <nav class="OperatorMainMenu CrossSellMenu ComponentMenu NavMenu">
                         <div class="HamburgerContainer">
@@ -2395,6 +2395,7 @@
                         </div>
                      </nav>
                   </div>
+                  <div class="DropDownBackground ComponentLayout Layout" class="dnone" id="menublurbg"></div>
                </div>
                <div class="OperatorMaxwidth ComponentLayout Layout HeaderContainer">
                   <div class="OperatorMobileNavMock"></div>
