@@ -20,6 +20,15 @@
       <script src="/assets/js/app.js"></script>
       <script src="/assets/js/payment.js"></script>
       <script src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-rc.2/lazyload.js"></script>
+            <!-- Slick CSS -->
+      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+
+      <!-- jQuery (slick için gereklidir) -->
+      <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+      <!-- Slick JS -->
+      <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
       <script>
         let logged = <?= $us['id'] ? 'true' : 'false' ?>;
         let locate = <?= intval($main['location']) ?>;
@@ -45,50 +54,16 @@
     threshold: 200
   });
 });
-$(document).ready(function() {
-  var $sliderList = $('.slider-list');
-  var $slides = $sliderList.find('.slider-slide');
-  var slideCount = $slides.length;
-  
-  // Belirtilen indexteki slide'a geçiş yapan fonksiyon
-  function goToSlide(index) {
-    // Hedef slide'ı seçiyoruz
-    var $targetSlide = $slides.eq(index);
-    
-    // Tüm slide'lardan aktiflik sınıflarını kaldırıyoruz
-    $slides.removeClass('slide-current slide-visible');
-    // Hedef slide'a aktiflik sınıfı ekliyoruz
-    $targetSlide.addClass('slide-current slide-visible');
-    
-    // Slider-list'in, hedef slide'ın sol pozisyonu kadar kaymasını sağlıyoruz
-    var targetLeft = $targetSlide.position().left;
-    $sliderList.css({
-      transform: 'translate3d(' + (-targetLeft) + 'px, 0, 0)'
-    });
-    
-    // Pagination için aktif sınıfı güncelliyoruz
-    $('.SliderPagination li').removeClass('IsActiveSlide');
-    $('.SliderPagination li').eq(index).addClass('IsActiveSlide');
-  }
-  
-  // "Sonraki" butonuna tıklanınca
-  $('.InstanceNextSlide').on('click', function() {
-    var currentIndex = $slides.index($('.slider-slide.slide-current'));
-    var nextIndex = (currentIndex + 1) % slideCount;
-    goToSlide(nextIndex);
-  });
-  
-  // "Önceki" butonuna tıklanınca
-  $('.InstancePreviousSlide').on('click', function() {
-    var currentIndex = $slides.index($('.slider-slide.slide-current'));
-    var prevIndex = (currentIndex - 1 + slideCount) % slideCount;
-    goToSlide(prevIndex);
-  });
-  
-  // Pagination butonlarına tıklayınca
-  $('.SliderPagination li button').on('click', function() {
-    var index = $(this).parent().index();
-    goToSlide(index);
+$(document).ready(function(){
+  $('.slider-list').slick({
+    infinite: true,           // Sonsuz döngü
+    slidesToShow: 1,          // Aynı anda gösterilecek slide sayısı
+    slidesToScroll: 1,        // Her kaydırmada geçilecek slide sayısı
+    dots: true,               // Noktaları (pagination) etkinleştirir
+    adaptiveHeight: true,     // İçeriğe göre yükseklik ayarı
+    prevArrow: $('.InstancePreviousSlide'), // Önceki butonunu tanımla
+    nextArrow: $('.InstanceNextSlide'),     // Sonraki butonunu tanımla
+    appendDots: $('.WrapperPagination.slider-decorator-2') // Noktaların yerleştirileceği alan
   });
 });
 
