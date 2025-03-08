@@ -111,7 +111,7 @@
          <p class="BrowserUpgrade">Kullandığınız tarayıcının güncellemesi mevcuttur. Kullanıcızı güncellemek için lütfen <a href="http://browsehappy.com/">buraya</a> tıklayın ve sitemizdeki deneyiminizi geliştirin.</p>
          <![endif]-->
       </div>
-      <div id="PageSpinner" class="Hide">
+      <div id="PageSpinner" class="">
          <div class="Logo">
             <svg class="Circle" width="220" height="220">
                <circle cx="110" cy="110" r="110"></circle>
