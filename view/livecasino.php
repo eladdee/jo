@@ -5149,11 +5149,5 @@
          </div>
       </section>
    </div>
-   <div class="RecentWinnersWidget">
-      <h2 class="BoxTitle RecentWinnersWidgetTitle"><span>Kazananlar</span></h2>
-      <div class="RecentWinnersWidgetContainer Slider SliderSwipe">
-         
-         <div class="OperatorSliderBorder"></div>
-      </div>
-   </div>
+   
 </section>

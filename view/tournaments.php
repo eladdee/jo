@@ -247,11 +247,5 @@
       <h2 class="TournamentsTitle">Turnuvalar</h2>
       <casino-tournaments-controller classname="TournamentsWidget" loginevent="Login" registerevent="Register" translationurl="/static/widgets/tournaments-controller/translations/data.json" endpoint="https://jojobet.nwacdn.com" cmsendpoint="/apijson/tr/tournaments" lang="tr" session="" userid="" filters="All" numberoftournaments="6" showmorestep="6" starttimeafter="90"></casino-tournaments-controller>
    </div>
-   <div class="RecentWinnersWidget">
-      <h2 class="BoxTitle RecentWinnersWidgetTitle"><span>Kazananlar</span></h2>
-      <div class="RecentWinnersWidgetContainer Slider SliderSwipe">
-         
-         <div class="OperatorSliderBorder"></div>
-      </div>
-   </div>
+   
 </section>
