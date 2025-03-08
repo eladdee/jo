@@ -2395,7 +2395,7 @@
                         </div>
                      </nav>
                   </div>
-                  <div class="DropDownBackground ComponentLayout Layout" class="dnone" id="menublurbg"></div>
+                  <div class="DropDownBackground ComponentLayout Layout dnone"  id="menublurbg"></div>
                </div>
                <div class="OperatorMaxwidth ComponentLayout Layout HeaderContainer">
                   <div class="OperatorMobileNavMock"></div>
