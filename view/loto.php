@@ -262,7 +262,7 @@
                      <li class="ListGame ListItem Lazy" data-game-id="70857091789">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Easy Blackjack" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
+                              <div class="GameThumbailWrapper"><img alt="Easy Blackjack" src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Easy Blackjack !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -277,7 +277,7 @@
                      <li class="ListGame ListItem Lazy" data-game-id="71241099577">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Elite Speed Blackjack" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
+                              <div class="GameThumbailWrapper"><img alt="Elite Speed Blackjack" src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Elite Speed Blackjack !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -292,7 +292,7 @@
                      <li class="ListGame ListItem Lazy" data-game-id="71369050675">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Always 8 Baccarat" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
+                              <div class="GameThumbailWrapper"><img alt="Always 8 Baccarat" src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Always 8 Baccarat !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>

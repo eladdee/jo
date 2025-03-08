@@ -191,7 +191,7 @@
                      <li class="ListGame ListItem Lazy" data-game-id="72231">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Wolf Fang - Ice &amp; Fire" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
+                              <div class="GameThumbailWrapper"><img alt="Wolf Fang - Ice &amp; Fire" src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Spinomenal</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Wolf Fang - Ice &amp; Fire !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -206,7 +206,7 @@
                      <li class="ListGame ListItem Lazy" data-game-id="71995">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Sticky Candyland" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
+                              <div class="GameThumbailWrapper"><img alt="Sticky Candyland" src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Hacksaw</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sticky Candyland !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -221,7 +221,7 @@
                      <li class="ListGame ListItem Lazy" data-game-id="72114">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Fairytale Beauties 2 -  Enchanted Hearts" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
+                              <div class="GameThumbailWrapper"><img alt="Fairytale Beauties 2 -  Enchanted Hearts" src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Spinomenal</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Fairytale Beauties 2 -  Enchanted Hearts !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>

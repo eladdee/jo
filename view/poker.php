@@ -151,7 +151,7 @@
                      <li class="ListGame ListItem Lazy" data-game-id="69483034414">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Var Mısın Yok Musun" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
+                              <div class="GameThumbailWrapper"><img alt="Var Mısın Yok Musun" src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Var Mısın Yok Musun !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -166,7 +166,7 @@
                      <li class="ListGame ListItem Lazy" data-game-id="68293047822">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Super Speed Baccarat" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
+                              <div class="GameThumbailWrapper"><img alt="Super Speed Baccarat" src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Super Speed Baccarat !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -181,7 +181,7 @@
                      <li class="ListGame ListItem Lazy" data-game-id="66412096713">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Lightning Storm" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
+                              <div class="GameThumbailWrapper"><img alt="Lightning Storm" src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lightning Storm !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -196,7 +196,7 @@
                      <li class="ListGame ListItem Lazy" data-game-id="67031079947">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Lightning Ball" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
+                              <div class="GameThumbailWrapper"><img alt="Lightning Ball" src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lightning Ball !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -211,7 +211,7 @@
                      <li class="ListGame ListItem Lazy" data-game-id="66609087100">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Lightning Sic Bo" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
+                              <div class="GameThumbailWrapper"><img alt="Lightning Sic Bo" src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lightning Sic Bo !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>
@@ -226,7 +226,7 @@
                      <li class="ListGame ListItem Lazy" data-game-id="65636002364">
                         <div class="ListGameLink Anchor">
                            <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
-                              <div class="GameThumbailWrapper"><img alt="Balloon Race" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
+                              <div class="GameThumbailWrapper"><img alt="Balloon Race" src="//:0" class="GameThumb ListGameImage LazyImage"></div>
                               <div class="GameProp GameVendor SubVendor" itemprop="author">Evolution</div>
                               <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Balloon Race !" href="javascript:;" onclick="loginorpay()">
                                  <div class="GamePlayNowText">Hemen Oyna!</div>

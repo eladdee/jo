@@ -587,7 +587,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -605,7 +605,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Santa’s Xmas Rush" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/A/AEC4B516494BD66A391AFB6F94C06450.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Santa’s Xmas Rush" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/A/AEC4B516494BD66A391AFB6F94C06450.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -677,7 +677,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -695,7 +695,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sun of Egypt 2" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/6/695AF53FE500AF580FD25214B7FA3D5D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sun of Egypt 2" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/6/695AF53FE500AF580FD25214B7FA3D5D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -713,7 +713,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="French Roulette Gold" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/20CC29953639EBEB386DE23AFD0A7682.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="French Roulette Gold" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/20CC29953639EBEB386DE23AFD0A7682.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -731,7 +731,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Princess 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B1172EA311869E107F1C4019D33E4220.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Princess 1000" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/B/B1172EA311869E107F1C4019D33E4220.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -749,7 +749,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Yüksek Limitli Blackjack D" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/E/E6423A73882D99025EB32BB3A943C4AC.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Yüksek Limitli Blackjack D" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/E/E6423A73882D99025EB32BB3A943C4AC.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -767,7 +767,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -785,7 +785,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Santa’s Xmas Rush" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/A/AEC4B516494BD66A391AFB6F94C06450.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Santa’s Xmas Rush" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/A/AEC4B516494BD66A391AFB6F94C06450.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -803,7 +803,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/F/F874484395C74C5FBC5BF056DCEA5FCF.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/F/F874484395C74C5FBC5BF056DCEA5FCF.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -821,7 +821,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mines" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/BA823E432D8CEE10BB7F9E2986494F72.optimized.png" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mines" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/B/BA823E432D8CEE10BB7F9E2986494F72.optimized.png" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -839,7 +839,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -857,7 +857,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -875,7 +875,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sun of Egypt 2" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/6/695AF53FE500AF580FD25214B7FA3D5D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sun of Egypt 2" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/6/695AF53FE500AF580FD25214B7FA3D5D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -893,7 +893,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="French Roulette Gold" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/20CC29953639EBEB386DE23AFD0A7682.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="French Roulette Gold" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/20CC29953639EBEB386DE23AFD0A7682.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -911,7 +911,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Princess 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B1172EA311869E107F1C4019D33E4220.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Princess 1000" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/B/B1172EA311869E107F1C4019D33E4220.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -929,7 +929,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Yüksek Limitli Blackjack D" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/E/E6423A73882D99025EB32BB3A943C4AC.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Yüksek Limitli Blackjack D" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/E/E6423A73882D99025EB32BB3A943C4AC.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -947,7 +947,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -965,7 +965,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Santa’s Xmas Rush" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/A/AEC4B516494BD66A391AFB6F94C06450.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Santa’s Xmas Rush" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/A/AEC4B516494BD66A391AFB6F94C06450.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -983,7 +983,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/F/F874484395C74C5FBC5BF056DCEA5FCF.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/F/F874484395C74C5FBC5BF056DCEA5FCF.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1001,7 +1001,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mines" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/BA823E432D8CEE10BB7F9E2986494F72.optimized.png" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mines" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/B/BA823E432D8CEE10BB7F9E2986494F72.optimized.png" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1019,7 +1019,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1037,7 +1037,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1055,7 +1055,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sun of Egypt 2" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/6/695AF53FE500AF580FD25214B7FA3D5D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sun of Egypt 2" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/6/695AF53FE500AF580FD25214B7FA3D5D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1073,7 +1073,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="French Roulette Gold" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/20CC29953639EBEB386DE23AFD0A7682.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="French Roulette Gold" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/20CC29953639EBEB386DE23AFD0A7682.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1091,7 +1091,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Princess 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B1172EA311869E107F1C4019D33E4220.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Princess 1000" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/B/B1172EA311869E107F1C4019D33E4220.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1109,7 +1109,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Yüksek Limitli Blackjack D" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/E/E6423A73882D99025EB32BB3A943C4AC.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Yüksek Limitli Blackjack D" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/E/E6423A73882D99025EB32BB3A943C4AC.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1127,7 +1127,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1145,7 +1145,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Santa’s Xmas Rush" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/A/AEC4B516494BD66A391AFB6F94C06450.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Santa’s Xmas Rush" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/A/AEC4B516494BD66A391AFB6F94C06450.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1163,7 +1163,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/F/F874484395C74C5FBC5BF056DCEA5FCF.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/F/F874484395C74C5FBC5BF056DCEA5FCF.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1181,7 +1181,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mines" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/BA823E432D8CEE10BB7F9E2986494F72.optimized.png" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mines" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/B/BA823E432D8CEE10BB7F9E2986494F72.optimized.png" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1199,7 +1199,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1217,7 +1217,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1235,7 +1235,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sun of Egypt 2" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/6/695AF53FE500AF580FD25214B7FA3D5D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sun of Egypt 2" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/6/695AF53FE500AF580FD25214B7FA3D5D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1253,7 +1253,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="French Roulette Gold" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/20CC29953639EBEB386DE23AFD0A7682.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="French Roulette Gold" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/20CC29953639EBEB386DE23AFD0A7682.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1271,7 +1271,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Princess 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B1172EA311869E107F1C4019D33E4220.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Princess 1000" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/B/B1172EA311869E107F1C4019D33E4220.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1289,7 +1289,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Yüksek Limitli Blackjack D" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/E/E6423A73882D99025EB32BB3A943C4AC.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Yüksek Limitli Blackjack D" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/E/E6423A73882D99025EB32BB3A943C4AC.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1307,7 +1307,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1325,7 +1325,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Santa’s Xmas Rush" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/A/AEC4B516494BD66A391AFB6F94C06450.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Santa’s Xmas Rush" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/A/AEC4B516494BD66A391AFB6F94C06450.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1343,7 +1343,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/F/F874484395C74C5FBC5BF056DCEA5FCF.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/F/F874484395C74C5FBC5BF056DCEA5FCF.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1361,7 +1361,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mines" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/BA823E432D8CEE10BB7F9E2986494F72.optimized.png" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mines" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/B/BA823E432D8CEE10BB7F9E2986494F72.optimized.png" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1379,7 +1379,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1397,7 +1397,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1415,7 +1415,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sun of Egypt 2" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/6/695AF53FE500AF580FD25214B7FA3D5D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sun of Egypt 2" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/6/695AF53FE500AF580FD25214B7FA3D5D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1433,7 +1433,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="French Roulette Gold" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/20CC29953639EBEB386DE23AFD0A7682.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="French Roulette Gold" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/20CC29953639EBEB386DE23AFD0A7682.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1451,7 +1451,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Princess 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B1172EA311869E107F1C4019D33E4220.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Princess 1000" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/B/B1172EA311869E107F1C4019D33E4220.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1469,7 +1469,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Yüksek Limitli Blackjack D" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/E/E6423A73882D99025EB32BB3A943C4AC.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Yüksek Limitli Blackjack D" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/E/E6423A73882D99025EB32BB3A943C4AC.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1487,7 +1487,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1505,7 +1505,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Santa’s Xmas Rush" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/A/AEC4B516494BD66A391AFB6F94C06450.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Santa’s Xmas Rush" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/A/AEC4B516494BD66A391AFB6F94C06450.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1523,7 +1523,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/F/F874484395C74C5FBC5BF056DCEA5FCF.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/F/F874484395C74C5FBC5BF056DCEA5FCF.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1541,7 +1541,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mines" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/BA823E432D8CEE10BB7F9E2986494F72.optimized.png" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mines" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/B/BA823E432D8CEE10BB7F9E2986494F72.optimized.png" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1559,7 +1559,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1577,7 +1577,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1595,7 +1595,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sun of Egypt 2" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/6/695AF53FE500AF580FD25214B7FA3D5D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sun of Egypt 2" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/6/695AF53FE500AF580FD25214B7FA3D5D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1613,7 +1613,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="French Roulette Gold" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/20CC29953639EBEB386DE23AFD0A7682.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="French Roulette Gold" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/20CC29953639EBEB386DE23AFD0A7682.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1631,7 +1631,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Princess 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B1172EA311869E107F1C4019D33E4220.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Princess 1000" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/B/B1172EA311869E107F1C4019D33E4220.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1649,7 +1649,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Yüksek Limitli Blackjack D" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/E/E6423A73882D99025EB32BB3A943C4AC.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Yüksek Limitli Blackjack D" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/E/E6423A73882D99025EB32BB3A943C4AC.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1667,7 +1667,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1685,7 +1685,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Santa’s Xmas Rush" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/A/AEC4B516494BD66A391AFB6F94C06450.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Santa’s Xmas Rush" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/A/AEC4B516494BD66A391AFB6F94C06450.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1703,7 +1703,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/F/F874484395C74C5FBC5BF056DCEA5FCF.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/F/F874484395C74C5FBC5BF056DCEA5FCF.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1721,7 +1721,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mines" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/BA823E432D8CEE10BB7F9E2986494F72.optimized.png" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mines" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/B/BA823E432D8CEE10BB7F9E2986494F72.optimized.png" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1739,7 +1739,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1757,7 +1757,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1775,7 +1775,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sun of Egypt 2" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/6/695AF53FE500AF580FD25214B7FA3D5D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sun of Egypt 2" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/6/695AF53FE500AF580FD25214B7FA3D5D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1793,7 +1793,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="French Roulette Gold" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/20CC29953639EBEB386DE23AFD0A7682.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="French Roulette Gold" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/20CC29953639EBEB386DE23AFD0A7682.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1811,7 +1811,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Princess 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B1172EA311869E107F1C4019D33E4220.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Princess 1000" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/B/B1172EA311869E107F1C4019D33E4220.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1829,7 +1829,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Yüksek Limitli Blackjack D" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/E/E6423A73882D99025EB32BB3A943C4AC.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Yüksek Limitli Blackjack D" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/E/E6423A73882D99025EB32BB3A943C4AC.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1847,7 +1847,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1865,7 +1865,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Santa’s Xmas Rush" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/A/AEC4B516494BD66A391AFB6F94C06450.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Santa’s Xmas Rush" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/A/AEC4B516494BD66A391AFB6F94C06450.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1883,7 +1883,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/F/F874484395C74C5FBC5BF056DCEA5FCF.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/F/F874484395C74C5FBC5BF056DCEA5FCF.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1901,7 +1901,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mines" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/BA823E432D8CEE10BB7F9E2986494F72.optimized.png" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mines" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/B/BA823E432D8CEE10BB7F9E2986494F72.optimized.png" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1919,7 +1919,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1937,7 +1937,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1955,7 +1955,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sun of Egypt 2" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/6/695AF53FE500AF580FD25214B7FA3D5D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sun of Egypt 2" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/6/695AF53FE500AF580FD25214B7FA3D5D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1973,7 +1973,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="French Roulette Gold" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/20CC29953639EBEB386DE23AFD0A7682.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="French Roulette Gold" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/20CC29953639EBEB386DE23AFD0A7682.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -1991,7 +1991,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Princess 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B1172EA311869E107F1C4019D33E4220.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Princess 1000" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/B/B1172EA311869E107F1C4019D33E4220.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2009,7 +2009,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Yüksek Limitli Blackjack D" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/E/E6423A73882D99025EB32BB3A943C4AC.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Yüksek Limitli Blackjack D" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/E/E6423A73882D99025EB32BB3A943C4AC.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2027,7 +2027,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2045,7 +2045,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Santa’s Xmas Rush" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/A/AEC4B516494BD66A391AFB6F94C06450.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Santa’s Xmas Rush" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/A/AEC4B516494BD66A391AFB6F94C06450.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2063,7 +2063,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/F/F874484395C74C5FBC5BF056DCEA5FCF.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/F/F874484395C74C5FBC5BF056DCEA5FCF.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2081,7 +2081,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mines" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/BA823E432D8CEE10BB7F9E2986494F72.optimized.png" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mines" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/B/BA823E432D8CEE10BB7F9E2986494F72.optimized.png" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2099,7 +2099,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2117,7 +2117,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2135,7 +2135,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sun of Egypt 2" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/6/695AF53FE500AF580FD25214B7FA3D5D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sun of Egypt 2" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/6/695AF53FE500AF580FD25214B7FA3D5D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2153,7 +2153,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="French Roulette Gold" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/20CC29953639EBEB386DE23AFD0A7682.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="French Roulette Gold" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/20CC29953639EBEB386DE23AFD0A7682.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2171,7 +2171,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Princess 1000" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/B1172EA311869E107F1C4019D33E4220.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Jojobet Princess 1000" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/B/B1172EA311869E107F1C4019D33E4220.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2189,7 +2189,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Yüksek Limitli Blackjack D" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/E/E6423A73882D99025EB32BB3A943C4AC.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Yüksek Limitli Blackjack D" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/E/E6423A73882D99025EB32BB3A943C4AC.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2207,7 +2207,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2225,7 +2225,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Santa’s Xmas Rush" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/A/AEC4B516494BD66A391AFB6F94C06450.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Santa’s Xmas Rush" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/A/AEC4B516494BD66A391AFB6F94C06450.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2243,7 +2243,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/F/F874484395C74C5FBC5BF056DCEA5FCF.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Lightning Rulet" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/F/F874484395C74C5FBC5BF056DCEA5FCF.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2261,7 +2261,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mines" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/B/BA823E432D8CEE10BB7F9E2986494F72.optimized.png" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mines" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/B/BA823E432D8CEE10BB7F9E2986494F72.optimized.png" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2279,7 +2279,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2297,7 +2297,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus Dice" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/9/985CC4A2AC68B38C7D80F7C8B4F64429.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
@@ -2315,7 +2315,7 @@
                         <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
-                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sun of Egypt 2" width="55" height="33" data-src="/static.emcdncf.com/cms2/base/_casino/6/695AF53FE500AF580FD25214B7FA3D5D.jpg" class="PictureImg LazyImage"></figure>
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Sun of Egypt 2" width="55" height="33" src="/static.emcdncf.com/cms2/base/_casino/6/695AF53FE500AF580FD25214B7FA3D5D.jpg" class="PictureImg LazyImage"></figure>
                               </div>
                               <div class="RecentWinnerDescription">
                                  <div class="RecentWinnerName">
