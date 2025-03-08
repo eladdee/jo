@@ -53,18 +53,7 @@
     threshold: 200
   });
 });
-$(document).ready(function(){
-  $('.slider-list').slick({
-    infinite: true,           // Sonsuz döngü
-    slidesToShow: 1,          // Aynı anda gösterilecek slide sayısı
-    slidesToScroll: 1,        // Her kaydırmada geçilecek slide sayısı
-    dots: true,               // Noktaları (pagination) etkinleştirir
-    adaptiveHeight: true,     // İçeriğe göre yükseklik ayarı
-    prevArrow: $('.InstancePreviousSlide'), // Önceki butonunu tanımla
-    nextArrow: $('.InstanceNextSlide'),     // Sonraki butonunu tanımla
-    appendDots: $('.WrapperPagination.slider-decorator-2') // Noktaların yerleştirileceği alan
-  });
-});
+
 
       </script>
       <link rel="stylesheet" type="text/css" href="/static/css/common-d84be9782d9443a05473.css">
