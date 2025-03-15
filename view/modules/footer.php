@@ -209,7 +209,7 @@ function loginorpay(){
       <div class="LoginFormWrapper">
          <div class="LoginFormMobileHeader">
             <h2>Hoşgeldiniz</h2>
-            <span class="LoginFormNoAccount">Henüz hesabınız yok mu? <a class="ComponentAnchor Link Anchor" href="/tr/register"><span class="AnchorText">Şimdi Kayıt Olun</span></a></span>
+            <span class="LoginFormNoAccount">Henüz hesabınız yok mu? <a class="ComponentAnchor Link Anchor" href="/register"><span class="AnchorText">Şimdi Kayıt Olun</span></a></span>
          </div>
          <form class="Form" novalidate="" id="login_form" onsubmit="logIn()">
             <label class="InputContainer FormLabel ">
@@ -221,11 +221,11 @@ function loginorpay(){
                <div class="InputWrap"><input type="password" placeholder="Lütfen şifrenizi girin." name="password" data-validation-required="true"><span class="PasswordToggleIcon OpenEye"></span></div>
             </label>
             <div class="CustomLoginContent">
-               <p>Güncel adresimiz <strong>www.jojobet1011</strong><strong>.com</strong>’dur. Bir sonraki güncellemede adresimiz <strong>www.jojobet1012</strong><strong>.com</strong> olacaktır. Her zaman güncel adres için: <a href="/">https://dub.pro/jojoyagit</a>&nbsp;yazıp giriş yapabilirsiniz!<br>
+               <p>Güncel adresimiz <strong>www.<?=$guncel?></strong><strong>.com</strong>’dur. Bir sonraki güncellemede adresimiz <strong>www.<?=$guncel2?></strong><strong>.com</strong> olacaktır. Her zaman güncel adres için: <a href="/">https://dub.pro/jojoyagit</a>&nbsp;yazıp giriş yapabilirsiniz!<br>
                   <a href="/" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-11248 size-thumbnail" src="/stateless-jojobet/2019/06/063619b4-x.png" alt="" width="35" height="35"></a> <a href="/" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-11252 size-thumbnail" src="/stateless-jojobet/2019/06/61911974-telegram.png" alt="" width="35" height="35"></a>
                </p>
             </div>
-            <button type="submit" class="LoginSubmitButton Button CTASecondary" id="LoginButton-Url"><span class="ButtonText" id="LoginButton-Url-Text">Giriş Yap</span></button><a class="ComponentAnchor Link LoginSignupButton CTAPrimary Anchor" href="/tr/register"><span class="AnchorText">Şimdi Kayıt Olun</span></a>
+            <button type="submit" class="LoginSubmitButton Button CTASecondary" id="LoginButton-Url"><span class="ButtonText" id="LoginButton-Url-Text">Giriş Yap</span></button><a class="ComponentAnchor Link LoginSignupButton CTAPrimary Anchor" href="/register"><span class="AnchorText">Şimdi Kayıt Olun</span></a>
             <div class="LoginFormForgot"><button type="button" class="Link">Şifremi Unuttum</button></div>
          </form>
       </div>
