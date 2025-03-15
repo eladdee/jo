@@ -110,62 +110,261 @@
                      </div>
                   </div>
                </section>
-               <div class="NavigationWrapper">
-                  <mobile-bottom-navigation cmsendpoint="/apijson" lang="tr" env="prod" userroles="everyone" class="Navigation">
-                     <style>:host{font-family:system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"}.NavigationWrapper{background:var(--emfe-w-color-footer-bg, #212529);width:100%;height:100px}.NavigationPanel{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);width:calc(100% - 30px);max-width:450px;height:50px;z-index:30}.NavigationWindow{display:flex;flex-direction:column;background:var(--emfe-w-color-white, #FFFFFF);position:absolute;bottom:30px;left:0;opacity:0;transform:translateY(100%);border-radius:5px 5px 0 0;transition:0.25s ease;width:100%;max-height:40vh}.NavigationWindow.NavigationWindowOpened{opacity:1;padding-bottom:40px;transform:translateY(5px)}.NavigationWindow .ModalCloseBtn{position:absolute;top:10px;right:10px;width:24px;height:24px;border-radius:100%;color:var(--emfe-w-color-secondary, #FD2839);background:rgba(255, 255, 255, 0.1);cursor:pointer;transition:all 150ms ease-in-out;z-index:1}.NavigationWindow .ModalCloseBtn svg{width:24px;height:24px;margin:50%;transform:translate(-50%, -50%)}.NavigationWindow .ModalCloseBtn:hover{background:rgba(255, 255, 255, 0.2)}.NavigationWindow .NavigationWindowTitle{padding:16px 10px;margin:0;color:var(--emfe-w-color-contrast, #07072A);font-size:12px;flex-grow:0}.NavigationWindow .NavigationSecondaryWrapper{display:flex;flex-wrap:wrap;padding:0 10px;flex-grow:1;overflow-y:auto;-webkit-overflow-scrolling:touch}.NavigationPrimaryItemAnchor.NavItem0{grid-area:item0}.NavigationPrimaryItemAnchor.NavItem1{grid-area:item1}.NavigationPrimaryItemAnchor.NavItem2{grid-area:item2}.NavigationPrimaryItemAnchor.NavItem3{grid-area:item3}.NavigationPrimaryItemAnchor.NavItem4{grid-area:item4}.NavigationBar{background:var(--emfe-w-color-white, #FFFFFF);display:grid;grid-auto-flow:column;grid-template-columns:1fr 1fr 20% 1fr 1fr;grid-template-areas:"item0 item1 . item2 item3";height:50px;border-radius:5px;position:relative}.NavigationBar.NavigationBarSimple{grid-template-columns:repeat(5, 20%);grid-template-areas:"item0 item1 item2 item3 item4"}.NavigationBar.NavigationBarOpened{box-shadow:0 0 11px rgba(0, 0, 0, 0.09)}.NavigationPrimaryItemAnchor,.NavigationSecondaryItemAnchor{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;text-decoration:none;color:var(--emfe-w-color-contrast, #07072A);font-size:9px;overflow:hidden;white-space:nowrap}.NavigationPrimaryItemAnchor .NavigationPrimaryItemImg,.NavigationSecondaryItemAnchor .NavigationPrimaryItemImg,.NavigationSecondaryItemAnchor .NavigationSecondaryItemImg{width:20px}.NavigationPrimaryItemAnchor .NavigationPrimaryItemLabel,.NavigationSecondaryItemAnchor .NavigationPrimaryItemLabel,.NavigationSecondaryItemAnchor .NavigationSecondaryItemLabel{margin:0;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;width:100%;text-align:center}.NavigationSecondaryItemAnchor{width:25%;padding:10px 0}.ActiveItem{background-color:var(--emfe-w-color-primary, #D0046C)}.NavigationButton{background:var(--emfe-w-color-white, #FFFFFF);border:none;width:20%;height:100%;position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);padding:0}.NavigationButton .middleIcon{width:32px;height:32px}.NavigationButton:before{border-left:8px solid transparent;border-right:8px solid transparent;border-top:8px solid #F4F4F4;content:"";height:0;left:50%;opacity:0;position:absolute;top:0;transform:translateX(-50%);width:0}.NavigationButton.NavigationButtonActive:before{opacity:1;transition:0.7s ease}
-body.HasNavigation>#chat-widget-container {
-    z-index: 12!important;
-    bottom: calc(6.5rem + env(safe-area-inset-bottom))!important;
-    max-height: calc(100% - 6.5rem - env(safe-area-inset-bottom))!important
-}
+                <style><style>
+                                :host {
+                                    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"
+                                }
 
-.NavigationWrapper {
-    z-index: 13;
-    min-height: 6.5rem
-}
+                                .NavigationWrapper {
+                                    background: #212529;
+                                    );width: 100%;
+                                    height: 100px
+                                }
 
-.NavigationWrapper mobile-bottom-navigation::part(NavigationWrapper) {
-    height: 7.5rem
-}
+                                .NavigationPanel {
+                                    position: fixed;
+                                    bottom: -0;
+                                    left: 50%;
+                                    transform: translateX(-50%);
+                                    width: 100%;
+                                    max-width: 500px;
+                                    height: 50px;
+                                    z-index: 30;
+                                    background: #212121;
+                                }
 
-.NavigationWrapper mobile-bottom-navigation::part(NavigationBar),.NavigationWrapper mobile-bottom-navigation::part(NavigationButton) {
-    background: #151516
-}
+                                .NavigationWindow {
+                                    display: flex;
+                                    flex-direction: column;
+                                    background: var(--emfe-w-color-white, #FFFFFF);
+                                    position: absolute;
+                                    bottom: 27px;
+                                    left: 0;
+                                    opacity: 0;
+                                    transform: translateY(100%);
+                                    border-radius: 5px 5px 0 0;
+                                    transition: 0.25s ease;
+                                    width: 100%;
+                                    max-height: 40vh;
+                                    background: #151516;
+                                }
 
-.NavigationWrapper mobile-bottom-navigation::part(NavigationPrimaryItemImgWrapper),.NavigationWrapper mobile-bottom-navigation::part(NavigationSecondaryItemImgWrapper) {
-    display: flex;
-    flex-direction: column;
-    justify-content: center
-}
+                                .NavigationWindow.NavigationWindowOpened {
+                                    opacity: 1;
+                                    padding-bottom: 40px;
+                                    transform: translateY(5px)
+                                }
 
-.NavigationWrapper mobile-bottom-navigation::part(NavigationButton NavigationButtonActive):before {
-    content: none
-}
+                                .NavigationWindow .ModalCloseBtn {
+                                    position: absolute;
+                                    top: 10px;
+                                    right: 10px;
+                                    width: 24px;
+                                    height: 24px;
+                                    border-radius: 100%;
+                                    color: var(--emfe-w-color-secondary, #FD2839);
+                                    background: rgba(255, 255, 255, 0.1);
+                                    cursor: pointer;
+                                    transition: all 150ms ease-in-out;
+                                    z-index: 1
+                                }
 
-.NavigationWrapper mobile-bottom-navigation::part(NavigationWindow NavigationWindowOpened) {
-    border-bottom: none;
-    box-sizing: border-box
-}
+                                .NavigationWindow .ModalCloseBtn svg {
+                                    width: 24px;
+                                    height: 24px;
+                                    margin: 50%;
+                                    transform: translate(-50%, -50%)
+                                }
 
-.NavigationWrapper mobile-bottom-navigation::part(NavigationWindowTitle) {
-    display: none
-}
+                                .NavigationWindow .ModalCloseBtn:hover {
+                                    background: rgba(255, 255, 255, 0.2)
+                                }
 
-.NavigationWrapper mobile-bottom-navigation::part(ModalCloseBtn) {
-    width: 1.4rem;
-    height: 1.4rem;
-    background: none;
-    top: .5rem;
-    right: .5rem;
-    color: #f9c408
-}
+                                .NavigationWindow .NavigationWindowTitle {
+                                    padding: 16px 10px;
+                                    margin: 0;
+                                    color: var(--emfe-w-color-contrast, #07072A);
+                                    font-size: 12px;
+                                    flex-grow: 0
+                                }
 
-.NavigationWrapper mobile-bottom-navigation::part(w-6 h-6) {
-    width: 1.4rem
-}
+                                .NavigationWindow .NavigationSecondaryWrapper {
+                                    display: flex;
+                                    flex-wrap: wrap;
+                                    padding: 0 10px;
+                                    flex-grow: 1;
+                                    overflow-y: auto;
+                                    -webkit-overflow-scrolling: touch
+                                }
+
+                                .NavigationPrimaryItemAnchor.NavItem0 {
+                                    grid-area: item0
+                                }
+
+                                .NavigationPrimaryItemAnchor.NavItem1 {
+                                    grid-area: item1
+                                }
+
+                                .NavigationPrimaryItemAnchor.NavItem2 {
+                                    grid-area: item2
+                                }
+
+                                .NavigationPrimaryItemAnchor.NavItem3 {
+                                    grid-area: item3
+                                }
+
+                                .NavigationPrimaryItemAnchor.NavItem4 {
+                                    grid-area: item4
+                                }
+
+                                .NavigationBar {
+                                    background: var(--emfe-w-color-white, #FFFFFF);
+                                    display: grid;
+                                    grid-auto-flow: column;
+                                    grid-template-columns: 1fr 1fr 20% 1fr 1fr;
+                                    grid-template-areas: "item0 item1 . item2 item3";
+                                    height: 52px;
+                                    border-radius: 5px;
+                                    position: relative;
+                                    background: #151516;
+                                }
+
+                                .NavigationBar.NavigationBarSimple {
+                                    grid-template-columns: repeat(5, 20%);
+                                    grid-template-areas: "item0 item1 item2 item3 item4"
+                                }
+
+                                .NavigationBar.NavigationBarOpened {
+                                    box-shadow: 0 0 11px rgba(0, 0, 0, 0.09)
+                                }
+
+                                .NavigationPrimaryItemAnchor,.NavigationSecondaryItemAnchor {
+                                    display: flex;
+                                    flex-direction: column;
+                                    align-items: center;
+                                    justify-content: center;
+                                    gap: 5px;
+                                    text-decoration: none;
+                                    color: #fff;
+                                    font-size: 9px;
+                                    overflow: hidden;
+                                    white-space: nowrap
+                                }
+
+                                .NavigationPrimaryItemAnchor .NavigationPrimaryItemImg,.NavigationSecondaryItemAnchor .NavigationPrimaryItemImg,.NavigationSecondaryItemAnchor .NavigationSecondaryItemImg {
+                                    width: 35px;
+                                }
+
+                                .NavigationPrimaryItemAnchor .NavigationPrimaryItemLabel,.NavigationSecondaryItemAnchor .NavigationPrimaryItemLabel,.NavigationSecondaryItemAnchor .NavigationSecondaryItemLabel {
+                                    margin: 0;
+                                    overflow: hidden;
+                                    white-space: nowrap;
+                                    text-overflow: ellipsis;
+                                    width: 100%;
+                                    text-align: center
+                                }
+
+                                .NavigationSecondaryItemAnchor {
+                                    width: 25%;
+                                    padding: 10px 0
+                                }
+
+                                .ActiveItem {
+                                    background-color: var(--emfe-w-color-primary, #D0046C)
+                                }
+
+                                .NavigationButton {
+                                    background: #151516;
+                                    border: none;
+                                    width: 20%;
+                                    height: 100%;
+                                    position: absolute;
+                                    top: 50%;
+                                    left: 50%;
+                                    transform: translate(-50%, -50%);
+                                    padding: 0
+                                }
+
+                                .NavigationButton .middleIcon {
+                                    width: 32px;
+                                    height: 32px
+                                }
+
+                                .NavigationButton:before {
+                                    border-left: 8px solid transparent;
+                                    border-right: 8px solid transparent;
+                                    border-top: 8px solid #F4F4F4;
+                                    content: "";
+                                    height: 0;
+                                    left: 50%;
+                                    opacity: 0;
+                                    position: absolute;
+                                    top: 0;
+                                    transform: translateX(-50%);
+                                    width: 0
+                                }
+
+                                .NavigationButton.NavigationButtonActive:before {
+                                    opacity: 1;
+                                    transition: 0.7s ease
+                                }
+
+                                body.HasNavigation>#chat-widget-container {
+                                    z-index: 12!important;
+                                    bottom: calc(6.5rem + env(safe-area-inset-bottom))!important;
+                                    max-height: calc(100% - 6.5rem - env(safe-area-inset-bottom))!important
+                                }
+
+                                .NavigationWrapper {
+                                    z-index: 13;
+                                    min-height: -webkit-fill-available;
+                                }
+
+                                .NavigationWrapper mobile-bottom-navigation::part(NavigationWrapper) {
+                                    height: 7.5rem
+                                }
+
+                                .NavigationWrapper mobile-bottom-navigation::part(NavigationBar),.NavigationWrapper mobile-bottom-navigation::part(NavigationButton) {
+                                    background: #151516
+                                }
+
+                                .NavigationWrapper mobile-bottom-navigation::part(NavigationPrimaryItemImgWrapper),.NavigationWrapper mobile-bottom-navigation::part(NavigationSecondaryItemImgWrapper) {
+                                    display: flex;
+                                    flex-direction: column;
+                                    justify-content: center
+                                }
+
+                                .NavigationWrapper mobile-bottom-navigation::part(NavigationButton NavigationButtonActive):before {
+                                    content: none
+                                }
+
+                                .NavigationWrapper mobile-bottom-navigation::part(NavigationWindow NavigationWindowOpened) {
+                                    border-bottom: none;
+                                    box-sizing: border-box
+                                }
+
+                                .NavigationWrapper mobile-bottom-navigation::part(NavigationWindowTitle) {
+                                    display: none
+                                }
+
+                                .NavigationWrapper mobile-bottom-navigation::part(ModalCloseBtn) {
+                                    width: 1.4rem;
+                                    height: 1.4rem;
+                                    background: none;
+                                    top: .5rem;
+                                    right: .5rem;
+                                    color: #f9c408
+                                }
+
+                                .NavigationWrapper mobile-bottom-navigation::part(w-6 h-6) {
+                                    width: 1.4rem
+                                }
 
 
                      </style>
+               <div class="NavigationWrapper">
+                  <mobile-bottom-navigation cmsendpoint="/apijson" lang="tr" env="prod" userroles="everyone" class="Navigation">
+                    
                      
                      <div class="NavigationWrapper" part="NavigationWrapper">
    <div class="NavigationPanel" part="NavigationPanel">
