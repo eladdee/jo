@@ -2127,7 +2127,7 @@
                         </div>
                      </div>
                   </div>
-                  <section data-slider="slider" id="type_slider" class="fadebanner slide_id_1 d_desktop d_tablet d_mobile" style="min-height: 250px; overflow-y: auto;">
+                  <section data-slider="slider" id="type_slider" class="fadebanner slide_id_1 d_desktop d_tablet d_mobile" style="min-height: 250px; overflow: hidden;">
                      <div id="primary-slider" class="splide skeletonMain is-initialized splide--loop splide--ltr splide--draggable is-active" style="border: none; display: block;">
                         <div class="splide__arrows" style="display: block;">
                            <button class="splide__arrow splide__arrow--prev" aria-controls="primary-slider-track" aria-label="Go to last slide">
@@ -3459,10 +3459,8 @@
                      <button class="OM-Button OM-Button--ghost OM-Button--md MatchList__MainButton">Daha fazla</button>
                   </div>
                </div>
-               <bannermatrix-banner class="BannerWidgetAboveFooter BannerWidgetColorPack" operator-id="1990" webapi-realm="http://www.jojobet.com" webapi-url="wss://sportsapi.jojobet1013.com/v2" page-tag="home-page" position-tag="center-above-footer" language="tr" logged-in="false" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="" class-name="" translate="{}"></bannermatrix-banner>
-            </section>
+                 </section>
          </div>
       </div>
-      <script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;91eb0b4b8fd03792&quot;,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfSpeedBrain&quot;:true,&quot;cfCacheStatus&quot;:true}},&quot;version&quot;:&quot;2025.1.0&quot;,&quot;token&quot;:&quot;1eb7a12053bb42f3a11ba7cf3df45c98&quot;}" crossorigin="anonymous"></script>
-   </body>
+        </body>
 </html>
