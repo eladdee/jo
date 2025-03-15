@@ -127,8 +127,7 @@
                                     left: 50%;
                                     transform: translateX(-50%);
                                     width: 100%;
-                                    max-width: 500px;
-                                    height: 50px;
+                                    height: 54px;
                                     z-index: 30;
                                     background: #212121;
                                 }
@@ -243,7 +242,6 @@
                                     flex-direction: column;
                                     align-items: center;
                                     justify-content: center;
-                                    gap: 5px;
                                     text-decoration: none;
                                     color: #fff;
                                     font-size: 9px;
@@ -252,7 +250,7 @@
                                 }
 
                                 .NavigationPrimaryItemAnchor .NavigationPrimaryItemImg,.NavigationSecondaryItemAnchor .NavigationPrimaryItemImg,.NavigationSecondaryItemAnchor .NavigationSecondaryItemImg {
-                                    width: 35px;
+                                    width: 31px;
                                 }
 
                                 .NavigationPrimaryItemAnchor .NavigationPrimaryItemLabel,.NavigationSecondaryItemAnchor .NavigationPrimaryItemLabel,.NavigationSecondaryItemAnchor .NavigationSecondaryItemLabel {
