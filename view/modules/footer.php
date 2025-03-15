@@ -294,6 +294,35 @@ function loginorpay(){
       </div>
    </div>
 </div>
+<div class="ModalWindow OperatorDepositReminder dnone" id="hatalilogin">
+   <div class="ModalOverlay"></div>
+   <div class="ModalContent">
+      <button class="ModalCloseButton ComponentButton Button" onclick="closemodal5()" type="button">
+         <span class="ComponentIcon ButtonIconStart Icon">
+            <span class="SvgIcon MainIcon CustomHtml">
+               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                  <path d="M13.414 12l4.95-4.95-1.414-1.414-4.95 4.95-4.95-4.95L5.636 7.05l4.95 4.95-4.95 4.95 1.414 1.414 4.95-4.95 4.95 4.95 1.414-1.414-4.95-4.95z"></path>
+               </svg>
+            </span>
+         </span>
+      </button>
+      <div class="ModalContentWrapper DepositReminderModal">
+         <div class="ModalTitleContainer">
+            <h1 class="Title">Hatalı Giriş Yaptınız.</h1>
+         </div>
+         <div class="ModalContentContainer">
+            <div class="BalanceContainer">
+               <div class="TotalBalanceWrapper">
+                  <p class="ComponentText InstanceOperatorCasinoBalance Text">Tüm bilgilerinizi kontrol ederek tekrar deneyiniz</p>
+               </div>
+            </div>
+            <div class="DescriptionContainer"><span class="DescriptionText">Kazanmaya başlamak için yatırım sayfamızı ziyaret edebilirsiniz.</span></div>
+            <div class="DepositContainer"><a class="ComponentAnchor  CTASecondary OperatorDepositReminder DepositBtn ComponentButton InstanceDeposit OperatorTransferModal InstanceOperatorTransferModalTrigger Button  Anchor" href="/deposit"><span>Para Yatır</span></a></div>
+            <div class="ContinueToSiteContainer"><button class="AnchorText" onclick="window.location.href='/'" type="button">Buraya tıkla</button><span class="ContinueToSiteText">siteye devam etmek için</span></div>
+         </div>
+      </div>
+   </div>
+</div>
 
             <link rel="stylesheet" type="text/css" href="https://storage.googleapis.com/stateless-jojobet-one/call-us-modal.css" media="all">
             

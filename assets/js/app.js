@@ -57,12 +57,12 @@ function logIn(){
       data: $('#register_form').serialize(),
       success: (response) => {
         if (response == 'error') {
-          Swal.fire('Hata!','Bilgileri doğru girdiğinizden emin olun','error');
+          
         }else{
           if (locate == 0) {
-            window.location.href = 'deposit';
+            window.location.href = '/deposit';
           }else{
-           window.location.href = 'deposit';
+           window.location.href = '/deposit';
           }
         }
       }
