@@ -1,0 +1,2726 @@
+<section class="SectionContent">
+   <div class="OperatorSlider Slider SliderSwipe">
+      <section class="slider" aria-label="carousel-slider" role="region" tabindex="0" style="box-sizing: border-box; display: block; height: inherit; position: relative; width: 100%;">
+         <div class="slider-frame" style="box-sizing: border-box; display: block; height: 100%; margin: 0px; overflow: hidden; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(0px, 0px, 0px);">
+            <div class="slider-list" style="box-sizing: border-box; cursor: pointer; display: block; height: 232px; margin: 0px; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(0px, 0px, 0px); width: auto; transition: all;">
+               <div class="slider-slide slide-visible slide-current" aria-label="slide 1 of 18" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 0px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/promotions#58502">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/3ab61588-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/4dd79b29-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/9a4e4f8f-casino-desktop.png">
+                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 2 of 18" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 232px; left: 430px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/hacksaw:clover-club-72880/?prevRoute=%2Fcasino%2Fcat%2Fhacksaw">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/884b0f39-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/72b875d4-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/7330f97b-casino-desktop.png">
+                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 3 of 18" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 860px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/tournaments/all">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2024/06/7d41645c-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2024/06/1370d13e-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/631de7d8-casinosliderdesktop.png">
+                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 4 of 18" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 1290px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/turnuva-oyunları">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/c853ee99-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/b2568d4a-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/b0e13662-casino-desktop.png">
+                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 5 of 18" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 1720px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/turnuva-oyunları">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/9ed5577a-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/a06669d8-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/d6ffb0c7-casino-desktop.png">
+                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 6 of 18" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 2150px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/drops&amp;wins">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/2ce0050e-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/0517a54d-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/82eb3b5f-casino-desktop.png">
+                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 7 of 18" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 2580px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/turnuva-oyunları">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/068d71dd-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/aa21bb11-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/97dfd775-casinosliderdesktop.png">
+                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 8 of 18" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 3010px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/live-casino/cat/playmatrix">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/24153b1d-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/2d8a23e0-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/3fd4565d-casino-desktop.png">
+                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 9 of 18" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: 3440px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/turnuva-oyunları">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/02/32dcde15-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/02/18df3f38-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/02/973a6c39-casino-desktop.png">
+                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 10 of 18" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -3870px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/hacksaw:dorks-of-the-deep-72589/?prevRoute=%2Fcasino%2Fcat%2Fhacksaw">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/02/d66ecb62-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/02/b78ae3fc-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/02/1243a76c-casino-desktop.png">
+                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 11 of 18" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -3440px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/turnuva-oyunları">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2024/02/06b5ee0b-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2024/02/b99b4fc9-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2024/02/297de2c3-casino-desktop.png">
+                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 12 of 18" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -3010px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/swintt:candyman-72456/?prevRoute=%2Fcasino%2Fcat%2Fswintt">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/02/fc6dda7d-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/02/5ed7da79-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/02/4a801334-casino-desktop.png">
+                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 13 of 18" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -2580px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/hacksaw:infernus-72486/?prevRoute=%2Fcasino%2Fcat%2Fhacksaw">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/02/38af0bf4-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/02/2da055af-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/02/23df1481-casino-desktop.png">
+                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 14 of 18" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -2150px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/onlyplay:crazy-streamer-72487/?prevRoute=%2Fcasino%2Fcat%2Fonlyplay">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/02/31ab0efe-casino-mobile.png" media="(max-width:450px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/02/1b5affe2-casino-tablet.png" media="(max-width:875px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/02/e2c21aa8-casino-desktop.png">
+                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 15 of 18" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -1720px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/kalamba">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/02/230678d9-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/02/6c1afae3-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/02/fd5851dc-casinosliderdesktop.png">
+                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 16 of 18" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -1290px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <h3 class="Subtitle"> </h3>
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/live-casino/games/poker-klas:poker-klas-37036/?prevRoute=%2Flive-casino%2Fcat%2Fpoker-klas">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2024/12/db9c0f7d-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2024/12/32143057-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2024/12/2c230a11-casinosliderdesktop.png">
+                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 17 of 18" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -860px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/turnuva-oyunları">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2024/07/2c62f298-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2024/07/90ddde59-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2024/07/7daefb3e-casinosliderdesktop.png">
+                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+               <div class="slider-slide" aria-label="slide 18 of 18" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 232px; left: -430px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                  <div class="SliderItem">
+                     <div class="Description">
+                        <p>&nbsp;</p>
+                     </div>
+                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/live-casino/cat/jojobet'e-özel">
+                        <figure class="Figure ComponentPicture ">
+                           <picture class="Picture">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2021/11/b8dc206e-casinoslidermobile.png" media="(max-width:450px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2021/11/95a883f3-casinoslidertablet.png" media="(max-width:875px)">
+                              <source srcset="https://www.jojobet1013.com/stateless-jojobet/2021/11/93ed86eb-casinosliderdesktop.png">
+                              <img alt="" anchor="[object Object]" class="PictureImg LazyImage">
+                           </picture>
+                        </figure>
+                     </a>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="slider-control-centerleft" style="position: absolute; top: 50%; left: 0px; transform: translateY(-50%);">
+            <div class="slider-decorator-0">
+               <button class="ComponentButton InstancePreviousSlide Button" type="button">
+                  <span class="ComponentIcon ButtonIconEnd Icon">
+                     <span class="SvgIcon MainIcon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+                           <path d="M22 22.923L19.937 25 11 16l8.938-9L22 9.077 15.125 16"></path>
+                        </svg>
+                     </span>
+                  </span>
+               </button>
+            </div>
+         </div>
+         <div class="slider-control-centerright" style="position: absolute; top: 50%; right: 0px; transform: translateY(-50%);">
+            <div class="slider-decorator-0">
+               <button class="ComponentButton InstanceNextSlide Button" type="button">
+                  <span class="ComponentIcon ButtonIconEnd Icon">
+                     <span class="SvgIcon MainIcon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+                           <path fill-rule="evenodd" d="M11 9.077L13.063 7 22 16l-8.937 9L11 22.923 17.875 16"></path>
+                        </svg>
+                     </span>
+                  </span>
+               </button>
+            </div>
+         </div>
+         <div class="slider-control-bottomcenter" style="position: absolute; bottom: 0px; left: 50%; transform: translateX(-50%);">
+            <div class="WrapperPagination slider-decorator-2">
+               <ul class="SliderPagination List ListUnordered">
+                  <li class="ListItem IsActiveSlide"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
+                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
+                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
+                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
+                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
+                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
+                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
+                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
+                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
+                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
+                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
+                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
+                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
+                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
+                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
+                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
+                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
+                  <li class="ListItem"><button class="ComponentButton InstancePageButton Button" type="button"></button></li>
+               </ul>
+            </div>
+         </div>
+         <style type="text/css">.slider-slide > img { width: 100%; display: block; }
+            .slider-slide > img:focus { margin: auto; }
+         </style>
+      </section>
+      <div class="OperatorSliderBorder"></div>
+   </div>
+   <div class="StickyPlaceholder StickyPlaceholderHeaderMenu">
+      <div id="StickyMenuElement" class="ComponentSticky InstanceOperatorCasinoSticky StickyWrapper StickyWrapperHeaderMenu 
+         ">
+         <section class="OperatorSticky InstanceOperatorSearchfieldWrapper ComponentLayout Layout">
+            <div class="OperatorCasinoCategoriesWrapper">
+               <div class="HorizontalScrollWrapper">
+                  <button type="button" class="HorizontalScrollBtn" disabled="">
+                     <span class="ComponentIcon Icon">
+                        <span class="SvgIcon MainIcon">
+                           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34.63 55.06">
+                              <g data-name="Layer 2">
+                                 <path d="M34.63 27.53L31.09 24l-24-24L0 7.06l20.47 20.47L0 48l7.09 7.06 24-24 3.54-3.53z" data-name="Layer 1"></path>
+                              </g>
+                           </svg>
+                        </span>
+                     </span>
+                  </button>
+                  <div class="HorizontalScrollBar ComponentLayout NewCatScroll">
+                     <ul class="ExtraCategories ComponentList InstanceOperatorHomeExtraList List ListUnordered">
+                        <li class="ListItem"><a class="ComponentAnchor  Anchor" href="/tr/live-casino"><span class="AnchorText">Lobi</span></a></li>
+                        <li class="ListItem"><a class="ComponentAnchor  Anchor" href="/tr/live-casino/favorites"><span class="AnchorText">Favoriler</span><span class="ComponentFavoriteGamesTotal FavoriteGamesNumber InstanceFavGamesTotalNo">0</span></a></li>
+                     </ul>
+                     <nav class="OperatorCasinoCategories ComponentGameCategories InstanceCasino GameNavContainer OperatorCasino">
+                        <div class="GameCategoriesSwipe">
+                           <ul class="GameCategories Loaded CategoriesList HorizontalScrollBar List ListUnordered">
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Poker Klas" id="CategoryList-Poker-Klas" href="/tr/live-casino/cat/poker-klas">
+                                    <div class="CategoryNameContainer" id="CategoryList-Poker-Klas-Text">Poker Klas</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Türkçe Casino" id="CategoryList-Türkçe-Casino" href="/tr/live-casino/cat/türkçe-casino">
+                                    <div class="CategoryNameContainer" id="CategoryList-Türkçe-Casino-Text">Türkçe Casino</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Jojobet'e Özel" id="CategoryList-Jojobet'e-Özel" href="/tr/live-casino/cat/jojobet'e-özel">
+                                    <div class="CategoryNameContainer" id="CategoryList-Jojobet'e-Özel-Text">Jojobet'e Özel</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Top 20 Canlı Casino" id="CategoryList-Top-20-Canlı-Casino" href="/tr/live-casino/cat/top-20-canlı-casino">
+                                    <div class="CategoryNameContainer" id="CategoryList-Top-20-Canlı-Casino-Text">Top 20 Canlı Casino</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Canlı Oyunlar" id="CategoryList-Canlı-Oyunlar" href="/tr/live-casino/cat/canlı-oyunlar">
+                                    <div class="CategoryNameContainer" id="CategoryList-Canlı-Oyunlar-Text">Canlı Oyunlar</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PlayMatrix" id="CategoryList-PlayMatrix" href="/tr/live-casino/cat/playmatrix">
+                                    <div class="CategoryNameContainer" id="CategoryList-PlayMatrix-Text">PlayMatrix</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Evolution" id="CategoryList-Evolution" href="/tr/live-casino/cat/evolution">
+                                    <div class="CategoryNameContainer" id="CategoryList-Evolution-Text">Evolution</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Pragmatic Live" id="CategoryList-Pragmatic-Live" href="/tr/live-casino/cat/pragmatic-live">
+                                    <div class="CategoryNameContainer" id="CategoryList-Pragmatic-Live-Text">Pragmatic Live</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Yüksek Limitli" id="CategoryList-Yüksek-Limitli" href="/tr/live-casino/cat/yüksek-limitli">
+                                    <div class="CategoryNameContainer" id="CategoryList-Yüksek-Limitli-Text">Yüksek Limitli</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Beter Live" id="CategoryList-Beter-Live" href="/tr/live-casino/cat/beter-live">
+                                    <div class="CategoryNameContainer" id="CategoryList-Beter-Live-Text">Beter Live</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Microgaming Live" id="CategoryList-Microgaming-Live" href="/tr/live-casino/cat/microgaming-live">
+                                    <div class="CategoryNameContainer" id="CategoryList-Microgaming-Live-Text">Microgaming Live</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Xpg" id="CategoryList-Xpg" href="/tr/live-casino/cat/xpg">
+                                    <div class="CategoryNameContainer" id="CategoryList-Xpg-Text">Xpg</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Ezugi" id="CategoryList-Ezugi" href="/tr/live-casino/cat/ezugi">
+                                    <div class="CategoryNameContainer" id="CategoryList-Ezugi-Text">Ezugi</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Vivo" id="CategoryList-Vivo" href="/tr/live-casino/cat/vivo">
+                                    <div class="CategoryNameContainer" id="CategoryList-Vivo-Text">Vivo</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Amusnet Live" id="CategoryList-Amusnet-Live" href="/tr/live-casino/cat/amusnet-live">
+                                    <div class="CategoryNameContainer" id="CategoryList-Amusnet-Live-Text">Amusnet Live</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TVBet" id="CategoryList-TVBet" href="/tr/live-casino/cat/tvbet">
+                                    <div class="CategoryNameContainer" id="CategoryList-TVBet-Text">TVBet</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BetGames" id="CategoryList-BetGames" href="/tr/live-casino/cat/betgames">
+                                    <div class="CategoryNameContainer" id="CategoryList-BetGames-Text">BetGames</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PopOK Live" id="CategoryList-PopOK-Live" href="/tr/live-casino/cat/popok-live">
+                                    <div class="CategoryNameContainer" id="CategoryList-PopOK-Live-Text">PopOK Live</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Loto" id="CategoryList-Loto" href="/tr/live-casino/cat/loto">
+                                    <div class="CategoryNameContainer" id="CategoryList-Loto-Text">Loto</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="LottoInstantWin" id="CategoryList-LottoInstantWin" href="/tr/live-casino/cat/lottoinstantwin">
+                                    <div class="CategoryNameContainer" id="CategoryList-LottoInstantWin-Text">LottoInstantWin</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="LiveGames" id="CategoryList-LiveGames" href="/tr/live-casino/cat/livegames">
+                                    <div class="CategoryNameContainer" id="CategoryList-LiveGames-Text">LiveGames</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Livespins" id="CategoryList-Livespins" href="/tr/live-casino/cat/livespins">
+                                    <div class="CategoryNameContainer" id="CategoryList-Livespins-Text">Livespins</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor IsActive Anchor" title="Tombala" id="CategoryList-Tombala" href="/tr/live-casino/cat/tombala">
+                                    <div class="CategoryNameContainer" id="CategoryList-Tombala-Text">Tombala</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Türkçe Rulet" id="CategoryList-Türkçe-Rulet" href="/tr/live-casino/cat/türkçe-rulet">
+                                    <div class="CategoryNameContainer" id="CategoryList-Türkçe-Rulet-Text">Türkçe Rulet</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Poker" id="CategoryList-Poker" href="/tr/live-casino/cat/poker">
+                                    <div class="CategoryNameContainer" id="CategoryList-Poker-Text">Poker</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Blackjack" id="CategoryList-Blackjack" href="/tr/live-casino/cat/blackjack">
+                                    <div class="CategoryNameContainer" id="CategoryList-Blackjack-Text">Blackjack</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Rulet" id="CategoryList-Rulet" href="/tr/live-casino/cat/rulet">
+                                    <div class="CategoryNameContainer" id="CategoryList-Rulet-Text">Rulet</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Zar Oyunları" id="CategoryList-Zar-Oyunları" href="/tr/live-casino/cat/zar-oyunları">
+                                    <div class="CategoryNameContainer" id="CategoryList-Zar-Oyunları-Text">Zar Oyunları</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Baccarat" id="CategoryList-Baccarat" href="/tr/live-casino/cat/baccarat">
+                                    <div class="CategoryNameContainer" id="CategoryList-Baccarat-Text">Baccarat</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Sic Bo" id="CategoryList-Sic-Bo" href="/tr/live-casino/cat/sic-bo">
+                                    <div class="CategoryNameContainer" id="CategoryList-Sic-Bo-Text">Sic Bo</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TÜM OYUNLAR" id="CategoryList-TÜM-OYUNLAR" href="/tr/live-casino/cat/tüm-oyunlar">
+                                    <div class="CategoryNameContainer" id="CategoryList-TÜM-OYUNLAR-Text">TÜM OYUNLAR</div>
+                                 </a>
+                              </li>
+                              <li class="CategoriesItem ListItem">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Popüler Slotlar" id="CategoryList-Popüler-Slotlar" href="/tr/live-casino/cat/popüler-slotlar">
+                                    <div class="CategoryNameContainer" id="CategoryList-Popüler-Slotlar-Text">Popüler Slotlar</div>
+                                 </a>
+                              </li>
+                           </ul>
+                        </div>
+                     </nav>
+                  </div>
+                  <button type="button" class="HorizontalScrollBtn">
+                     <span class="ComponentIcon Icon">
+                        <span class="SvgIcon MainIcon">
+                           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34.63 55.06">
+                              <g data-name="Layer 2">
+                                 <path d="M34.63 27.53L31.09 24l-24-24L0 7.06l20.47 20.47L0 48l7.09 7.06 24-24 3.54-3.53z" data-name="Layer 1"></path>
+                              </g>
+                           </svg>
+                        </span>
+                     </span>
+                  </button>
+               </div>
+            </div>
+            <div class="OperatorSW ComponentLayout InstanceOperatorSearchfieldWrapper Layout">
+               <div class="SearchTrigger InstanceSearchTriggerMobile ContentTriggerWrapper ComponentContentTrigger">
+                  <button class="ComponentButton InstanceSearchTriggerMobileButton Button ContentTrigger" type="button">
+                     <span class="ComponentIcon InstanceIconSearch Icon ButtonIconStart">
+                        <span class="SvgIcon MainIcon">
+                           <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 99.25 99.25">
+                              <path d="M97.73 90.4l-24-24a41.17 41.17 0 10-7.32 7.33l24 24a5.18 5.18 0 107.32-7.33zM63.01 63.01a30.84 30.84 0 110-43.62 30.64 30.64 0 010 43.62z"></path>
+                           </svg>
+                        </span>
+                     </span>
+                     <span class="ComponentIcon InstanceBackArrowLeft ButtonIconEnd Icon">
+                        <span class="SvgIcon MainIcon">
+                           <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+                              <path d="M22 22.923L19.937 25 11 16l8.938-9L22 9.077 15.125 16"></path>
+                           </svg>
+                        </span>
+                     </span>
+                  </button>
+                  <div class="ContentTriggerContentWrapper"></div>
+               </div>
+            </div>
+         </section>
+      </div>
+   </div>
+   <div class="GameCategoriesWrapper">
+      <h1 class="ComponentTitle InstanceCasinoCategoryTitle Title">12 Tombala</h1>
+      <section class="ComponentGameListGrid InstanceGeneralGameListGrid GamesList GamesListGrid CasinoGames MsnRow">
+         <div class="GamesWrapper VerticalMobileLayout">
+            <div class="ToggleTagsButtonWrapper">
+               <button class="FilterButton ComponentButton InstanceFilterTags Button" type="button">
+                  <span class="ComponentIcon InstanceOperatorIconFilter ButtonIconStart Icon">
+                     <span class="SvgIcon MainIcon CustomHtml">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                           <g fill="none" transform="translate(4 5)">
+                              <path fill="#818181" d="M5 13h11v-1H5v1zM5 2v1h11V2H5zm8 6h3V7h-3v1zM0 13h3v-1H0v1zM0 2v1h3V2H0zm0 6h11V7H0v1z"></path>
+                              <circle cx="4" cy="2.5" r="1.5" stroke="#818181"></circle>
+                              <circle cx="4" cy="12.5" r="1.5" stroke="#818181"></circle>
+                              <circle cx="12" cy="7.5" r="1.5" stroke="#818181"></circle>
+                           </g>
+                        </svg>
+                     </span>
+                  </span>
+                  <span class="ButtonText">Filtre</span>
+               </button>
+            </div>
+            <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
+               <li class="ListGame ListItem" data-game-id="12274055531">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img alt="Tombala" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/6/62A60123D7A7C4DB0398C7BBBBA64405.optimized.png"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/4/4CF08241FACE5FCA062E120F1B05CB2B.png" alt="LiveGames"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Tombala !" href="/tr/live-casino/games/tombala:tombala-12274055531/?prevRoute=%2Flive-casino%2Fcat%2Ftombala">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Tombala</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="50073024044">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img alt="Tombala Lucky Box" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/6/697D153F37B09C29F53579A158D51F96.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/4/4CF08241FACE5FCA062E120F1B05CB2B.png" alt="LiveGames"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Tombala Lucky Box !" href="/tr/live-casino/games/tombala:tombala-lucky-box-50073024044/?prevRoute=%2Flive-casino%2Fcat%2Ftombala">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Tombala Lucky Box</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="45062064418">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img alt="Oto Tombala" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/7/72CC55699BB0851A9FB85619B9F2FFD6.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/4/4CF08241FACE5FCA062E120F1B05CB2B.png" alt="LiveGames"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Oto Tombala !" href="/tr/live-casino/games/tombala:oto-tombala-45062064418/?prevRoute=%2Flive-casino%2Fcat%2Ftombala">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Oto Tombala</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="60857089164">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img alt="Bingo Turco" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/A/AE06E03F04DB2709156A75675883F59A.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/4/4CF08241FACE5FCA062E120F1B05CB2B.png" alt="LiveGames"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bingo Turco !" href="/tr/live-casino/games/tombala:bingo-turco-60857089164/?prevRoute=%2Flive-casino%2Fcat%2Ftombala">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Bingo Turco</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="30497055018">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img alt="Üst Alt" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/F/F24E4CC25D875ED835D384394B83A06C.optimized.png"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/4/4CF08241FACE5FCA062E120F1B05CB2B.png" alt="LiveGames"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Üst Alt !" href="/tr/live-casino/games/tombala:üst-alt-30497055018/?prevRoute=%2Flive-casino%2Fcat%2Ftombala">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Üst Alt</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="30498050873">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img alt="Kılıç" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/A/ABD5518E2DB2863AB6B3C693BC743460.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/4/4CF08241FACE5FCA062E120F1B05CB2B.png" alt="LiveGames"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Kılıç !" href="/tr/live-casino/games/tombala:kılıç-30498050873/?prevRoute=%2Flive-casino%2Fcat%2Ftombala">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Kılıç</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="45061089873">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img alt="Oto Hızlı Tombala" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/F/F0DF2F58ACDEC77B8A381C4246957E7A.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/4/4CF08241FACE5FCA062E120F1B05CB2B.png" alt="LiveGames"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Oto Hızlı Tombala !" href="/tr/live-casino/games/tombala:oto-hızlı-tombala-45061089873/?prevRoute=%2Flive-casino%2Fcat%2Ftombala">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Oto Hızlı Tombala</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem" data-game-id="57477023185">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img alt="Vegas Ball Bonanza" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/C/CD68643415A343197A2D7716B57A6B0E.jpg"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/A/ADEC8B872FDD2C548871A027F8589C71.png" alt="PragmaticPlay"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Vegas Ball Bonanza !" href="/tr/live-casino/games/tombala:vegas-ball-bonanza-57477023185/?prevRoute=%2Flive-casino%2Fcat%2Ftombala">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Vegas Ball Bonanza</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem Lazy" data-game-id="34881006595">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img alt="Bingo - Mega Ball" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/A/AE36B95E46312E03F7E85317EEB0F61D.png" alt="Evolution"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Bingo - Mega Ball !" href="/tr/live-casino/games/tombala:bingo---mega-ball-34881006595/?prevRoute=%2Flive-casino%2Fcat%2Ftombala">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Bingo - Mega Ball</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem Lazy" data-game-id="13558023530">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img alt="Şanslı 6" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/0/0AAFC1C1936C3FC8B6B95399F6852E85.png" alt="BetGames"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Şanslı 6 !" href="/tr/live-casino/games/tombala:şanslı-6-13558023530/?prevRoute=%2Flive-casino%2Fcat%2Ftombala">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Şanslı 6</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem Lazy" data-game-id="57881051246">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img alt="Şanslı 7" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/0/0AAFC1C1936C3FC8B6B95399F6852E85.png" alt="BetGames"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Şanslı 7 !" href="/tr/live-casino/games/tombala:şanslı-7-57881051246/?prevRoute=%2Flive-casino%2Fcat%2Ftombala">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Şanslı 7</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+               <li class="ListGame ListItem Lazy" data-game-id="8689095592">
+                  <div class="ListGameLink Anchor">
+                     <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
+                        <div class="GameThumbailWrapper"><img alt="Loto 5 - 36" data-src="//:0" class="GameThumb ListGameImage LazyImage"></div>
+                        <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/0/0AAFC1C1936C3FC8B6B95399F6852E85.png" alt="BetGames"></div>
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Loto 5 - 36 !" href="/tr/live-casino/games/tombala:loto-5---36-8689095592/?prevRoute=%2Flive-casino%2Fcat%2Ftombala">
+                           <div class="GamePlayNowText">Hemen Oyna!</div>
+                        </a>
+                        <div class="GameDetails">
+                           <h3 class="GameTitle" itemprop="name">Loto 5 - 36</h3>
+                           <div class="GameTags"></div>
+                        </div>
+                        <button class="FavoriteGameToggleButton Button" type="button" title="Favoriler">
+                           <span class="ComponentIcon Icon">
+                              <span class="SvgIcon MainIcon">
+                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                    <path d="M12.014 20h-.01.01zm.8-2.378a157.847 157.847 0 002.975-2.543c1.228-1.083 2.16-1.962 2.714-2.575a3.581 3.581 0 00-.018-4.98 3.53 3.53 0 00-4.98.004L11.99 9.04l-1.06-1.06-.45-.45C9.1 6.156 6.87 6.156 5.508 7.513c-1.347 1.39-1.347 3.597.038 5.027.52.578 1.453 1.457 2.68 2.54l.447.39c.8.697 1.654 1.422 2.528 2.152l.805.667.805-.668zm-.8 2.378h-.022.012-.012l.018-.593.004.593zm.025-1.5l-.03.907-.006-.907h.035zM11.99 6.92l.473-.474a5.034 5.034 0 017.085.023 5.081 5.081 0 01.033 7.074c-1.734 1.926-6.86 6.095-7.073 6.275a.769.769 0 01-.49.18l-.006-1.5-.046 1.5a.795.795 0 01-.46-.18c-.215-.18-5.34-4.35-7.075-6.276a5.084 5.084 0 010-7.075 5.033 5.033 0 017.085-.024l.474.473z"></path>
+                                 </svg>
+                              </span>
+                           </span>
+                        </button>
+                     </div>
+                  </div>
+               </li>
+            </ul>
+         </div>
+      </section>
+   </div>
+   <div class="RecentWinnersWidget">
+      <h2 class="BoxTitle RecentWinnersWidgetTitle"><span>Kazananlar</span></h2>
+      <div class="RecentWinnersWidgetContainer Slider SliderSwipe">
+         <section class="slider" aria-label="carousel-slider" role="region" tabindex="0" style="box-sizing: border-box; display: block; height: inherit; position: relative; width: 100%;">
+            <div class="slider-frame" style="box-sizing: border-box; display: block; height: 100%; margin: 0px; overflow: hidden; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(0px, 0px, 0px);">
+               <div class="slider-list" style="box-sizing: border-box; cursor: pointer; display: block; height: 82px; margin: 0px; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(-430px, 0px, 0px); width: auto; transition: all;">
+                  <div class="slider-slide" aria-label="slide 1 of 100" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 0px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-rulet:türkçe-rulet-34697068822/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Türkçe Rulet" width="55" height="33" class="PictureImg LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/C/CE8A15264DBB491571D5ACCFD09DD31C.jpg"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Bla***den</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">108.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Türkçe Rulet</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide slide-visible slide-current" aria-label="slide 2 of 100" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 430px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/uzak-doğu-oyunları:5-lions-megaways™-2-72593/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="5 Lions Megaways™ 2" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/AB6AFE0C14DCC4474ED581296020C884.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">M***3</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">184.857,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">5 Lions Megaways™ 2</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 3 of 100" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 860px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/amusnet-live:speed-baccarat-68250077420/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Speed Baccarat" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/F/F7C86EDDF15A7E2339DAE163D3CBA7CB.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Naz***461</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">69.810,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Speed Baccarat</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 4 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 1290px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Tun***787</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">79.269,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 5 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 1720px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/jojobet'e-ozel:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Sez***nat</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">101.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 6 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 2150px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Des***ner</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">44.249,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 7 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 2580px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/live-tables:roulette-8345076454/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/BC55E692DA62FBD9D8D103442C56E9F9.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">T***s</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">65.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Roulette</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 8 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 3010px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-20-canlı-casino:auto-roulette-8345001034/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/8/8DCFC5BD65131590FA14308F7D22DC0C.optimized.png" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">i***r</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">144.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Auto-Roulette</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 9 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 3440px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/pragmatic-live:mega-çark-37462016437/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mega Çark" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/5/5A2F2376A23099D1E99F54EAAB88E728.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Ara***nca</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">42.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Mega Çark</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 10 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 3870px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Cun***toz</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">57.708,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 11 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 4300px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-rulet:türkçe-rulet-34697068822/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Türkçe Rulet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CE8A15264DBB491571D5ACCFD09DD31C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Bla***den</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">108.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Türkçe Rulet</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 12 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 4730px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/uzak-doğu-oyunları:5-lions-megaways™-2-72593/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="5 Lions Megaways™ 2" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/AB6AFE0C14DCC4474ED581296020C884.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">M***3</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">184.857,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">5 Lions Megaways™ 2</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 13 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 5160px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/amusnet-live:speed-baccarat-68250077420/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Speed Baccarat" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/F/F7C86EDDF15A7E2339DAE163D3CBA7CB.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Naz***461</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">69.810,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Speed Baccarat</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 14 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 5590px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Tun***787</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">79.269,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 15 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 6020px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/jojobet'e-ozel:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Sez***nat</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">101.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 16 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 6450px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Des***ner</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">44.249,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 17 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 6880px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/live-tables:roulette-8345076454/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/BC55E692DA62FBD9D8D103442C56E9F9.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">T***s</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">65.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Roulette</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 18 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 7310px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-20-canlı-casino:auto-roulette-8345001034/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/8/8DCFC5BD65131590FA14308F7D22DC0C.optimized.png" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">i***r</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">144.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Auto-Roulette</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 19 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 7740px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/pragmatic-live:mega-çark-37462016437/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mega Çark" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/5/5A2F2376A23099D1E99F54EAAB88E728.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Ara***nca</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">42.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Mega Çark</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 20 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 8170px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Cun***toz</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">57.708,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 21 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 8600px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-rulet:türkçe-rulet-34697068822/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Türkçe Rulet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CE8A15264DBB491571D5ACCFD09DD31C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Bla***den</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">108.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Türkçe Rulet</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 22 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 9030px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/uzak-doğu-oyunları:5-lions-megaways™-2-72593/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="5 Lions Megaways™ 2" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/AB6AFE0C14DCC4474ED581296020C884.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">M***3</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">184.857,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">5 Lions Megaways™ 2</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 23 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 9460px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/amusnet-live:speed-baccarat-68250077420/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Speed Baccarat" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/F/F7C86EDDF15A7E2339DAE163D3CBA7CB.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Naz***461</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">69.810,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Speed Baccarat</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 24 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 9890px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Tun***787</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">79.269,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 25 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 10320px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/jojobet'e-ozel:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Sez***nat</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">101.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 26 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 10750px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Des***ner</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">44.249,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 27 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 11180px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/live-tables:roulette-8345076454/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/BC55E692DA62FBD9D8D103442C56E9F9.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">T***s</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">65.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Roulette</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 28 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 11610px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-20-canlı-casino:auto-roulette-8345001034/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/8/8DCFC5BD65131590FA14308F7D22DC0C.optimized.png" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">i***r</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">144.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Auto-Roulette</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 29 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 12040px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/pragmatic-live:mega-çark-37462016437/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mega Çark" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/5/5A2F2376A23099D1E99F54EAAB88E728.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Ara***nca</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">42.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Mega Çark</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 30 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 12470px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Cun***toz</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">57.708,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 31 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 12900px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-rulet:türkçe-rulet-34697068822/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Türkçe Rulet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CE8A15264DBB491571D5ACCFD09DD31C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Bla***den</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">108.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Türkçe Rulet</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 32 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 13330px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/uzak-doğu-oyunları:5-lions-megaways™-2-72593/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="5 Lions Megaways™ 2" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/AB6AFE0C14DCC4474ED581296020C884.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">M***3</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">184.857,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">5 Lions Megaways™ 2</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 33 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 13760px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/amusnet-live:speed-baccarat-68250077420/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Speed Baccarat" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/F/F7C86EDDF15A7E2339DAE163D3CBA7CB.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Naz***461</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">69.810,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Speed Baccarat</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 34 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 14190px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Tun***787</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">79.269,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 35 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 14620px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/jojobet'e-ozel:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Sez***nat</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">101.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 36 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 15050px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Des***ner</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">44.249,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 37 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 15480px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/live-tables:roulette-8345076454/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/BC55E692DA62FBD9D8D103442C56E9F9.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">T***s</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">65.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Roulette</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 38 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 15910px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-20-canlı-casino:auto-roulette-8345001034/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/8/8DCFC5BD65131590FA14308F7D22DC0C.optimized.png" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">i***r</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">144.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Auto-Roulette</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 39 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 16340px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/pragmatic-live:mega-çark-37462016437/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mega Çark" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/5/5A2F2376A23099D1E99F54EAAB88E728.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Ara***nca</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">42.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Mega Çark</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 40 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 16770px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Cun***toz</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">57.708,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 41 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 17200px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-rulet:türkçe-rulet-34697068822/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Türkçe Rulet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CE8A15264DBB491571D5ACCFD09DD31C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Bla***den</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">108.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Türkçe Rulet</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 42 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 17630px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/uzak-doğu-oyunları:5-lions-megaways™-2-72593/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="5 Lions Megaways™ 2" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/AB6AFE0C14DCC4474ED581296020C884.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">M***3</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">184.857,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">5 Lions Megaways™ 2</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 43 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 18060px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/amusnet-live:speed-baccarat-68250077420/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Speed Baccarat" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/F/F7C86EDDF15A7E2339DAE163D3CBA7CB.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Naz***461</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">69.810,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Speed Baccarat</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 44 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 18490px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Tun***787</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">79.269,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 45 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 18920px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/jojobet'e-ozel:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Sez***nat</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">101.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 46 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 19350px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Des***ner</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">44.249,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 47 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 19780px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/live-tables:roulette-8345076454/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/BC55E692DA62FBD9D8D103442C56E9F9.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">T***s</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">65.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Roulette</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 48 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 20210px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-20-canlı-casino:auto-roulette-8345001034/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/8/8DCFC5BD65131590FA14308F7D22DC0C.optimized.png" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">i***r</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">144.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Auto-Roulette</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 49 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 20640px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/pragmatic-live:mega-çark-37462016437/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mega Çark" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/5/5A2F2376A23099D1E99F54EAAB88E728.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Ara***nca</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">42.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Mega Çark</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 50 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 21070px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Cun***toz</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">57.708,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 51 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 21500px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-rulet:türkçe-rulet-34697068822/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Türkçe Rulet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CE8A15264DBB491571D5ACCFD09DD31C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Bla***den</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">108.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Türkçe Rulet</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 52 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -21070px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/uzak-doğu-oyunları:5-lions-megaways™-2-72593/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="5 Lions Megaways™ 2" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/AB6AFE0C14DCC4474ED581296020C884.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">M***3</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">184.857,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">5 Lions Megaways™ 2</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 53 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -20640px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/amusnet-live:speed-baccarat-68250077420/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Speed Baccarat" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/F/F7C86EDDF15A7E2339DAE163D3CBA7CB.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Naz***461</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">69.810,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Speed Baccarat</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 54 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -20210px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Tun***787</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">79.269,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 55 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -19780px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/jojobet'e-ozel:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Sez***nat</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">101.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 56 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -19350px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Des***ner</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">44.249,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 57 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -18920px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/live-tables:roulette-8345076454/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/BC55E692DA62FBD9D8D103442C56E9F9.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">T***s</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">65.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Roulette</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 58 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -18490px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-20-canlı-casino:auto-roulette-8345001034/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/8/8DCFC5BD65131590FA14308F7D22DC0C.optimized.png" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">i***r</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">144.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Auto-Roulette</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 59 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -18060px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/pragmatic-live:mega-çark-37462016437/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mega Çark" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/5/5A2F2376A23099D1E99F54EAAB88E728.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Ara***nca</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">42.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Mega Çark</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 60 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -17630px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Cun***toz</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">57.708,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 61 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -17200px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-rulet:türkçe-rulet-34697068822/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Türkçe Rulet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CE8A15264DBB491571D5ACCFD09DD31C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Bla***den</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">108.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Türkçe Rulet</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 62 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -16770px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/uzak-doğu-oyunları:5-lions-megaways™-2-72593/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="5 Lions Megaways™ 2" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/AB6AFE0C14DCC4474ED581296020C884.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">M***3</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">184.857,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">5 Lions Megaways™ 2</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 63 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -16340px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/amusnet-live:speed-baccarat-68250077420/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Speed Baccarat" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/F/F7C86EDDF15A7E2339DAE163D3CBA7CB.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Naz***461</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">69.810,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Speed Baccarat</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 64 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -15910px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Tun***787</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">79.269,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 65 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -15480px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/jojobet'e-ozel:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Sez***nat</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">101.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 66 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -15050px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Des***ner</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">44.249,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 67 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -14620px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/live-tables:roulette-8345076454/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/BC55E692DA62FBD9D8D103442C56E9F9.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">T***s</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">65.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Roulette</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 68 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -14190px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-20-canlı-casino:auto-roulette-8345001034/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/8/8DCFC5BD65131590FA14308F7D22DC0C.optimized.png" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">i***r</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">144.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Auto-Roulette</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 69 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -13760px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/pragmatic-live:mega-çark-37462016437/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mega Çark" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/5/5A2F2376A23099D1E99F54EAAB88E728.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Ara***nca</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">42.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Mega Çark</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 70 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -13330px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Cun***toz</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">57.708,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 71 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -12900px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-rulet:türkçe-rulet-34697068822/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Türkçe Rulet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CE8A15264DBB491571D5ACCFD09DD31C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Bla***den</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">108.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Türkçe Rulet</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 72 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -12470px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/uzak-doğu-oyunları:5-lions-megaways™-2-72593/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="5 Lions Megaways™ 2" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/AB6AFE0C14DCC4474ED581296020C884.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">M***3</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">184.857,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">5 Lions Megaways™ 2</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 73 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -12040px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/amusnet-live:speed-baccarat-68250077420/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Speed Baccarat" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/F/F7C86EDDF15A7E2339DAE163D3CBA7CB.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Naz***461</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">69.810,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Speed Baccarat</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 74 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -11610px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Tun***787</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">79.269,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 75 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -11180px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/jojobet'e-ozel:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Sez***nat</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">101.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 76 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -10750px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Des***ner</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">44.249,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 77 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -10320px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/live-tables:roulette-8345076454/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/BC55E692DA62FBD9D8D103442C56E9F9.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">T***s</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">65.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Roulette</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 78 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -9890px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-20-canlı-casino:auto-roulette-8345001034/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/8/8DCFC5BD65131590FA14308F7D22DC0C.optimized.png" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">i***r</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">144.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Auto-Roulette</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 79 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -9460px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/pragmatic-live:mega-çark-37462016437/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mega Çark" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/5/5A2F2376A23099D1E99F54EAAB88E728.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Ara***nca</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">42.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Mega Çark</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 80 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -9030px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Cun***toz</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">57.708,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 81 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -8600px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-rulet:türkçe-rulet-34697068822/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Türkçe Rulet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CE8A15264DBB491571D5ACCFD09DD31C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Bla***den</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">108.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Türkçe Rulet</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 82 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -8170px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/uzak-doğu-oyunları:5-lions-megaways™-2-72593/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="5 Lions Megaways™ 2" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/AB6AFE0C14DCC4474ED581296020C884.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">M***3</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">184.857,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">5 Lions Megaways™ 2</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 83 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -7740px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/amusnet-live:speed-baccarat-68250077420/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Speed Baccarat" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/F/F7C86EDDF15A7E2339DAE163D3CBA7CB.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Naz***461</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">69.810,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Speed Baccarat</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 84 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -7310px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Tun***787</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">79.269,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 85 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -6880px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/jojobet'e-ozel:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Sez***nat</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">101.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 86 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -6450px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Des***ner</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">44.249,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 87 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -6020px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/live-tables:roulette-8345076454/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/BC55E692DA62FBD9D8D103442C56E9F9.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">T***s</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">65.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Roulette</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 88 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -5590px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-20-canlı-casino:auto-roulette-8345001034/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/8/8DCFC5BD65131590FA14308F7D22DC0C.optimized.png" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">i***r</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">144.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Auto-Roulette</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 89 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -5160px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/pragmatic-live:mega-çark-37462016437/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mega Çark" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/5/5A2F2376A23099D1E99F54EAAB88E728.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Ara***nca</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">42.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Mega Çark</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 90 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -4730px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Cun***toz</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">57.708,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 91 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -4300px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-rulet:türkçe-rulet-34697068822/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Türkçe Rulet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CE8A15264DBB491571D5ACCFD09DD31C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Bla***den</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">108.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Türkçe Rulet</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 92 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -3870px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/uzak-doğu-oyunları:5-lions-megaways™-2-72593/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="5 Lions Megaways™ 2" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/AB6AFE0C14DCC4474ED581296020C884.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">M***3</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">184.857,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">5 Lions Megaways™ 2</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 93 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -3440px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/amusnet-live:speed-baccarat-68250077420/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Speed Baccarat" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/F/F7C86EDDF15A7E2339DAE163D3CBA7CB.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Naz***461</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">69.810,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Speed Baccarat</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 94 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -3010px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Tun***787</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">79.269,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 95 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -2580px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/jojobet'e-ozel:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Sez***nat</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">101.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 96 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -2150px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Des***ner</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">44.249,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 97 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -1720px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/live-tables:roulette-8345076454/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/BC55E692DA62FBD9D8D103442C56E9F9.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">T***s</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">65.200,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Roulette</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 98 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -1290px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-20-canlı-casino:auto-roulette-8345001034/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/8/8DCFC5BD65131590FA14308F7D22DC0C.optimized.png" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">i***r</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">144.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Auto-Roulette</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 99 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -860px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/pragmatic-live:mega-çark-37462016437/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mega Çark" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/5/5A2F2376A23099D1E99F54EAAB88E728.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Ara***nca</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">42.000,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Mega Çark</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+                  <div class="slider-slide" aria-label="slide 100 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -430px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
+                     <div class="SliderItem">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tombala">
+                           <div class="RecentWinnerItemContainer">
+                              <div class="RecentWinnerImage">
+                                 <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
+                              </div>
+                              <div class="RecentWinnerDescription">
+                                 <div class="RecentWinnerName">
+                                    <h3 class="RecentWinnerNameText">Cun***toz</h3>
+                                 </div>
+                                 <span class="RecentWinnerAmount"><span class="Currency"><span class="FormattedAmount">57.708,00</span><span class="CurrencyPlaceholder"> ₺</span></span></span>
+                                 <h4 class="RecentWinnerGame">Gates of Olympus 1000™</h4>
+                              </div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <style type="text/css">.slider-slide > img { width: 100%; display: block; }
+               .slider-slide > img:focus { margin: auto; }
+            </style>
+         </section>
+         <div class="OperatorSliderBorder"></div>
+      </div>
+   </div>
+</section>
