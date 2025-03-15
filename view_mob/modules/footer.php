@@ -111,7 +111,92 @@
                   </div>
                </section>
                <div class="MobileBottomNavigationWrapper">
-                  <mobile-bottom-navigation cmsendpoint="/apijson" lang="tr" env="prod" userroles="everyone" class="MobileBottomNavigation"></mobile-bottom-navigation>
+                  <mobile-bottom-navigation cmsendpoint="/apijson" lang="tr" env="prod" userroles="everyone" class="MobileBottomNavigation">
+                     <style>:host{font-family:system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"}.NavigationWrapper{background:var(--emfe-w-color-footer-bg, #212529);width:100%;height:100px}.NavigationPanel{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);width:calc(100% - 30px);max-width:450px;height:50px;z-index:30}.NavigationWindow{display:flex;flex-direction:column;background:var(--emfe-w-color-white, #FFFFFF);position:absolute;bottom:30px;left:0;opacity:0;transform:translateY(100%);border-radius:5px 5px 0 0;transition:0.25s ease;width:100%;max-height:40vh}.NavigationWindow.NavigationWindowOpened{opacity:1;padding-bottom:40px;transform:translateY(5px)}.NavigationWindow .ModalCloseBtn{position:absolute;top:10px;right:10px;width:24px;height:24px;border-radius:100%;color:var(--emfe-w-color-secondary, #FD2839);background:rgba(255, 255, 255, 0.1);cursor:pointer;transition:all 150ms ease-in-out;z-index:1}.NavigationWindow .ModalCloseBtn svg{width:24px;height:24px;margin:50%;transform:translate(-50%, -50%)}.NavigationWindow .ModalCloseBtn:hover{background:rgba(255, 255, 255, 0.2)}.NavigationWindow .NavigationWindowTitle{padding:16px 10px;margin:0;color:var(--emfe-w-color-contrast, #07072A);font-size:12px;flex-grow:0}.NavigationWindow .NavigationSecondaryWrapper{display:flex;flex-wrap:wrap;padding:0 10px;flex-grow:1;overflow-y:auto;-webkit-overflow-scrolling:touch}.NavigationPrimaryItemAnchor.NavItem0{grid-area:item0}.NavigationPrimaryItemAnchor.NavItem1{grid-area:item1}.NavigationPrimaryItemAnchor.NavItem2{grid-area:item2}.NavigationPrimaryItemAnchor.NavItem3{grid-area:item3}.NavigationPrimaryItemAnchor.NavItem4{grid-area:item4}.NavigationBar{background:var(--emfe-w-color-white, #FFFFFF);display:grid;grid-auto-flow:column;grid-template-columns:1fr 1fr 20% 1fr 1fr;grid-template-areas:"item0 item1 . item2 item3";height:50px;border-radius:5px;position:relative}.NavigationBar.NavigationBarSimple{grid-template-columns:repeat(5, 20%);grid-template-areas:"item0 item1 item2 item3 item4"}.NavigationBar.NavigationBarOpened{box-shadow:0 0 11px rgba(0, 0, 0, 0.09)}.NavigationPrimaryItemAnchor,.NavigationSecondaryItemAnchor{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;text-decoration:none;color:var(--emfe-w-color-contrast, #07072A);font-size:9px;overflow:hidden;white-space:nowrap}.NavigationPrimaryItemAnchor .NavigationPrimaryItemImg,.NavigationSecondaryItemAnchor .NavigationPrimaryItemImg,.NavigationSecondaryItemAnchor .NavigationSecondaryItemImg{width:20px}.NavigationPrimaryItemAnchor .NavigationPrimaryItemLabel,.NavigationSecondaryItemAnchor .NavigationPrimaryItemLabel,.NavigationSecondaryItemAnchor .NavigationSecondaryItemLabel{margin:0;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;width:100%;text-align:center}.NavigationSecondaryItemAnchor{width:25%;padding:10px 0}.ActiveItem{background-color:var(--emfe-w-color-primary, #D0046C)}.NavigationButton{background:var(--emfe-w-color-white, #FFFFFF);border:none;width:20%;height:100%;position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);padding:0}.NavigationButton .middleIcon{width:32px;height:32px}.NavigationButton:before{border-left:8px solid transparent;border-right:8px solid transparent;border-top:8px solid #F4F4F4;content:"";height:0;left:50%;opacity:0;position:absolute;top:0;transform:translateX(-50%);width:0}.NavigationButton.NavigationButtonActive:before{opacity:1;transition:0.7s ease}</style>
+                     <div class="NavigationWrapper" part="NavigationWrapper">
+   <div class="NavigationPanel" part="NavigationPanel">
+      <div class="NavigationWindow " part="NavigationWindow ">
+         <span class="ModalCloseBtn" part="ModalCloseBtn" role="button">
+            <slot name="close" part="ModalCloseBtnSlot">
+               <svg class="w-6 h-6" part="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                  <path part="ModalCloseBtnPath" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+               </svg>
+            </slot>
+         </span>
+         <h3 class="NavigationWindowTitle" part="NavigationWindowTitle">secondaryMenuTitle</h3>
+         <div class="NavigationSecondaryWrapper" part="NavigationSecondaryWrapper">
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/955ce019-sweet-bonanza.svg" alt="Sweet Bonanza"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Sweet Bonanza</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/f054503a-gates-of-olympus-1.svg" alt="Gates"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Gates</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/9e362761-gates-of-olympus-1000.svg" alt="Gates 1000"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Gates 1000</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/c1904bb6-aviator.svg" alt="Aviator"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Aviator</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/76990805-jojo-bonanza.svg" alt="Jojo Bonanza"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Jojo Bonanza</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/0ac66e63-gates-of-jojobet.svg" alt="Gates of Jojo"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Gates of Jojo</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/fe1dd5c4-auto-roulette-live.svg" alt="Auto Roulette"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Auto Roulette</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/2677e8fd-immersive-roulette-live.svg" alt="Immersive"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Immersive</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/342b0fa6-jojo-turkce-rulet.svg" alt="Türkçe Rulet"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Türkçe Rulet</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/01b8cffd-poker2.svg" alt="Poker Klas"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Poker Klas</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/fb5a9ae4-xxxtreme-roulette-live.svg" alt="XXXTREME"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">XXXTREME</p>
+            </div>
+            <div class="NavigationSecondaryItemAnchor " part="NavigationSecondaryItemAnchor ">
+               <div class="NavigationSecondaryItemImgWrapper" part="NavigationSecondaryItemImgWrapper"><img class="NavigationSecondaryItemImg" part="NavigationSecondaryItemImg" src="/stateless-jojobet/2024/09/dbb133e9-lightning-roulette.svg" alt="Lightning"></div>
+               <p class="NavigationSecondaryItemLabel" part="NavigationSecondaryItemLabel">Lightning</p>
+            </div>
+         </div>
+      </div>
+      <div class="NavigationBar  " part="NavigationBar  ">
+         <div class="NavigationPrimaryItemAnchor NavItem0 " part="NavigationPrimaryItemAnchor ">
+            <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-jojobet/2023/02/4adec39e-canli-destek-jojo.svg" alt="Canlı Destek"></div>
+            <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">Canlı Destek</p>
+         </div>
+         <div class="NavigationPrimaryItemAnchor NavItem1 " part="NavigationPrimaryItemAnchor ">
+            <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-jojobet/2024/09/01efa9c7-jojo-casino-buton2.svg" alt="Casino"></div>
+            <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">Casino</p>
+         </div>
+         <div class="NavigationPrimaryItemAnchor NavItem2 " part="NavigationPrimaryItemAnchor ">
+            <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-jojobet/2024/09/95cf08ed-canli-casino-sari.svg" alt="Canlı Casino"></div>
+            <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">Canlı Casino</p>
+         </div>
+         <div class="NavigationPrimaryItemAnchor NavItem3 " part="NavigationPrimaryItemAnchor ">
+            <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-jojobet/2024/10/d7323f32-jojo-ozl-tur-ham-ico-clr-2.svg" alt="35.000.000"></div>
+            <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">35.000.000</p>
+         </div>
+         <button class="NavigationButton " part="NavigationButton "><span part="NavigationButtonSpan"><img src="/stateless-jojobet/2024/09/edb04cde-jojo-menu-buton2.svg" class="middleIcon" alt="/stateless-jojobet/2024/09/edb04cde-jojo-menu-buton2.svg"></span></button>
+      </div>
+   </div>
+</div>
+                  </mobile-bottom-navigation>
                   <span id="ch_1114113586" class=""> </span>
                   
                </div>
