@@ -12,10 +12,6 @@
       <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700" rel="stylesheet" type="text/css">
       <link rel="preload" href="/static/css/common-d84be9782d9443a05473.css" as="style">
       <link rel="preload" href="/static/css/bundle-5d9fa7a6ef66dfc405f7.css" as="style">
-      <link rel="preload" href="/static/js/common-570424eecc793aea7dbd.js" as="script">
-      <link rel="preload" href="/static/js/lang-tr-1fe544e2b75012ad5ef1.js" as="script">
-      <link rel="preload" href="/static/js/bundle-34e8f606f57601d29523.js" as="script">
-      <link rel="preload" href="/static/js/svg-2535506528c285ba0ba0.js" as="script">
       <script>
          window.customBuildVars = {
            appName: 'jojobet-prod',
@@ -25,6 +21,8 @@
       </script>
       <link rel="stylesheet" type="text/css" href="/static/css/common-d84be9782d9443a05473.css">
       <link rel="stylesheet" type="text/css" href="/static/css/bundle-5d9fa7a6ef66dfc405f7.css">
+      <link rel="stylesheet" type="text/css" href="/static/css/bundle-9a3ea9585532f2b41d48.css">
+      
     
       <meta name="author" content="jojoBET">
       <meta name="apple-mobile-web-app-title" content="Jojobet: Türkiye'nin En Güvenilir Bahis ve Casino Sitesi - Jojobet Giriş">
