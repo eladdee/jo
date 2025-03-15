@@ -458,6 +458,29 @@
                }
             </style>
              <script>
+               // jQuery kodu
+$(document).ready(function(){
+  $('.HamburgerHeaderItem').click(function(){
+    // Tüm submenüleri gizle
+    $('.HamburgerSubMenu').addClass('dnone');
+
+    // Tüm item’lardan IsSelected’ı kaldır
+    $('.HamburgerHeaderItem').removeClass('IsSelected');
+
+    // Tıklanan item’a IsSelected ekle
+    $(this).addClass('IsSelected');
+
+    // Tıklanan item’ın ID’sini al (örn: "m3")
+    var clickedId = $(this).attr('id');
+
+    // Submenü ID’sini oluştur (örn: "hm3")
+    var submenuId = 'h' + clickedId;
+
+    // İlgili submenüyü göster
+    $('#' + submenuId).removeClass('dnone');
+  });
+});
+
    function openLoginModal(){
       $(".LoginModal").toggleClass("dnone");
    }
