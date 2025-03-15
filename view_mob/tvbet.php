@@ -8,7 +8,7 @@
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/promotions#58502">
+                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/3ab61588-casino-mobile.png" media="(max-width:450px)">
@@ -25,7 +25,7 @@
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/hacksaw:clover-club-72880/?prevRoute=%2Fcasino%2Fcat%2Fhacksaw">
+                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/884b0f39-casino-mobile.png" media="(max-width:450px)">
@@ -42,7 +42,7 @@
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/tournaments/all">
+                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="https://www.jojobet1013.com/stateless-jojobet/2024/06/7d41645c-casinoslidermobile.png" media="(max-width:450px)">
@@ -59,7 +59,7 @@
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/turnuva-oyunları">
+                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/c853ee99-casino-mobile.png" media="(max-width:450px)">
@@ -76,7 +76,7 @@
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/turnuva-oyunları">
+                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/9ed5577a-casino-mobile.png" media="(max-width:450px)">
@@ -93,7 +93,7 @@
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/drops&amp;wins">
+                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/2ce0050e-casino-mobile.png" media="(max-width:450px)">
@@ -110,7 +110,7 @@
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/turnuva-oyunları">
+                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/068d71dd-casinoslidermobile.png" media="(max-width:450px)">
@@ -127,7 +127,7 @@
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/live-casino/cat/playmatrix">
+                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/03/24153b1d-casino-mobile.png" media="(max-width:450px)">
@@ -144,7 +144,7 @@
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/turnuva-oyunları">
+                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/02/32dcde15-casino-mobile.png" media="(max-width:450px)">
@@ -161,7 +161,7 @@
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/hacksaw:dorks-of-the-deep-72589/?prevRoute=%2Fcasino%2Fcat%2Fhacksaw">
+                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/02/d66ecb62-casino-mobile.png" media="(max-width:450px)">
@@ -178,7 +178,7 @@
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/turnuva-oyunları">
+                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="https://www.jojobet1013.com/stateless-jojobet/2024/02/06b5ee0b-casino-mobile.png" media="(max-width:450px)">
@@ -195,7 +195,7 @@
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/swintt:candyman-72456/?prevRoute=%2Fcasino%2Fcat%2Fswintt">
+                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/02/fc6dda7d-casino-mobile.png" media="(max-width:450px)">
@@ -212,7 +212,7 @@
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/hacksaw:infernus-72486/?prevRoute=%2Fcasino%2Fcat%2Fhacksaw">
+                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/02/38af0bf4-casino-mobile.png" media="(max-width:450px)">
@@ -229,7 +229,7 @@
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/games/onlyplay:crazy-streamer-72487/?prevRoute=%2Fcasino%2Fcat%2Fonlyplay">
+                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/02/31ab0efe-casino-mobile.png" media="(max-width:450px)">
@@ -246,7 +246,7 @@
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/kalamba">
+                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="https://www.jojobet1013.com/stateless-jojobet/2025/02/230678d9-casinoslidermobile.png" media="(max-width:450px)">
@@ -264,7 +264,7 @@
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/live-casino/games/poker-klas:poker-klas-37036/?prevRoute=%2Flive-casino%2Fcat%2Fpoker-klas">
+                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="https://www.jojobet1013.com/stateless-jojobet/2024/12/db9c0f7d-casinoslidermobile.png" media="(max-width:450px)">
@@ -281,7 +281,7 @@
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/casino/cat/turnuva-oyunları">
+                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="https://www.jojobet1013.com/stateless-jojobet/2024/07/2c62f298-casinoslidermobile.png" media="(max-width:450px)">
@@ -298,7 +298,7 @@
                      <div class="Description">
                         <p>&nbsp;</p>
                      </div>
-                     <a class="ComponentAnchor ImageAnchor Anchor" href="/tr/live-casino/cat/jojobet'e-özel">
+                     <a class="ComponentAnchor ImageAnchor Anchor"  href="javascript:;" onclick="loginorpay()">
                         <figure class="Figure ComponentPicture ">
                            <picture class="Picture">
                               <source srcset="https://www.jojobet1013.com/stateless-jojobet/2021/11/b8dc206e-casinoslidermobile.png" media="(max-width:450px)">
@@ -387,169 +387,169 @@
                   </button>
                   <div class="HorizontalScrollBar ComponentLayout NewCatScroll">
                      <ul class="ExtraCategories ComponentList InstanceOperatorHomeExtraList List ListUnordered">
-                        <li class="ListItem"><a class="ComponentAnchor  Anchor" href="/tr/live-casino"><span class="AnchorText">Lobi</span></a></li>
-                        <li class="ListItem"><a class="ComponentAnchor  Anchor" href="/tr/live-casino/favorites"><span class="AnchorText">Favoriler</span><span class="ComponentFavoriteGamesTotal FavoriteGamesNumber InstanceFavGamesTotalNo">0</span></a></li>
+                        <li class="ListItem"><a class="ComponentAnchor  Anchor"  href="javascript:;" onclick="loginorpay()"><span class="AnchorText">Lobi</span></a></li>
+                        <li class="ListItem"><a class="ComponentAnchor  Anchor"  href="javascript:;" onclick="loginorpay()"><span class="AnchorText">Favoriler</span><span class="ComponentFavoriteGamesTotal FavoriteGamesNumber InstanceFavGamesTotalNo">0</span></a></li>
                      </ul>
                      <nav class="OperatorCasinoCategories ComponentGameCategories InstanceCasino GameNavContainer OperatorCasino">
                         <div class="GameCategoriesSwipe">
                            <ul class="GameCategories Loaded CategoriesList HorizontalScrollBar List ListUnordered">
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Poker Klas" id="CategoryList-Poker-Klas" href="/tr/live-casino/cat/poker-klas">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Poker Klas" id="CategoryList-Poker-Klas"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Poker-Klas-Text">Poker Klas</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Türkçe Casino" id="CategoryList-Türkçe-Casino" href="/tr/live-casino/cat/türkçe-casino">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Türkçe Casino" id="CategoryList-Türkçe-Casino"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Türkçe-Casino-Text">Türkçe Casino</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Jojobet'e Özel" id="CategoryList-Jojobet'e-Özel" href="/tr/live-casino/cat/jojobet'e-özel">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Jojobet'e Özel" id="CategoryList-Jojobet'e-Özel"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Jojobet'e-Özel-Text">Jojobet'e Özel</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Top 20 Canlı Casino" id="CategoryList-Top-20-Canlı-Casino" href="/tr/live-casino/cat/top-20-canlı-casino">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Top 20 Canlı Casino" id="CategoryList-Top-20-Canlı-Casino"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Top-20-Canlı-Casino-Text">Top 20 Canlı Casino</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Canlı Oyunlar" id="CategoryList-Canlı-Oyunlar" href="/tr/live-casino/cat/canlı-oyunlar">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Canlı Oyunlar" id="CategoryList-Canlı-Oyunlar"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Canlı-Oyunlar-Text">Canlı Oyunlar</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PlayMatrix" id="CategoryList-PlayMatrix" href="/tr/live-casino/cat/playmatrix">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PlayMatrix" id="CategoryList-PlayMatrix"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-PlayMatrix-Text">PlayMatrix</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Evolution" id="CategoryList-Evolution" href="/tr/live-casino/cat/evolution">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Evolution" id="CategoryList-Evolution"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Evolution-Text">Evolution</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Pragmatic Live" id="CategoryList-Pragmatic-Live" href="/tr/live-casino/cat/pragmatic-live">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Pragmatic Live" id="CategoryList-Pragmatic-Live"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Pragmatic-Live-Text">Pragmatic Live</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Yüksek Limitli" id="CategoryList-Yüksek-Limitli" href="/tr/live-casino/cat/yüksek-limitli">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Yüksek Limitli" id="CategoryList-Yüksek-Limitli"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Yüksek-Limitli-Text">Yüksek Limitli</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Beter Live" id="CategoryList-Beter-Live" href="/tr/live-casino/cat/beter-live">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Beter Live" id="CategoryList-Beter-Live"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Beter-Live-Text">Beter Live</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Microgaming Live" id="CategoryList-Microgaming-Live" href="/tr/live-casino/cat/microgaming-live">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Microgaming Live" id="CategoryList-Microgaming-Live"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Microgaming-Live-Text">Microgaming Live</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Xpg" id="CategoryList-Xpg" href="/tr/live-casino/cat/xpg">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Xpg" id="CategoryList-Xpg"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Xpg-Text">Xpg</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Ezugi" id="CategoryList-Ezugi" href="/tr/live-casino/cat/ezugi">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Ezugi" id="CategoryList-Ezugi"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Ezugi-Text">Ezugi</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Vivo" id="CategoryList-Vivo" href="/tr/live-casino/cat/vivo">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Vivo" id="CategoryList-Vivo"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Vivo-Text">Vivo</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Amusnet Live" id="CategoryList-Amusnet-Live" href="/tr/live-casino/cat/amusnet-live">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Amusnet Live" id="CategoryList-Amusnet-Live"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Amusnet-Live-Text">Amusnet Live</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor IsActive Anchor" title="TVBet" id="CategoryList-TVBet" href="/tr/live-casino/cat/tvbet">
+                                 <a class="ComponentAnchor GameCategory Anchor IsActive Anchor" title="TVBet" id="CategoryList-TVBet"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-TVBet-Text">TVBet</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BetGames" id="CategoryList-BetGames" href="/tr/live-casino/cat/betgames">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="BetGames" id="CategoryList-BetGames"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-BetGames-Text">BetGames</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PopOK Live" id="CategoryList-PopOK-Live" href="/tr/live-casino/cat/popok-live">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="PopOK Live" id="CategoryList-PopOK-Live"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-PopOK-Live-Text">PopOK Live</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Loto" id="CategoryList-Loto" href="/tr/live-casino/cat/loto">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Loto" id="CategoryList-Loto"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Loto-Text">Loto</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="LottoInstantWin" id="CategoryList-LottoInstantWin" href="/tr/live-casino/cat/lottoinstantwin">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="LottoInstantWin" id="CategoryList-LottoInstantWin"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-LottoInstantWin-Text">LottoInstantWin</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="LiveGames" id="CategoryList-LiveGames" href="/tr/live-casino/cat/livegames">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="LiveGames" id="CategoryList-LiveGames"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-LiveGames-Text">LiveGames</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Livespins" id="CategoryList-Livespins" href="/tr/live-casino/cat/livespins">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Livespins" id="CategoryList-Livespins"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Livespins-Text">Livespins</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Tombala" id="CategoryList-Tombala" href="/tr/live-casino/cat/tombala">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Tombala" id="CategoryList-Tombala"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Tombala-Text">Tombala</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Türkçe Rulet" id="CategoryList-Türkçe-Rulet" href="/tr/live-casino/cat/türkçe-rulet">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Türkçe Rulet" id="CategoryList-Türkçe-Rulet"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Türkçe-Rulet-Text">Türkçe Rulet</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Poker" id="CategoryList-Poker" href="/tr/live-casino/cat/poker">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Poker" id="CategoryList-Poker"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Poker-Text">Poker</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Blackjack" id="CategoryList-Blackjack" href="/tr/live-casino/cat/blackjack">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Blackjack" id="CategoryList-Blackjack"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Blackjack-Text">Blackjack</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Rulet" id="CategoryList-Rulet" href="/tr/live-casino/cat/rulet">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Rulet" id="CategoryList-Rulet"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Rulet-Text">Rulet</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Zar Oyunları" id="CategoryList-Zar-Oyunları" href="/tr/live-casino/cat/zar-oyunları">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Zar Oyunları" id="CategoryList-Zar-Oyunları"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Zar-Oyunları-Text">Zar Oyunları</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Baccarat" id="CategoryList-Baccarat" href="/tr/live-casino/cat/baccarat">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Baccarat" id="CategoryList-Baccarat"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Baccarat-Text">Baccarat</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Sic Bo" id="CategoryList-Sic-Bo" href="/tr/live-casino/cat/sic-bo">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Sic Bo" id="CategoryList-Sic-Bo"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Sic-Bo-Text">Sic Bo</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TÜM OYUNLAR" id="CategoryList-TÜM-OYUNLAR" href="/tr/live-casino/cat/tüm-oyunlar">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="TÜM OYUNLAR" id="CategoryList-TÜM-OYUNLAR"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-TÜM-OYUNLAR-Text">TÜM OYUNLAR</div>
                                  </a>
                               </li>
                               <li class="CategoriesItem ListItem">
-                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Popüler Slotlar" id="CategoryList-Popüler-Slotlar" href="/tr/live-casino/cat/popüler-slotlar">
+                                 <a class="ComponentAnchor GameCategory Anchor Anchor" title="Popüler Slotlar" id="CategoryList-Popüler-Slotlar"  href="javascript:;" onclick="loginorpay()">
                                     <div class="CategoryNameContainer" id="CategoryList-Popüler-Slotlar-Text">Popüler Slotlar</div>
                                  </a>
                               </li>
@@ -621,7 +621,7 @@
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                         <div class="GameThumbailWrapper"><img alt="Roulette" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/B/B6EEA616EAF4B6B9DE95A8F1CAA00B67.jpg"></div>
                         <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/6/6AC1557F76FC4BDCA40DE979853D3C0D.png" alt="TvBet"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Roulette !" href="/tr/live-casino/games/tvbet:roulette-64996078219/?prevRoute=%2Flive-casino%2Fcat%2Ftvbet">
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Roulette !"  href="javascript:;" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
@@ -645,7 +645,7 @@
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                         <div class="GameThumbailWrapper"><img alt="FAST KENO" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/5/5D68A3481172A666D124D45956192ABB.jpg"></div>
                         <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/6/6AC1557F76FC4BDCA40DE979853D3C0D.png" alt="TvBet"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna FAST KENO !" href="/tr/live-casino/games/tvbet:fast-keno-72198020314/?prevRoute=%2Flive-casino%2Fcat%2Ftvbet">
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna FAST KENO !"  href="javascript:;" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
@@ -671,7 +671,7 @@
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                         <div class="GameThumbailWrapper"><img alt="Roulette X500" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/4/463EA09234DE45A8BB9FBC48C24084ED.jpg"></div>
                         <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/6/6AC1557F76FC4BDCA40DE979853D3C0D.png" alt="TvBet"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Roulette X500 !" href="/tr/live-casino/games/tvbet:roulette-x500-71436067570/?prevRoute=%2Flive-casino%2Fcat%2Ftvbet">
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Roulette X500 !"  href="javascript:;" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
@@ -695,7 +695,7 @@
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                         <div class="GameThumbailWrapper"><img alt="Keno" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/D/D08A219FA6FCC843C9EF4EDACBFF7931.jpg"></div>
                         <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/6/6AC1557F76FC4BDCA40DE979853D3C0D.png" alt="TvBet"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Keno !" href="/tr/live-casino/games/tvbet:keno-39791069576/?prevRoute=%2Flive-casino%2Fcat%2Ftvbet">
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Keno !"  href="javascript:;" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
@@ -719,7 +719,7 @@
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                         <div class="GameThumbailWrapper"><img alt="WheelBet" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/9/96832AEC9B883CBF8B8E910724950281.jpg"></div>
                         <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/6/6AC1557F76FC4BDCA40DE979853D3C0D.png" alt="TvBet"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna WheelBet !" href="/tr/live-casino/games/tvbet:wheelbet-39797078800/?prevRoute=%2Flive-casino%2Fcat%2Ftvbet">
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna WheelBet !"  href="javascript:;" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
@@ -743,7 +743,7 @@
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                         <div class="GameThumbailWrapper"><img alt="PokerBet" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/0/02A86DCBCAF5B2FB9AC2B4B498272E1D.jpg"></div>
                         <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/6/6AC1557F76FC4BDCA40DE979853D3C0D.png" alt="TvBet"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna PokerBet !" href="/tr/live-casino/games/tvbet:pokerbet-39793071009/?prevRoute=%2Flive-casino%2Fcat%2Ftvbet">
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna PokerBet !"  href="javascript:;" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
@@ -767,7 +767,7 @@
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                         <div class="GameThumbailWrapper"><img alt="War of Elements" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/D/DD3445711A05CE7916EB09CE154BC55C.jpg"></div>
                         <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/6/6AC1557F76FC4BDCA40DE979853D3C0D.png" alt="TvBet"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna War of Elements !" href="/tr/live-casino/games/tvbet:war-of-elements-39796043514/?prevRoute=%2Flive-casino%2Fcat%2Ftvbet">
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna War of Elements !"  href="javascript:;" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
@@ -791,7 +791,7 @@
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                         <div class="GameThumbailWrapper"><img alt="Lucky6" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/6/64A445D84131BD148651B98FD1975B64.jpg"></div>
                         <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/6/6AC1557F76FC4BDCA40DE979853D3C0D.png" alt="TvBet"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lucky6 !" href="/tr/live-casino/games/tvbet:lucky6-39792084591/?prevRoute=%2Flive-casino%2Fcat%2Ftvbet">
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lucky6 !"  href="javascript:;" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
@@ -815,7 +815,7 @@
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                         <div class="GameThumbailWrapper"><img alt="7Bet" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/2/2FF523A82607BA7D8BFE9FEFAF5E0C01.jpg"></div>
                         <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/6/6AC1557F76FC4BDCA40DE979853D3C0D.png" alt="TvBet"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 7Bet !" href="/tr/live-casino/games/tvbet:7bet-39780015912/?prevRoute=%2Flive-casino%2Fcat%2Ftvbet">
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 7Bet !"  href="javascript:;" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
@@ -839,7 +839,7 @@
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                         <div class="GameThumbailWrapper"><img alt="5Bet" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/B/B34A2F8B197170416DCED53166632A62.jpg"></div>
                         <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/6/6AC1557F76FC4BDCA40DE979853D3C0D.png" alt="TvBet"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 5Bet !" href="/tr/live-casino/games/tvbet:5bet-39779026513/?prevRoute=%2Flive-casino%2Fcat%2Ftvbet">
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 5Bet !"  href="javascript:;" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
@@ -863,7 +863,7 @@
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                         <div class="GameThumbailWrapper"><img alt="TvBet Lobby" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/B/B981168CA82C776D01D96D74E2456BF8.jpg"></div>
                         <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/6/6AC1557F76FC4BDCA40DE979853D3C0D.png" alt="TvBet"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna TvBet Lobby !" href="/tr/live-casino/games/tvbet:tvbet-lobby-39778011187/?prevRoute=%2Flive-casino%2Fcat%2Ftvbet">
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna TvBet Lobby !"  href="javascript:;" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
@@ -887,7 +887,7 @@
                      <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                         <div class="GameThumbailWrapper"><img alt="BlackJack" class="GameThumb ListGameImage LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/8/88F2858E986C278CD740837AAE7F903A.jpg"></div>
                         <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="//static.emcdncf.com/cms2/base/_casino/6/6AC1557F76FC4BDCA40DE979853D3C0D.png" alt="TvBet"></div>
-                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna BlackJack !" href="/tr/live-casino/games/tvbet:blackjack-48351011774/?prevRoute=%2Flive-casino%2Fcat%2Ftvbet">
+                        <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna BlackJack !"  href="javascript:;" onclick="loginorpay()">
                            <div class="GamePlayNowText">Hemen Oyna!</div>
                         </a>
                         <div class="GameDetails">
@@ -918,7 +918,7 @@
                <div class="slider-list" style="box-sizing: border-box; cursor: pointer; display: block; height: 82px; margin: 0px; padding: 0px; position: relative; touch-action: pan-y pinch-zoom; transform: translate3d(-860px, 0px, 0px); width: auto; transition: all;">
                   <div class="slider-slide" aria-label="slide 1 of 100" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 0px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-rulet:türkçe-rulet-34697068822/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Türkçe Rulet" width="55" height="33" class="PictureImg LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/C/CE8A15264DBB491571D5ACCFD09DD31C.jpg"></figure>
@@ -936,7 +936,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 2 of 100" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 430px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;" inert="true">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/uzak-doğu-oyunları:5-lions-megaways™-2-72593/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="5 Lions Megaways™ 2" width="55" height="33" class="PictureImg LazyImage" src="//static.emcdncf.com/cms2/unique/_casino/A/AB6AFE0C14DCC4474ED581296020C884.jpg"></figure>
@@ -954,7 +954,7 @@
                   </div>
                   <div class="slider-slide slide-visible slide-current" aria-label="slide 3 of 100" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 860px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/amusnet-live:speed-baccarat-68250077420/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Speed Baccarat" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/F/F7C86EDDF15A7E2339DAE163D3CBA7CB.jpg" class="PictureImg LazyImage"></figure>
@@ -972,7 +972,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 4 of 100" role="group" tabindex="-1" style="box-sizing: border-box; display: inline-block; height: 82px; left: 1290px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -990,7 +990,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 5 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 1720px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/jojobet'e-ozel:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
@@ -1008,7 +1008,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 6 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 2150px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -1026,7 +1026,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 7 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 2580px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/live-tables:roulette-8345076454/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/BC55E692DA62FBD9D8D103442C56E9F9.jpg" class="PictureImg LazyImage"></figure>
@@ -1044,7 +1044,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 8 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 3010px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-20-canlı-casino:auto-roulette-8345001034/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/8/8DCFC5BD65131590FA14308F7D22DC0C.optimized.png" class="PictureImg LazyImage"></figure>
@@ -1062,7 +1062,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 9 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 3440px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/pragmatic-live:mega-çark-37462016437/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mega Çark" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/5/5A2F2376A23099D1E99F54EAAB88E728.jpg" class="PictureImg LazyImage"></figure>
@@ -1080,7 +1080,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 10 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 3870px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -1098,7 +1098,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 11 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 4300px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-rulet:türkçe-rulet-34697068822/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Türkçe Rulet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CE8A15264DBB491571D5ACCFD09DD31C.jpg" class="PictureImg LazyImage"></figure>
@@ -1116,7 +1116,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 12 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 4730px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/uzak-doğu-oyunları:5-lions-megaways™-2-72593/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="5 Lions Megaways™ 2" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/AB6AFE0C14DCC4474ED581296020C884.jpg" class="PictureImg LazyImage"></figure>
@@ -1134,7 +1134,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 13 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 5160px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/amusnet-live:speed-baccarat-68250077420/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Speed Baccarat" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/F/F7C86EDDF15A7E2339DAE163D3CBA7CB.jpg" class="PictureImg LazyImage"></figure>
@@ -1152,7 +1152,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 14 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 5590px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -1170,7 +1170,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 15 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 6020px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/jojobet'e-ozel:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
@@ -1188,7 +1188,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 16 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 6450px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -1206,7 +1206,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 17 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 6880px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/live-tables:roulette-8345076454/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/BC55E692DA62FBD9D8D103442C56E9F9.jpg" class="PictureImg LazyImage"></figure>
@@ -1224,7 +1224,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 18 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 7310px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-20-canlı-casino:auto-roulette-8345001034/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/8/8DCFC5BD65131590FA14308F7D22DC0C.optimized.png" class="PictureImg LazyImage"></figure>
@@ -1242,7 +1242,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 19 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 7740px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/pragmatic-live:mega-çark-37462016437/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mega Çark" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/5/5A2F2376A23099D1E99F54EAAB88E728.jpg" class="PictureImg LazyImage"></figure>
@@ -1260,7 +1260,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 20 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 8170px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -1278,7 +1278,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 21 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 8600px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-rulet:türkçe-rulet-34697068822/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Türkçe Rulet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CE8A15264DBB491571D5ACCFD09DD31C.jpg" class="PictureImg LazyImage"></figure>
@@ -1296,7 +1296,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 22 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 9030px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/uzak-doğu-oyunları:5-lions-megaways™-2-72593/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="5 Lions Megaways™ 2" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/AB6AFE0C14DCC4474ED581296020C884.jpg" class="PictureImg LazyImage"></figure>
@@ -1314,7 +1314,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 23 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 9460px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/amusnet-live:speed-baccarat-68250077420/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Speed Baccarat" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/F/F7C86EDDF15A7E2339DAE163D3CBA7CB.jpg" class="PictureImg LazyImage"></figure>
@@ -1332,7 +1332,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 24 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 9890px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -1350,7 +1350,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 25 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 10320px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/jojobet'e-ozel:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
@@ -1368,7 +1368,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 26 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 10750px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -1386,7 +1386,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 27 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 11180px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/live-tables:roulette-8345076454/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/BC55E692DA62FBD9D8D103442C56E9F9.jpg" class="PictureImg LazyImage"></figure>
@@ -1404,7 +1404,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 28 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 11610px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-20-canlı-casino:auto-roulette-8345001034/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/8/8DCFC5BD65131590FA14308F7D22DC0C.optimized.png" class="PictureImg LazyImage"></figure>
@@ -1422,7 +1422,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 29 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 12040px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/pragmatic-live:mega-çark-37462016437/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mega Çark" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/5/5A2F2376A23099D1E99F54EAAB88E728.jpg" class="PictureImg LazyImage"></figure>
@@ -1440,7 +1440,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 30 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 12470px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -1458,7 +1458,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 31 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 12900px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-rulet:türkçe-rulet-34697068822/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Türkçe Rulet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CE8A15264DBB491571D5ACCFD09DD31C.jpg" class="PictureImg LazyImage"></figure>
@@ -1476,7 +1476,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 32 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 13330px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/uzak-doğu-oyunları:5-lions-megaways™-2-72593/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="5 Lions Megaways™ 2" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/AB6AFE0C14DCC4474ED581296020C884.jpg" class="PictureImg LazyImage"></figure>
@@ -1494,7 +1494,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 33 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 13760px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/amusnet-live:speed-baccarat-68250077420/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Speed Baccarat" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/F/F7C86EDDF15A7E2339DAE163D3CBA7CB.jpg" class="PictureImg LazyImage"></figure>
@@ -1512,7 +1512,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 34 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 14190px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -1530,7 +1530,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 35 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 14620px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/jojobet'e-ozel:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
@@ -1548,7 +1548,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 36 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 15050px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -1566,7 +1566,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 37 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 15480px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/live-tables:roulette-8345076454/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/BC55E692DA62FBD9D8D103442C56E9F9.jpg" class="PictureImg LazyImage"></figure>
@@ -1584,7 +1584,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 38 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 15910px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-20-canlı-casino:auto-roulette-8345001034/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/8/8DCFC5BD65131590FA14308F7D22DC0C.optimized.png" class="PictureImg LazyImage"></figure>
@@ -1602,7 +1602,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 39 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 16340px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/pragmatic-live:mega-çark-37462016437/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mega Çark" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/5/5A2F2376A23099D1E99F54EAAB88E728.jpg" class="PictureImg LazyImage"></figure>
@@ -1620,7 +1620,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 40 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 16770px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -1638,7 +1638,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 41 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 17200px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-rulet:türkçe-rulet-34697068822/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Türkçe Rulet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CE8A15264DBB491571D5ACCFD09DD31C.jpg" class="PictureImg LazyImage"></figure>
@@ -1656,7 +1656,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 42 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 17630px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/uzak-doğu-oyunları:5-lions-megaways™-2-72593/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="5 Lions Megaways™ 2" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/AB6AFE0C14DCC4474ED581296020C884.jpg" class="PictureImg LazyImage"></figure>
@@ -1674,7 +1674,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 43 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 18060px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/amusnet-live:speed-baccarat-68250077420/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Speed Baccarat" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/F/F7C86EDDF15A7E2339DAE163D3CBA7CB.jpg" class="PictureImg LazyImage"></figure>
@@ -1692,7 +1692,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 44 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 18490px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -1710,7 +1710,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 45 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 18920px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/jojobet'e-ozel:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
@@ -1728,7 +1728,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 46 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 19350px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -1746,7 +1746,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 47 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 19780px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/live-tables:roulette-8345076454/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/BC55E692DA62FBD9D8D103442C56E9F9.jpg" class="PictureImg LazyImage"></figure>
@@ -1764,7 +1764,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 48 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 20210px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-20-canlı-casino:auto-roulette-8345001034/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/8/8DCFC5BD65131590FA14308F7D22DC0C.optimized.png" class="PictureImg LazyImage"></figure>
@@ -1782,7 +1782,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 49 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 20640px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/pragmatic-live:mega-çark-37462016437/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mega Çark" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/5/5A2F2376A23099D1E99F54EAAB88E728.jpg" class="PictureImg LazyImage"></figure>
@@ -1800,7 +1800,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 50 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 21070px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -1818,7 +1818,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 51 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 21500px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-rulet:türkçe-rulet-34697068822/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Türkçe Rulet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CE8A15264DBB491571D5ACCFD09DD31C.jpg" class="PictureImg LazyImage"></figure>
@@ -1836,7 +1836,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 52 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: 21930px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/uzak-doğu-oyunları:5-lions-megaways™-2-72593/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="5 Lions Megaways™ 2" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/AB6AFE0C14DCC4474ED581296020C884.jpg" class="PictureImg LazyImage"></figure>
@@ -1854,7 +1854,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 53 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -20640px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/amusnet-live:speed-baccarat-68250077420/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Speed Baccarat" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/F/F7C86EDDF15A7E2339DAE163D3CBA7CB.jpg" class="PictureImg LazyImage"></figure>
@@ -1872,7 +1872,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 54 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -20210px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -1890,7 +1890,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 55 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -19780px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/jojobet'e-ozel:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
@@ -1908,7 +1908,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 56 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -19350px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -1926,7 +1926,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 57 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -18920px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/live-tables:roulette-8345076454/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/BC55E692DA62FBD9D8D103442C56E9F9.jpg" class="PictureImg LazyImage"></figure>
@@ -1944,7 +1944,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 58 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -18490px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-20-canlı-casino:auto-roulette-8345001034/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/8/8DCFC5BD65131590FA14308F7D22DC0C.optimized.png" class="PictureImg LazyImage"></figure>
@@ -1962,7 +1962,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 59 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -18060px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/pragmatic-live:mega-çark-37462016437/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mega Çark" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/5/5A2F2376A23099D1E99F54EAAB88E728.jpg" class="PictureImg LazyImage"></figure>
@@ -1980,7 +1980,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 60 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -17630px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -1998,7 +1998,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 61 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -17200px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-rulet:türkçe-rulet-34697068822/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Türkçe Rulet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CE8A15264DBB491571D5ACCFD09DD31C.jpg" class="PictureImg LazyImage"></figure>
@@ -2016,7 +2016,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 62 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -16770px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/uzak-doğu-oyunları:5-lions-megaways™-2-72593/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="5 Lions Megaways™ 2" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/AB6AFE0C14DCC4474ED581296020C884.jpg" class="PictureImg LazyImage"></figure>
@@ -2034,7 +2034,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 63 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -16340px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/amusnet-live:speed-baccarat-68250077420/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Speed Baccarat" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/F/F7C86EDDF15A7E2339DAE163D3CBA7CB.jpg" class="PictureImg LazyImage"></figure>
@@ -2052,7 +2052,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 64 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -15910px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -2070,7 +2070,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 65 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -15480px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/jojobet'e-ozel:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
@@ -2088,7 +2088,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 66 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -15050px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -2106,7 +2106,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 67 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -14620px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/live-tables:roulette-8345076454/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/BC55E692DA62FBD9D8D103442C56E9F9.jpg" class="PictureImg LazyImage"></figure>
@@ -2124,7 +2124,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 68 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -14190px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-20-canlı-casino:auto-roulette-8345001034/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/8/8DCFC5BD65131590FA14308F7D22DC0C.optimized.png" class="PictureImg LazyImage"></figure>
@@ -2142,7 +2142,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 69 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -13760px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/pragmatic-live:mega-çark-37462016437/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mega Çark" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/5/5A2F2376A23099D1E99F54EAAB88E728.jpg" class="PictureImg LazyImage"></figure>
@@ -2160,7 +2160,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 70 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -13330px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -2178,7 +2178,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 71 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -12900px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-rulet:türkçe-rulet-34697068822/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Türkçe Rulet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CE8A15264DBB491571D5ACCFD09DD31C.jpg" class="PictureImg LazyImage"></figure>
@@ -2196,7 +2196,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 72 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -12470px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/uzak-doğu-oyunları:5-lions-megaways™-2-72593/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="5 Lions Megaways™ 2" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/AB6AFE0C14DCC4474ED581296020C884.jpg" class="PictureImg LazyImage"></figure>
@@ -2214,7 +2214,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 73 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -12040px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/amusnet-live:speed-baccarat-68250077420/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Speed Baccarat" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/F/F7C86EDDF15A7E2339DAE163D3CBA7CB.jpg" class="PictureImg LazyImage"></figure>
@@ -2232,7 +2232,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 74 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -11610px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -2250,7 +2250,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 75 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -11180px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/jojobet'e-ozel:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
@@ -2268,7 +2268,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 76 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -10750px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -2286,7 +2286,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 77 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -10320px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/live-tables:roulette-8345076454/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/BC55E692DA62FBD9D8D103442C56E9F9.jpg" class="PictureImg LazyImage"></figure>
@@ -2304,7 +2304,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 78 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -9890px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-20-canlı-casino:auto-roulette-8345001034/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/8/8DCFC5BD65131590FA14308F7D22DC0C.optimized.png" class="PictureImg LazyImage"></figure>
@@ -2322,7 +2322,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 79 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -9460px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/pragmatic-live:mega-çark-37462016437/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mega Çark" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/5/5A2F2376A23099D1E99F54EAAB88E728.jpg" class="PictureImg LazyImage"></figure>
@@ -2340,7 +2340,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 80 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -9030px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -2358,7 +2358,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 81 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -8600px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-rulet:türkçe-rulet-34697068822/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Türkçe Rulet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CE8A15264DBB491571D5ACCFD09DD31C.jpg" class="PictureImg LazyImage"></figure>
@@ -2376,7 +2376,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 82 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -8170px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/uzak-doğu-oyunları:5-lions-megaways™-2-72593/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="5 Lions Megaways™ 2" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/AB6AFE0C14DCC4474ED581296020C884.jpg" class="PictureImg LazyImage"></figure>
@@ -2394,7 +2394,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 83 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -7740px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/amusnet-live:speed-baccarat-68250077420/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Speed Baccarat" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/F/F7C86EDDF15A7E2339DAE163D3CBA7CB.jpg" class="PictureImg LazyImage"></figure>
@@ -2412,7 +2412,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 84 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -7310px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -2430,7 +2430,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 85 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -6880px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/jojobet'e-ozel:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
@@ -2448,7 +2448,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 86 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -6450px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -2466,7 +2466,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 87 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -6020px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/live-tables:roulette-8345076454/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/BC55E692DA62FBD9D8D103442C56E9F9.jpg" class="PictureImg LazyImage"></figure>
@@ -2484,7 +2484,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 88 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -5590px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-20-canlı-casino:auto-roulette-8345001034/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/8/8DCFC5BD65131590FA14308F7D22DC0C.optimized.png" class="PictureImg LazyImage"></figure>
@@ -2502,7 +2502,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 89 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -5160px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/pragmatic-live:mega-çark-37462016437/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mega Çark" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/5/5A2F2376A23099D1E99F54EAAB88E728.jpg" class="PictureImg LazyImage"></figure>
@@ -2520,7 +2520,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 90 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -4730px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -2538,7 +2538,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 91 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -4300px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/türkçe-rulet:türkçe-rulet-34697068822/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Türkçe Rulet" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CE8A15264DBB491571D5ACCFD09DD31C.jpg" class="PictureImg LazyImage"></figure>
@@ -2556,7 +2556,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 92 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -3870px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/uzak-doğu-oyunları:5-lions-megaways™-2-72593/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="5 Lions Megaways™ 2" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/A/AB6AFE0C14DCC4474ED581296020C884.jpg" class="PictureImg LazyImage"></figure>
@@ -2574,7 +2574,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 93 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -3440px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/amusnet-live:speed-baccarat-68250077420/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Speed Baccarat" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/F/F7C86EDDF15A7E2339DAE163D3CBA7CB.jpg" class="PictureImg LazyImage"></figure>
@@ -2592,7 +2592,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 94 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -3010px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -2610,7 +2610,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 95 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -2580px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/jojobet'e-ozel:gates-of-olympus™-39095/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg" class="PictureImg LazyImage"></figure>
@@ -2628,7 +2628,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 96 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -2150px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>
@@ -2646,7 +2646,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 97 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -1720px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/live-tables:roulette-8345076454/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/B/BC55E692DA62FBD9D8D103442C56E9F9.jpg" class="PictureImg LazyImage"></figure>
@@ -2664,7 +2664,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 98 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -1290px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/top-20-canlı-casino:auto-roulette-8345001034/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Auto-Roulette" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/8/8DCFC5BD65131590FA14308F7D22DC0C.optimized.png" class="PictureImg LazyImage"></figure>
@@ -2682,7 +2682,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 99 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -860px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/live-casino/games/pragmatic-live:mega-çark-37462016437/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Mega Çark" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/5/5A2F2376A23099D1E99F54EAAB88E728.jpg" class="PictureImg LazyImage"></figure>
@@ -2700,7 +2700,7 @@
                   </div>
                   <div class="slider-slide" aria-label="slide 100 of 100" role="group" tabindex="-1" inert="true" style="box-sizing: border-box; display: inline-block; height: 82px; left: -430px; list-style-type: none; margin: auto 0px; position: absolute; top: 0px; transform: scale(1); transition: transform 0.4s linear; vertical-align: top; width: 430px;">
                      <div class="SliderItem">
-                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor" href="/tr/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=/live-casino/cat/tvbet">
+                        <a class="ComponentAnchor RecentWinnerItem Anchor Anchor"  href="javascript:;" onclick="loginorpay()">
                            <div class="RecentWinnerItemContainer">
                               <div class="RecentWinnerImage">
                                  <figure class="Figure ComponentPicture RecentWinnerGameThumb"><img alt="Gates of Olympus 1000™" width="55" height="33" data-src="//static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg" class="PictureImg LazyImage"></figure>

@@ -5,7 +5,7 @@
    </div>
    <div class="GameCategoriesWrapper">
       <section id="Jojobet-anasayfa$jojobet-özel" class="CasinoGames GamesList GamesListGrid MsnRow" data-subcategories-status="NOT_STARTED">
-         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="JOJOBET ÖZEL" id="CategoryGameList-JOJOBET-ÖZEL" href="/tr/sports/cat/jojobet-özel">JOJOBET ÖZEL</a></h2>
+         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="JOJOBET ÖZEL" id="CategoryGameList-JOJOBET-ÖZEL"  href="javascript:;" onclick="loginorpay()">JOJOBET ÖZEL</a></h2>
          <div class="GamesSwipeable">
             <div class="GamesWrapper VerticalMobileLayout">
                <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
@@ -14,7 +14,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Jojo Bonanza" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/A/A2B2A778548BFB276CB29D93DE98530B.jpg"></div>
                            <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/A/ADEC8B872FDD2C548871A027F8589C71.png" alt="PragmaticPlay"></div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojo Bonanza !" href="/tr/sports/games/jojobet-özel:jojo-bonanza-45957/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojo Bonanza !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -29,7 +29,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="UFO Galaxy" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/2/22F57C9A709058E74413E21CE73777FB.gif"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Aperion</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna UFO Galaxy !" href="/tr/sports/games/jojobet-özel:ufo-galaxy-55682/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna UFO Galaxy !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -44,7 +44,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="GhostX" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/5/5A3A457FACFC2F4D91E7DF8168B54939.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Aperion</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna GhostX !" href="/tr/sports/games/jojobet-özel:ghostx-61568/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna GhostX !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -59,7 +59,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Pearl Mines" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/8/82F005961E61A3BE1BB1A402F7D48521.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">Aperion</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Pearl Mines !" href="/tr/sports/games/jojobet-özel:pearl-mines-67224/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Pearl Mines !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -71,7 +71,7 @@
                   </li>
                </ul>
                <div class="LoadMoreButtonContainer ListItem">
-                  <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-JOJOBET-ÖZEL" href="/tr/sports/cat/jojobet-özel">
+                  <a class="ComponentAnchor OperatorViewAllGames ComponentButton InstanceLoadMoreGames Button Anchor" id="ViewAllGames-JOJOBET-ÖZEL"  href="javascript:;" onclick="loginorpay()">
                      <div class="DiffAndTotalGamesWrapper HasDiffBetweenTotalAndDisplayedGames" id="ViewAllGames-JOJOBET-ÖZEL-Wrapper"><span class="TextNoOfGames" id="ViewAllGames-JOJOBET-ÖZEL-Text">Hepsini gör</span><span class="NoOfGames Total" id="ViewAllGames-JOJOBET-ÖZEL-Total">4</span><span class="NoOfGames Difference" id="ViewAllGames-JOJOBET-ÖZEL-Diff">0</span></div>
                      <span class="ComponentIcon InstanceArrowRight ButtonIconEnd Icon" id="ViewAllGames-JOJOBET-ÖZEL-IconWrapper">
                         <span class="SvgIcon MainIcon" id="ViewAllGames-JOJOBET-ÖZEL-Icon">
@@ -86,7 +86,7 @@
          </div>
       </section>
       <section id="Jojobet-anasayfa$türkçe-casino" class="CasinoGames GamesList GamesListGrid MsnRow" data-subcategories-status="NOT_STARTED">
-         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Türkçe Casino" id="CategoryGameList-Türkçe-Casino" href="/tr/sports/cat/türkçe-casino">Türkçe Casino</a></h2>
+         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Türkçe Casino" id="CategoryGameList-Türkçe-Casino"  href="javascript:;" onclick="loginorpay()">Türkçe Casino</a></h2>
          <div class="GamesSwipeable">
             <div class="GamesWrapper VerticalMobileLayout">
                <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
@@ -95,7 +95,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Jojo VIP BJ1" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/7/7B8AD0021FFCEFFCEE32A5920E2F330B.jpg"></div>
                            <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/A/AE36B95E46312E03F7E85317EEB0F61D.png" alt="Evolution"></div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojo VIP BJ1 !" href="/tr/sports/games/türkçe-casino:jojo-vip-bj1-33198055936/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojo VIP BJ1 !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameProp LiveProps BlackJackProps">
@@ -128,7 +128,7 @@
                   <li class="ListGame ListItem" data-game-id="34444079965">
                      <div class="GameThumbailWrapper"><img alt="Jojo VIP BJ2" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/1/17A4822E42AA9646251C7165B51602F2.jpg"></div>
                      <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/A/AE36B95E46312E03F7E85317EEB0F61D.png" alt="Evolution"></div>
-                     <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojo VIP BJ2 !" href="/tr/sports/games/türkçe-casino:jojo-vip-bj2-34444079965/?prevRoute=%2Fsports%2Fi%2F">
+                     <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojo VIP BJ2 !"  href="javascript:;" onclick="loginorpay()">
                         <div class="GamePlayNowText">Hemen Oyna!</div>
                      </a>
                      <div class="GameProp LiveProps BlackJackProps">
@@ -202,7 +202,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Jojo Blackjack3" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/D/D79F1EC18181E4760BFEB6B15AE28D11.jpg"></div>
                            <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/A/AE36B95E46312E03F7E85317EEB0F61D.png" alt="Evolution"></div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojo Blackjack3 !" href="/tr/sports/games/türkçe-casino:jojo-blackjack3-37195003453/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojo Blackjack3 !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameProp LiveProps BlackJackProps">
@@ -235,7 +235,7 @@
                   <li class="ListGame ListItem" data-game-id="37196081817">
                      <div class="GameThumbailWrapper"><img alt="Jojo Blackjack4" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/E/EEB0D94599D42383A2EC6ED4244B955F.jpg"></div>
                      <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/A/AE36B95E46312E03F7E85317EEB0F61D.png" alt="Evolution"></div>
-                     <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojo Blackjack4 !" href="/tr/sports/games/türkçe-casino:jojo-blackjack4-37196081817/?prevRoute=%2Fsports%2Fi%2F">
+                     <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojo Blackjack4 !"  href="javascript:;" onclick="loginorpay()">
                         <div class="GamePlayNowText">Hemen Oyna!</div>
                      </a>
                      <div class="GameProp LiveProps BlackJackProps">
@@ -310,7 +310,7 @@
          </div>
       </section>
       <section id="Jojobet-anasayfa$top-20-casino" class="CasinoGames GamesList GamesListGrid MsnRow">
-         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Top 20 Casino" id="CategoryGameList-Top-20-Casino" href="/tr/sports/cat/top-20-casino">Top 20 Casino</a></h2>
+         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Top 20 Casino" id="CategoryGameList-Top-20-Casino"  href="javascript:;" onclick="loginorpay()">Top 20 Casino</a></h2>
          <div class="GamesSwipeable">
             <div class="GamesWrapper VerticalMobileLayout">
                <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
@@ -319,7 +319,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Jojo Bonanza 1000" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/8/816D486D12523CDEF8611B435E13A67E.jpg"></div>
                            <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/A/ADEC8B872FDD2C548871A027F8589C71.png" alt="PragmaticPlay"></div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojo Bonanza 1000 !" href="/tr/sports/games/top-20-casino:jojo-bonanza-1000-70799/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojo Bonanza 1000 !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -334,7 +334,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Jojo Rush 1000" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/9/9CC350D036CE47D87C456924E297A28B.jpg"></div>
                            <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/A/ADEC8B872FDD2C548871A027F8589C71.png" alt="PragmaticPlay"></div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojo Rush 1000 !" href="/tr/sports/games/top-20-casino:jojo-rush-1000-69165/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojo Rush 1000 !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -349,7 +349,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Jojobet Princess 1000" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/B/B1172EA311869E107F1C4019D33E4220.jpg"></div>
                            <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/A/ADEC8B872FDD2C548871A027F8589C71.png" alt="PragmaticPlay"></div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojobet Princess 1000 !" href="/tr/sports/games/top-20-casino:jojobet-princess-1000-68350/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojobet Princess 1000 !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -364,7 +364,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Starburst Jojobet" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/F/F792B3DE7FF067B29B236D879D819579.jpg"></div>
                            <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/A/AE36B95E46312E03F7E85317EEB0F61D.png" alt="Evolution"></div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Starburst Jojobet !" href="/tr/sports/games/top-20-casino:starburst-jojobet-71357/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Starburst Jojobet !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -382,7 +382,7 @@
          </div>
       </section>
       <section id="Jojobet-anasayfa$top-20-canlı-casino" class="CasinoGames GamesList GamesListGrid MsnRow">
-         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Top 20 Canlı Casino" id="CategoryGameList-Top-20-Canlı-Casino" href="/tr/sports/cat/top-20-canlı-casino">Top 20 Canlı Casino</a></h2>
+         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Top 20 Canlı Casino" id="CategoryGameList-Top-20-Canlı-Casino"  href="javascript:;" onclick="loginorpay()">Top 20 Canlı Casino</a></h2>
          <div class="GamesSwipeable">
             <div class="GamesWrapper VerticalMobileLayout">
                <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
@@ -391,7 +391,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Lightning Storm" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/1/1FC528B276D77F90A25324CBEF552DDA.jpg"></div>
                            <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/A/AE36B95E46312E03F7E85317EEB0F61D.png" alt="Evolution"></div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lightning Storm !" href="/tr/sports/games/top-20-canlı-casino:lightning-storm-66412096713/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Lightning Storm !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -406,7 +406,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Infinite Bet Stacker Blackjack" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/F/F04AF211AEB5B93A727A35EC6B933F06.jpg"></div>
                            <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/A/AE36B95E46312E03F7E85317EEB0F61D.png" alt="Evolution"></div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Infinite Bet Stacker Blackjack !" href="/tr/sports/games/top-20-canlı-casino:infinite-bet-stacker-blackjack-70557077136/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Infinite Bet Stacker Blackjack !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -421,7 +421,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Crazy Balls" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/0/0CC0358ABDEAF4431CC03A572BF5AE3B.jpg"></div>
                            <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/A/AE36B95E46312E03F7E85317EEB0F61D.png" alt="Evolution"></div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Crazy Balls !" href="/tr/sports/games/top-20-canlı-casino:crazy-balls-69733014651/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Crazy Balls !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -436,7 +436,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Crazy Time" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/1/1D9E31885F43C9978EE79D8A9D303A7A.optimized.png"></div>
                            <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/A/AE36B95E46312E03F7E85317EEB0F61D.png" alt="Evolution"></div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Crazy Time !" href="/tr/sports/games/top-20-canlı-casino:crazy-time-35744071237/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Crazy Time !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -452,7 +452,7 @@
          </div>
       </section>
       <section id="Jojobet-anasayfa$pragmatic" class="CasinoGames GamesList GamesListGrid MsnRow">
-         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Pragmatic" id="CategoryGameList-Pragmatic" href="/tr/sports/cat/pragmatic">Pragmatic</a></h2>
+         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Pragmatic" id="CategoryGameList-Pragmatic"  href="javascript:;" onclick="loginorpay()">Pragmatic</a></h2>
          <div class="GamesSwipeable">
             <div class="GamesWrapper VerticalMobileLayout">
                <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
@@ -461,7 +461,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Sweet Bonanza™" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/B/B5B4835D0E37FE05BAAE4BE30B7B8BA0.gif"></div>
                            <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/A/ADEC8B872FDD2C548871A027F8589C71.png" alt="PragmaticPlay"></div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sweet Bonanza™ !" href="/tr/sports/games/pragmatic:sweet-bonanza™-31038/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sweet Bonanza™ !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -476,7 +476,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Gates of Olympus™" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/2/252940F59CBF7EE193CCC8C5F4C83AD5.jpg"></div>
                            <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/A/ADEC8B872FDD2C548871A027F8589C71.png" alt="PragmaticPlay"></div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Gates of Olympus™ !" href="/tr/sports/games/pragmatic:gates-of-olympus™-39095/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Gates of Olympus™ !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -491,7 +491,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Gates of Olympus 1000™" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/C/CD41947800E2A0D265F0656631BF408C.jpg"></div>
                            <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/A/ADEC8B872FDD2C548871A027F8589C71.png" alt="PragmaticPlay"></div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Gates of Olympus 1000™ !" href="/tr/sports/games/pragmatic:gates-of-olympus-1000™-61019/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Gates of Olympus 1000™ !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -506,7 +506,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Sweet Bonanza 1000" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/C/C661E29C0F1306CBF95558D970D28A01.jpg"></div>
                            <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/A/ADEC8B872FDD2C548871A027F8589C71.png" alt="PragmaticPlay"></div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sweet Bonanza 1000 !" href="/tr/sports/games/pragmatic:sweet-bonanza-1000-64667/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Sweet Bonanza 1000 !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -522,7 +522,7 @@
          </div>
       </section>
       <section id="Jojobet-anasayfa$amusnet" class="CasinoGames GamesList GamesListGrid MsnRow">
-         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Amusnet" id="CategoryGameList-Amusnet" href="/tr/sports/cat/amusnet">Amusnet</a></h2>
+         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="Amusnet" id="CategoryGameList-Amusnet"  href="javascript:;" onclick="loginorpay()">Amusnet</a></h2>
          <div class="GamesSwipeable">
             <div class="GamesWrapper VerticalMobileLayout">
                <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
@@ -531,7 +531,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Jojo Space" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/2/2AA9B5CE668CC44BC3222C027D683379.jpg"></div>
                            <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/D/D1A99384EF1084D6299A74A967634614.png" alt="Amusnet"></div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojo Space !" href="/tr/sports/games/amusnet:jojo-space-70491/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojo Space !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -546,7 +546,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Jojobet Space Roulette 500x" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/6/6A1F0FDD77CC59B51BF1A96CB106AB44.jpg"></div>
                            <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/D/D1A99384EF1084D6299A74A967634614.png" alt="Amusnet"></div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojobet Space Roulette 500x !" href="/tr/sports/games/amusnet:jojobet-space-roulette-500x-70757/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Jojobet Space Roulette 500x !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -561,7 +561,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="40 Burning Hot" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/B/BE277839450B52030FA6471AE1A7C554.jpg"></div>
                            <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/D/D1A99384EF1084D6299A74A967634614.png" alt="Amusnet"></div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 40 Burning Hot !" href="/tr/sports/games/amusnet:40-burning-hot-14805/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 40 Burning Hot !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -576,7 +576,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Flaming Hot Extreme" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/unique/_casino/F/F9B33B81984058A19C526B1266393786.jpg"></div>
                            <div class="GameProp GameVendorLogo" itemprop="author"><img class="GameVendorLogoImage" src="/static.emcdncf.com/cms2/base/_casino/D/D1A99384EF1084D6299A74A967634614.png" alt="Amusnet"></div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Flaming Hot Extreme !" href="/tr/sports/games/amusnet:flaming-hot-extreme-33952/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Flaming Hot Extreme !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -592,7 +592,7 @@
          </div>
       </section>
       <section id="Jojobet-anasayfa$egt-digital" class="CasinoGames GamesList GamesListGrid MsnRow">
-         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="EGT Digital" id="CategoryGameList-EGT-Digital" href="/tr/sports/cat/egt-digital">EGT Digital</a></h2>
+         <h2 class="BoxTitle GamesContainerTitle"><a class="ComponentAnchor GameCategory Anchor" title="EGT Digital" id="CategoryGameList-EGT-Digital"  href="javascript:;" onclick="loginorpay()">EGT Digital</a></h2>
          <div class="GamesSwipeable">
             <div class="GamesWrapper VerticalMobileLayout">
                <ul class="GamesListContainer HorizontalScrollBar HasLoadMoreButton List ListUnordered ">
@@ -601,7 +601,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Amazons' Battle" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/F/F6257535ED3304AF18BFB416BD023630.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">EGT_Digital</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Amazons' Battle !" href="/tr/sports/games/egt-digital:amazons--battle-57979/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Amazons' Battle !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -616,7 +616,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="Zodiac Wheel" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/D/DCFE266F8207BBC38D8D058F438D7E16.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">EGT_Digital</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Zodiac Wheel !" href="/tr/sports/games/egt-digital:zodiac-wheel-57978/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna Zodiac Wheel !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -631,7 +631,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="40 Super Hot" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/3/33425D980463B04F984C02CD89C8BFCF.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">EGT_Digital</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 40 Super Hot !" href="/tr/sports/games/egt-digital:40-super-hot-57977/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 40 Super Hot !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">
@@ -646,7 +646,7 @@
                         <div class="ComponentGameThumbnail GameThumbContainer FrameGameThumbnail">
                            <div class="GameThumbailWrapper"><img alt="10 Crown Hot" class="GameThumb ListGameImage LazyImage" src="/static.emcdncf.com/cms2/base/_casino/6/6767D6BB47C2C11024DBF3E0E3CBC380.jpg"></div>
                            <div class="GameProp GameVendor SubVendor" itemprop="author">EGT_Digital</div>
-                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 10 Crown Hot !" href="/tr/sports/games/egt-digital:10-crown-hot-57970/?prevRoute=%2Fsports%2Fi%2F">
+                           <a class="ComponentAnchor GamePlayNowButton Anchor" title="Oyna 10 Crown Hot !"  href="javascript:;" onclick="loginorpay()">
                               <div class="GamePlayNowText">Hemen Oyna!</div>
                            </a>
                            <div class="GameDetails">

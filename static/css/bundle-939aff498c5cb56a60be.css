@@ -6072,7 +6072,7 @@ iframe {
 .GamesSwipeable {
   display: block;
   width: 100%;
-  height: 20%;
+  height: 60%;
   padding: 0;
   flex-wrap: nowrap;
   box-sizing: border-box;
