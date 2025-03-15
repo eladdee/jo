@@ -368,7 +368,7 @@
    <div class="NavigationPanel" part="NavigationPanel">
       <div class="NavigationWindow " part="NavigationWindow ">
          <span class="ModalCloseBtn" part="ModalCloseBtn" role="button">
-            <slot name="close" part="ModalCloseBtnSlot">
+            <slot name="close" part="ModalCloseBtnSlot" onclick="openbottommenu()">
                <svg class="w-6 h-6" part="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                   <path part="ModalCloseBtnPath" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
                </svg>
@@ -443,7 +443,7 @@
             <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-jojobet/2024/10/d7323f32-jojo-ozl-tur-ham-ico-clr-2.svg" alt="35.000.000"></div>
             <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">35.000.000</p>
          </div>
-         <button class="NavigationButton " part="NavigationButton "><span part="NavigationButtonSpan"><img src="/stateless-jojobet/2024/09/edb04cde-jojo-menu-buton2.svg" class="middleIcon" alt="/stateless-jojobet/2024/09/edb04cde-jojo-menu-buton2.svg"></span></button>
+         <button class="NavigationButton " onclick="openbottommenu()" type="button" part="NavigationButton "><span part="NavigationButtonSpan"><img src="/stateless-jojobet/2024/09/edb04cde-jojo-menu-buton2.svg" class="middleIcon" alt="/stateless-jojobet/2024/09/edb04cde-jojo-menu-buton2.svg"></span></button>
       </div>
    </div>
 </div>
@@ -537,6 +537,13 @@ function loginorpay(){
    function openmenu(){
       $('#menu').toggleClass('IsActive');
       $('#menublurbg').toggleClass('dnone');
+   }
+   function openbottommenu(){
+      $('.NavigationWindow').toggleClass('NavigationWindowOpened');
+      $('.NavigationBar').toggleClass('NavigationBarOpened');
+      $('.NavigationButton').toggleClass('NavigationButtonActive');
+
+
    }
 </script>
 <div class="ModalWindow LoginModal dnone">
