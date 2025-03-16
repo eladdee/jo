@@ -144,7 +144,6 @@
                                     border-radius: 5px 5px 0 0;
                                     transition: 0.25s ease;
                                     width: 100%;
-                                    max-height: 40vh;
                                     background: #151516;
                                 }
 
