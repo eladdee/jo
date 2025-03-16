@@ -494,7 +494,7 @@
                      </div>
                   </div>
                </div>
-               <bannermatrix-banner class="BannerWidgetMainSlider BannerWidgetColorPack" operator-id="1990" webapi-realm="http://www.jojobet.com" webapi-url="wss://sportsapi.jojobet991.com/v2" page-tag="home-page" position-tag="center-main-slider" language="tr" logged-in="undefined" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="" class-name="" translate="{}"></bannermatrix-banner>
+               <bannermatrix-banner class="BannerWidgetMainSlider BannerWidgetColorPack" operator-id="1990" webapi-realm="http://www.jojobet.com" webapi-url="wss://sportsapi.jojobet1014.com/v2" page-tag="home-page" position-tag="center-main-slider" language="tr" logged-in="undefined" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="" class-name="" translate="{}"></bannermatrix-banner>
                <div class="OM-Tabs OM-Tabs--LiveUpcoming">
                   <div class="OM-Slider OM-Slider--TouchDisabled OM-Slider--ItemFullEqualWidth OM-Slider--Big10 OM-Slider--Secondary OM-Slider--LiveUpcoming">
                      <div class="OM-Slider__Bar">
