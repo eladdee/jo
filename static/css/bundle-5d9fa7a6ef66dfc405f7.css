@@ -1099,11 +1099,7 @@ body {
   line-height: 1.5em;
   --windowHeightOrDynamic: var(--windowHeight);
 }
-@supports (height: 100dvh) {
-  body {
-    --windowHeightOrDynamic: 100dvh;
-  }
-}
+
 body.IsSearching.IsScrolled {
   background: #fff;
 }
