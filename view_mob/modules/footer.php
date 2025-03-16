@@ -118,7 +118,7 @@
                                 .NavigationWrapper {
                                     background: #212529;
                                     );width: 100%;
-                                    height: 100px
+                                    height: 20px
                                 }
 
                                 .NavigationPanel {
