@@ -2149,7 +2149,7 @@
                      <button class="OM-Button OM-Button--ghost OM-Button--md MatchList__MainButton">Daha fazla</button>
                   </div>
                </div>
-               <bannermatrix-banner class="BannerWidgetAboveFooter BannerWidgetColorPack" operator-id="1990" webapi-realm="http://www.jojobet.com" webapi-url="wss://sportsapi.jojobet991.com/v2" page-tag="home-page" position-tag="center-above-footer" language="tr" logged-in="undefined" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="" class-name="" translate="{}"></bannermatrix-banner>
+               <bannermatrix-banner class="BannerWidgetAboveFooter BannerWidgetColorPack" operator-id="1990" webapi-realm="http://www.jojobet.com" webapi-url="wss://sportsapi.jojobet1014.com/v2" page-tag="home-page" position-tag="center-above-footer" language="tr" logged-in="undefined" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="" class-name="" translate="{}"></bannermatrix-banner>
             </section>
             <aside class="Sidebar Sidebar--Right">
                <div class="Sidebar__Wrapper">
@@ -2176,7 +2176,7 @@
                         </div>
                      </div>
                   </div>
-                  <bannermatrix-banner class="BannerWidgetRightUnderBetslip BannerWidgetColorPack" operator-id="1990" webapi-realm="http://www.jojobet.com" webapi-url="wss://sportsapi.jojobet991.com/v2" page-tag="home-page" position-tag="right-under-betslip" language="tr" logged-in="undefined" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="" class-name="" translate="{}"></bannermatrix-banner>
+                  <bannermatrix-banner class="BannerWidgetRightUnderBetslip BannerWidgetColorPack" operator-id="1990" webapi-realm="http://www.jojobet.com" webapi-url="wss://sportsapi.jojobet1014.com/v2" page-tag="home-page" position-tag="right-under-betslip" language="tr" logged-in="undefined" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="" class-name="" translate="{}"></bannermatrix-banner>
                   <div class="CustomContent CustomContent--bottom_right_1">
                      <div>
                         <p><img class="lazy" src="/stateless-jojobet/2019/06/7556a3a9-r13146-300x40.jpg" alt="" width="300" height="40"><br>
