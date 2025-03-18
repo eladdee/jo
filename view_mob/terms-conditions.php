@@ -1,4 +1,4 @@
-<section class="SectionContent ">
+<section class="SectionContent " style="background: #fff;">
    <div class="ContentWrapper TextPageWrapper ComponentLayout Layout CmsStaticPage">
       <span id="ch_1141585412" class="">
          <p>GENEL KURAL VE ŞARTLAR</p>

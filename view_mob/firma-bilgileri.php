@@ -1,4 +1,4 @@
-<section class="SectionContent ">
+<section class="SectionContent " style="background: #fff;">
    <div class="ContentWrapper TextPageWrapper ComponentLayout Layout CmsStaticPage">
       <span id="ch_4123390842" class="">
          <p><strong>Jojobet Hakkında</strong></p>
