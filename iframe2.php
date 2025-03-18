@@ -16,28 +16,44 @@
       <style>.ABTestHide .ABTestVariant{opacity:0!important}</style>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700|Open+Sans:400,700&amp;display=swap&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese">
       <link rel="icon" href="data:;base64,=">
-      <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"/>
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"/>
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/css/splide.min.css">
+  <!-- jQuery (isteğe bağlı, aşağıdaki kod jQuery hazır olduğunda çalışır) -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <!-- Splide JS -->
+  <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/js/splide.min.js"></script>
+  <style>
+    /* Slider içindeki resimlerin genişliği tam olsun */
+    .splide__slide img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+    /* Ok butonları için örnek stil */
+    .splide__arrow {
+      background: rgba(0, 0, 0, 0.5);
+      color: #fff;
+      border: none;
+      padding: 10px;
+      cursor: pointer;
+    }
+  </style>
 
       <link rel="import" href="https://bannermatrix.nwacdn.com/assets/widgets/0.22.6/index.html">
       <meta name="description" content="Spor Bahisleri" data-react-helmet="true">
       <meta name="keywords" content="Spor Bahisleri" data-react-helmet="true">
       <script>
+    // jQuery hazır olduğunda Splide slider'ı başlatıyoruz
     $(document).ready(function(){
-      $('#ul_slide').slick({
-        infinite: true,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        autoplay: true,
-        autoplaySpeed: 3000,
-        pauseOnHover: true,
-        arrows: true,
-        dots: true,
-        prevArrow: $('.slick-prev'),
-        nextArrow: $('.slick-next')
+      var splide = new Splide('#primary-slider', {
+        type       : 'loop',      // Sonsuz döngü
+        perPage    : 1,           // Aynı anda 1 slayt göster
+        autoplay   : true,        // Otomatik oynatma
+        interval   : 3000,        // 3000 ms (3 saniye) aralık
+        pauseOnHover: true,       // Fare üzerine gelince duraksat
+        arrows     : true,        // Ok butonlarını aktif et
+        pagination : true         // Nokta navigasyonunu aktif et
       });
+      splide.mount();
     });
   </script>
    </head>
