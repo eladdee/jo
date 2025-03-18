@@ -1,1 +1,0 @@
-<iframe id="SportsIframe" scrolling="no" class="SportsIframe" title="Sports Iframe" src="https://sports2.holiganbet1086.com/tr?basePath=https%3A%2F%2Fwww.holiganbet1086.com%2Ftr%2Fsports%2Fi" allow="autoplay;fullscreen;web-share" style="height: 3166px;"></iframe>
