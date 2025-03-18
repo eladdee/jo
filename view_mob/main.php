@@ -1,9 +1,7 @@
-<section class="SectionContent " style="
-    background: #fff;
-">
+<section class="SectionContent ">
    <div class="SportsIframeWrapper">
       <div class="DropDownBackground"></div>
-      <iframe id="SportsIframe" scrolling="no" class="SportsIframe" title="Sports Iframe" src="/iframe2.php" allow="autoplay;fullscreen;web-share" style="height: 3177px;"></iframe>
+      <iframe id="SportsIframe" scrolling="no" class="SportsIframe" title="Sports Iframe" src="/iframe2.php" allow="autoplay;fullscreen;web-share" style="height: 2957px;"></iframe>
    </div>
    <div class="BetslipWrapper">
       <div class="BetslipContent">

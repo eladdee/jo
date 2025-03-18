@@ -152,7 +152,7 @@
                      </div>
                   </div>
                </div>
-               <bannermatrix-banner class="BannerWidgetMainSlider BannerWidgetColorPack" operator-id="1990" webapi-realm="http://www.jojobet.com" webapi-url="wss://sportsapi.jojobet1013.com/v2" page-tag="home-page" position-tag="center-main-slider" language="tr" logged-in="false" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="" class-name="" translate="{}">
+               <bannermatrix-banner class="BannerWidgetMainSlider BannerWidgetColorPack" operator-id="1990" webapi-realm="http://www.jojobet.com" webapi-url="wss://sportsapi.jojobet1015.com/v2" page-tag="home-page" position-tag="center-main-slider" language="tr" logged-in="false" active-betting-offers="[]" event-id="" tournament-id="" em-user-id="" em-user-roles="[]" em-user-session="" class-name="" translate="{}">
                <style scope="bannermatrix-banner">.fullwidth {
                width:100%;
                }
