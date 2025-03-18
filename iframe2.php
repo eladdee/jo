@@ -16,34 +16,30 @@
       <style>.ABTestHide .ABTestVariant{opacity:0!important}</style>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700|Open+Sans:400,700&amp;display=swap&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese">
       <link rel="icon" href="data:;base64,=">
-             <!-- Slick CSS -->
-             <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
-      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+      <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"/>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"/>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
 
-      <!-- jQuery (slick için gereklidir) -->
-      <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-      <!-- Slick JS -->
-      <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
       <link rel="import" href="https://bannermatrix.nwacdn.com/assets/widgets/0.22.6/index.html">
       <meta name="description" content="Spor Bahisleri" data-react-helmet="true">
       <meta name="keywords" content="Spor Bahisleri" data-react-helmet="true">
       <script>
-         $(document).ready(function(){
-  $('#ul_slide').slick({
-    infinite: true,          // Sonsuz döngü
-    slidesToShow: 1,         // Aynı anda gösterilen slayt sayısı
-    slidesToScroll: 1,       // Her kaydırmada ilerleme adımı
-    autoplay: true,          // Otomatik oynatma
-    autoplaySpeed: 3000,     // Otomatik oynatma hızı (milisaniye)
-    pauseOnHover: true,      // Fare üzerine gelince duraklat
-    arrows: true,            // Ok butonlarını aktif et
-    dots: true,              // Nokta navigasyonu
-    prevArrow: $('.splide__arrow--prev'),
-    nextArrow: $('.splide__arrow--next')
-  });
-});
-
-      </script>
+    $(document).ready(function(){
+      $('#ul_slide').slick({
+        infinite: true,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 3000,
+        pauseOnHover: true,
+        arrows: true,
+        dots: true,
+        prevArrow: $('.slick-prev'),
+        nextArrow: $('.slick-next')
+      });
+    });
+  </script>
    </head>
    <body class="Lang-tr PartialSsr Mobile IOs Safari Page-Home">
       <div id="MainContainer">
