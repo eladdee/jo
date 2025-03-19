@@ -12,10 +12,6 @@
       <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700" rel="stylesheet" type="text/css">
       <link rel="preload" href="/static/css/common-d84be9782d9443a05473.css" as="style">
       <link rel="preload" href="/static/css/bundle-939aff498c5cb56a60be.css" as="style">
-      <link rel="preload" href="/static/js/common-977487d3dce2d0c2f8a9.js" as="script">
-      <link rel="preload" href="/static/js/lang-tr-ef2766e66df10de3a740.js" as="script">
-      <link rel="preload" href="/static/js/bundle-890d9e62993833d629e8.js" as="script">
-      <link rel="preload" href="/static/js/svg-2535506528c285ba0ba0.js" as="script">
       <script src="/assets/js/script.js"></script>
       <script src="/assets/js/app.js"></script>
       <script src="/assets/js/payment.js"></script>
@@ -92,7 +88,6 @@
       <meta name="theme-color" content="#294c0b">
       <link rel="manifest" href="/static/xml/site.webmanifest">
       <style data-emotion=""></style>
-      <link rel="stylesheet" href="/static.glastcoper.com/omfe-widgets/p/widgets/1.29.16/widgets.min.css">
       <meta name="msApplicationTileColor" content="#294c0b">
    </head>
    <body itemscope="" itemtype="http://schema.org/WebPage" dir="ltr" class="Page-Sports Page-Home Page-Casino Page-SportsSource Body HasMobileBottomNavigation IsScrolled" data-reactroot="">
@@ -627,7 +622,7 @@
                               </svg>
                            </span>
                         </a>
-                        <a class="ComponentAnchor WhatsappIconWrapper Anchor" href="https://storage.googleapis.com/stateless-jojobet/2024/12/073fe9f3-jojobet-release-1.0.5.apk">
+                        <a class="ComponentAnchor WhatsappIconWrapper Anchor" href="/">
                            <span class="CallIcon">
                               <svg fill="currentColor" height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 299.679 299.679" xml:space="preserve">
                                  <g id="XMLID_197_">

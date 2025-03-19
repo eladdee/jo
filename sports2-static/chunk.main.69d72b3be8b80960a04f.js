@@ -1,2 +1,0 @@
-!function(e,o){"object"==typeof exports&&"object"==typeof module?module.exports=o():"function"==typeof define&&define.amd?define([],o):"object"==typeof exports?exports["OMFE2-App"]=o():e["OMFE2-App"]=o()}(window,(function(){return(window.webpackJsonpOMFE2_App=window.webpackJsonpOMFE2_App||[]).push([[11],[],[[880,12,105,98]]])}));
-//# sourceMappingURL=chunk.main.69d72b3be8b80960a04f.js.map

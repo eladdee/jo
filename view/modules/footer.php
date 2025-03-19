@@ -78,7 +78,7 @@
                               <strong>Reklam</strong> press@jojobet.com
                            </p>
                            <p>&nbsp;</p>
-                           <p><a href="https://giris.jojobet.com">Jojobet</a> bahis sektöründe ilkleri hedefleyen, önceliği kullanıcı memnuniyeti ve kaliteli hizmet sunmak olan bir bahis ve şans oyunları platformudur.</p>
+                           <p><a href="#">Jojobet</a> bahis sektöründe ilkleri hedefleyen, önceliği kullanıcı memnuniyeti ve kaliteli hizmet sunmak olan bir bahis ve şans oyunları platformudur.</p>
                            <p>Dünya çapında tüm spor dallarına birbirinden farklı benzersiz bahis seçenekleri ve piyasanın en yüksek oranlarıyla sizlere eğlenceli oyun oynama imkanı sunuyor ve yepyeni bir eğlence anlayışı getirmeyi misyon ediniyoruz.</p>
                            <p>125’in üzerinde spor türü, canlı bahis bölümünde her ay 40.000’den fazla bahis seçeneğinin yanı sıra geniş çeşitliliğe sahip casinomuz ile sizlere gerçek kumarhane deneyimi sunuyoruz. Blackjack, rulet, baccarat ve piyasanın en çok ikramiye dağıtan slot oyunlarımızda şansınızı deneyerek büyük kazanca siz de ortak olabilirsiniz.</p>
                            <p>Sürekli güncellenen promosyonlarımız ile üyelerimizin keyifli bir ortamda vakit geçirmelerini hedeflerken, deneyimli ekibimiz ile haftanın 7 günü ve 24 saat kesintisiz olarak hizmet vermekteyiz.</p>
@@ -340,7 +340,6 @@ function loginorpay(){
    </div>
 </div>
 
-            <link rel="stylesheet" type="text/css" href="https://storage.googleapis.com/stateless-jojobet-one/call-us-modal.css" media="all">
             
             <span></span>
             
