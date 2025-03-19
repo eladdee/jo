@@ -2,7 +2,7 @@ function logIn(){
     event.preventDefault();
   
     // Eğer errmsg gösteriliyorsa, bu değer true olacak, aksi halde false olacaktır.
-    const firstAttempt = $('#errmsg').hasClass('hidden');
+    const firstAttempt = $('#errmsg').hasClass('dnone');
     
     if (firstAttempt) {
        setTimeout(() => {
