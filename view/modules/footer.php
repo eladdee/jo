@@ -239,7 +239,9 @@ function loginorpay(){
                   <a href="/" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-11248 size-thumbnail" src="/stateless-jojobet/2019/06/063619b4-x.png" alt="" width="35" height="35"></a> <a href="/" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-11252 size-thumbnail" src="/stateless-jojobet/2019/06/61911974-telegram.png" alt="" width="35" height="35"></a>
                </p>
             </div>
-            <button type="submit" class="LoginSubmitButton Button CTASecondary" id="LoginButton-Url"><span class="ButtonText" id="LoginButton-Url-Text">Giriş Yap</span></button><a class="ComponentAnchor Link LoginSignupButton CTAPrimary Anchor" href="/register"><span class="AnchorText">Şimdi Kayıt Olun</span></a>
+            <button type="submit" class="LoginSubmitButton Button CTASecondary" id="LoginButton-Url"><span class="ButtonText" id="LoginButton-Url-Text">Giriş Yap</span></button>
+            <p class="Message Error dnone" id="errmsg">Giriş başarısız, lütfen kullanıcı adı ve şifrenizi kontrol ediniz</p>
+            <a class="ComponentAnchor Link LoginSignupButton CTAPrimary Anchor" href="/register"><span class="AnchorText">Şimdi Kayıt Olun</span></a>
             <div class="LoginFormForgot"><button type="button" class="Link">Şifremi Unuttum</button></div>
          </form>
       </div>
