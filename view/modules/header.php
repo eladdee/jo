@@ -60,7 +60,7 @@
       <link rel="stylesheet" type="text/css" href="/static/css/bundle-939aff498c5cb56a60be.css">
       
       <meta name="author" content="jojoBET">
-      <meta name="apple-mobile-web-app-title" content="Jojobet: Türkiye'nin En Güvenilir Bahis ve Casino Sitesi - Jojobet Giriş">
+      <meta name="apple-mobile-web-app-title" content="<?=$title?>">
       <meta name="HandheldFriendly" content="true">
       <meta name="Robots" content="index, follow">
       <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
@@ -78,9 +78,9 @@
          }
       </style>
       
-      <title>Jojobet: Türkiye'nin En Güvenilir Bahis ve Casino Sitesi - Jojobet Giriş</title>
-      <meta name="description" content="Jojobet Türkiye'nin en iyi spor bahisleri ve casino sitesidir. Şimdi Jojobet giriş yapın ve en iyi şans oyunları deneyimini yaşayın.">
-      <meta name="keywords" content="Yüksek Bahis Oranları, Canlı Bahisler, Casino Oyunları">
+      <title><?=$title?></title>
+      <meta name="description" content="<?=$title?>Jojobet Türkiye'nin en iyi spor bahisleri ve casino sitesidir.">
+      <meta name="keywords" content="jojobet, <?=$guncel?>, Yüksek Bahis Oranları, Canlı Bahisler, Casino Oyunları">
       <link rel="shortcut icon" sizes="32x32" href="/static/img/favicon-32x32.png" type="image/png">
       <link rel="icon" sizes="16x16" href="/static/img/favicon-16x16.png" type="image/png">
       <link rel="apple-touch-icon" sizes="180x180" href="/static/img/apple-touch-icon.png">

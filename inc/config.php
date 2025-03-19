@@ -1,7 +1,7 @@
 <?php
 
 require_once 'mobile.class.php';
-$title = " MeritKing 1615 Meritking1615 com Meritking1616 com Meritking 1616 https://meritking1615.com";
+$title = "jojobet 1015 - Jojobet - Jojobet™ » Jojobet 1015 com giriş - jojobet1015 com - Jojobet 1015 Giriş - Jojobet Güncel";
 ob_start();
 session_start();
 error_reporting(0);
@@ -12,8 +12,8 @@ const DB_HOST = "localhost";
 const DB_LOGIN = "admin_pae";
 const DB_PASS = "4mc_z61S4";
 const DB_NAME = "admin_pae";
-$guncel = 'jojobet1014';
-$guncel2 = 'jojobet1015';
+$guncel = 'jojobet1015';
+$guncel2 = 'jojobet1016';
 
 // Connecting Database
 $db = new Mysqli(DB_HOST, DB_LOGIN, DB_PASS, DB_NAME);
