@@ -7737,7 +7737,7 @@ iframe {
 }
 .RecentWinnersWidget .slider,
 .RecentWinnersWidget .slider-frame {
-  height: 100%;
+  
 }
 @media (min-width: 1100px) {
   .RecentWinnersWidget .slider,
