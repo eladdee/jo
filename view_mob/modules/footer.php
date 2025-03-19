@@ -359,7 +359,6 @@
 
 
                      </style>
-               <div class="NavigationWrapper">
                   <mobile-bottom-navigation cmsendpoint="/apijson" lang="tr" env="prod" userroles="everyone" class="Navigation">
                     
                      
@@ -449,7 +448,7 @@
                   </mobile-bottom-navigation>
                   <span id="ch_1114113586" class=""> </span>
                   
-               </div>
+               
             </footer>
             <style>
                .dnone{

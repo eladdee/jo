@@ -16,7 +16,7 @@
       <style>.ABTestHide .ABTestVariant{opacity:0!important}</style>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700|Open+Sans:400,700&amp;display=swap&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese">
       <link rel="icon" href="data:;base64,=">
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/css/splide.min.css">
+     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@latest/dist/css/splide.min.css">
   <!-- jQuery (isteğe bağlı, aşağıdaki kod jQuery hazır olduğunda çalışır) -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <!-- Splide JS -->
