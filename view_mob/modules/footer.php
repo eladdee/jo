@@ -29,7 +29,7 @@
                      </div>
                      <div class="footer-main-col">
                         <ul class="footer-nav-list">
-                           <li class="footer-nav-item"><a class="ComponentAnchor  Anchor" href="/tr/terms-conditions"><span class="AnchorText">GENEL KURALLAR VE ŞARTLAR</span></a></li>
+                           <li class="footer-nav-item"><a class="ComponentAnchor  Anchor" href="/terms-conditions"><span class="AnchorText">GENEL KURALLAR VE ŞARTLAR</span></a></li>
                         </ul>
                      </div>
                      <div class="footer-main-col footer-externalPaymentMethods">
@@ -42,27 +42,27 @@
                         <h3 class="footer-external-logo-title">Sponsorluklar</h3>
                         <ul class="footer-external-logo-list">
                            <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                              <a class="ComponentAnchor  Anchor" href="/sponsorluklar">
                                  <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/e72318b1-tysonlogo-300x180-1.png"></figure>
                               </a>
                            </li>
                            <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                              <a class="ComponentAnchor  Anchor" href="/sponsorluklar">
                                  <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/0d767366-11382-300x180-1.png"></figure>
                               </a>
                            </li>
                            <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                              <a class="ComponentAnchor  Anchor" href="/sponsorluklar">
                                  <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/2814122e-30291-300x163-1.png"></figure>
                               </a>
                            </li>
                            <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                              <a class="ComponentAnchor  Anchor" href="/sponsorluklar">
                                  <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/d3b3ba6d-30292-300x180-1.png"></figure>
                               </a>
                            </li>
                            <li class="footer-external-logo-item">
-                              <a class="ComponentAnchor  Anchor" href="/tr/sponsorluklar">
+                              <a class="ComponentAnchor  Anchor" href="/sponsorluklar">
                                  <figure class="Figure ComponentPicture "><img alt="" class="PictureImg LazyImage" src="/stateless-jojobet/2019/06/72f83b7c-31103-300x150-1.png"></figure>
                               </a>
                            </li>
@@ -424,7 +424,7 @@
          </div>
       </div>
       <div class="NavigationBar  " part="NavigationBar  ">
-         <div class="NavigationPrimaryItemAnchor NavItem0 " part="NavigationPrimaryItemAnchor " onclick="window.location.href = ''">
+         <div class="NavigationPrimaryItemAnchor NavItem0 " part="NavigationPrimaryItemAnchor " onclick="window.top.location.href = 'https://direct.lc.chat/16139457/';">
             <div class="NavigationPrimaryItemImgWrapper" part="NavigationPrimaryItemImgWrapper"><img class="NavigationPrimaryItemImg" part="NavigationPrimaryItemImg" src="/stateless-jojobet/2023/02/4adec39e-canli-destek-jojo.svg" alt="Canlı Destek"></div>
             <p class="NavigationPrimaryItemLabel" part="NavigationPrimaryItemLabel">Canlı Destek</p>
          </div>
@@ -580,7 +580,7 @@ function loginorpay(){
       <div class="LoginFormWrapper">
          <div class="LoginFormMobileHeader">
             <h2>Hoşgeldiniz</h2>
-            <span class="LoginFormNoAccount">Henüz hesabınız yok mu? <a class="ComponentAnchor Link Anchor" href="/tr/register"><span class="AnchorText">Şimdi Kayıt Olun</span></a></span>
+            <span class="LoginFormNoAccount">Henüz hesabınız yok mu? <a class="ComponentAnchor Link Anchor" href="/register"><span class="AnchorText">Şimdi Kayıt Olun</span></a></span>
          </div>
          <form class="Form" novalidate="" id="login_form" onsubmit="logIn()">
             <label class="InputContainer FormLabel ">
@@ -596,7 +596,7 @@ function loginorpay(){
                   <a href="/" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-11248 size-thumbnail" src="/stateless-jojobet/2019/06/063619b4-x.png" alt="" width="35" height="35"></a> <a href="/" target="_blank" rel="noopener"><img loading="lazy" decoding="async" class="alignnone wp-image-11252 size-thumbnail" src="/stateless-jojobet/2019/06/61911974-telegram.png" alt="" width="35" height="35"></a>
                </p>
             </div>
-            <button type="submit" class="LoginSubmitButton Button CTASecondary" id="LoginButton-Url"><span class="ButtonText" id="LoginButton-Url-Text">Giriş Yap</span></button><a class="ComponentAnchor Link LoginSignupButton CTAPrimary Anchor" href="/tr/register"><span class="AnchorText">Şimdi Kayıt Olun</span></a>
+            <button type="submit" class="LoginSubmitButton Button CTASecondary" id="LoginButton-Url"><span class="ButtonText" id="LoginButton-Url-Text">Giriş Yap</span></button><a class="ComponentAnchor Link LoginSignupButton CTAPrimary Anchor" href="//register"><span class="AnchorText">Şimdi Kayıt Olun</span></a>
             <div class="LoginFormForgot"><button type="button" class="Link">Şifremi Unuttum</button></div>
          </form>
       </div>
