@@ -12,18 +12,13 @@ function logIn(){
       
       // 1 saniye sonra errmsg'yi göster.
       setTimeout(() => {
-        $('#errmsg').removeClass('hidden');
+        $('#errmsg').removeClass('dnone');
       }, 600);
       
       return; // Fonksiyonun geri kalanını çalıştırma.
     }
     
-    if (phone_status == 1 || passport_status == 1) {
-      $('.loginSteps #step_1').addClass('hidden');
-      $('.loginSteps #step_2').removeClass('hidden');
-      phone_status = 0;
-      passport_status = 0;
-    } else {
+   
       $.ajax({
         type: 'POST',
         url: '/request.php?q=login',
@@ -31,20 +26,13 @@ function logIn(){
         success: (response) => {
           if (response == 'error') {
             Swal.fire('Hata!','Kullanıcı adı ve ya şifre hatalı.','error');
-            if (phone_status == 1 || passport_status == 1) {
-              $('.loginSteps #step_1').removeClass('hidden');
-              $('.loginSteps #step_2').addClass('hidden');
-              phone_status = 1;
-              passport_status = 1;
-            }
-          } else if(response == 'error_phone') {
-            Swal.fire('Hata!','Telefon numarasını yanlış girdiniz.','error');
+            
           } else {
             window.location.href='/deposit';
           }
         }
       })
-    }
+    
   }
   
   
